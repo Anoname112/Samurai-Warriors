@@ -1,0 +1,73 @@
+* {
+	margin: 0;
+	padding: 0;
+	font-family: "Segoe UI", "Tahoma", "Trebuchet MS", "Verdana";
+	font-size: 13px;
+}
+
+body {
+	position: relative;
+}
+
+#container {
+	position: absolute;
+	left: 50%;
+	transform: translate(-50%, 0);
+	text-align: center;
+}
+
+.warrior {
+	margin: 4px;
+	border-radius: 4px;
+	background-color: #777;
+	width: 300px;
+	padding: 4px;
+}
+
+.name {
+	padding: 4px;
+	border-radius: 4px;
+	background-color: #999;
+	font-size: 15px;
+	font-weight: bold;
+	color: #FFF;
+}
+
+.weapon {
+	margin: 4px;
+	padding: 4px;
+	border-radius: 4px;
+	background-color: #AAA;
+}
+
+.wName {
+	padding: 4px;
+	border-radius: 4px;
+	background-color: #DDD;
+	font-weight: bold;
+}
+
+.wDesc {
+	margin: 4px;
+	padding: 4px;
+	background-color: #DDD;
+}
+
+.wImage {
+	
+}
+
+.stats {
+	padding: 4px;
+	border-radius: 4px;
+	background-color: #DDD;
+}
+
+.stat {
+	display: inline-block;
+	margin: 4px;
+	padding: 4px;
+	border-radius: 4px;
+	background-color: #EEE;
+	font-size: 12px;
+}
