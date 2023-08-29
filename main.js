@@ -4,7 +4,7 @@ const warriors = {
 	'Yukimura': [
 		{
 			'Name': "Dragon's Tail",
-			'Image': 'image/4th-Yukimura.webp',
+			'Image': '4th-Yukimura.webp',
 			'Base': 45,
 			'Element': 'Fire',
 			'Stats': [
@@ -16,7 +16,7 @@ const warriors = {
 			]
 		}, {
 			'Name': "Tiger's Blood",
-			'Image': 'image/5th-Yukimura.webp',
+			'Image': '5th-Yukimura.webp',
 			'Base': 45,
 			'Element': 'Lightning',
 			'Stats': [
@@ -30,7 +30,7 @@ const warriors = {
 	'Keiji': [
 		{
 			'Name': "Divine Mandible",
-			'Image': 'image/4th-Keiji.webp',
+			'Image': '4th-Keiji.webp',
 			'Base': 50,
 			'Element': 'Lightning',
 			'Stats': [
@@ -41,7 +41,7 @@ const warriors = {
 			]
 		}, {
 			'Name': "Winged Serpent",
-			'Image': 'image/5th-Keiji.webp',
+			'Image': '5th-Keiji.webp',
 			'Base': 50,
 			'Element': 'Fire',
 			'Stats': [
@@ -77,7 +77,7 @@ window.onload = function () {
 						<div class="wName">` + warriors[i][j].Name + `</div>
 					</div>
 					<div class="wDesc">
-						<div class="wImage"><img src="` + warriors[i][j].Image + `"></div>
+						<div class="wImage"><img src="image/` + warriors[i][j].Image + `" alt="` + warriors[i][j].Image + `"></div>
 						<div style="color: ` + eleColor(warriors[i][j].Element) + `;"><b>` + warriors[i][j].Element + `</b></div>
 						Base Attack: ` + warriors[i][j].Base + `
 					</div>
