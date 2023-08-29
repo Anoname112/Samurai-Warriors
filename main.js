@@ -51,13 +51,42 @@ const warriors = {
 				"Range: 35"
 			]
 		}
+	],
+	'Nobunaga': [
+		{
+			'Name': "Demon Regalia",
+			'Image': '4th-Nobunaga.webp',
+			'Base': 46,
+			'Element': 'Wind',
+			'Stats': [
+				"Musou: 18",
+				"Attack: 35",
+				"Defense: 16",
+				"Musou Charge: 33",
+				"Speed: 18",
+				"Range: 19"
+			]
+		}, {
+			'Name': "Muramasa",
+			'Image': '5th-Nobunaga.webp',
+			'Base': 46,
+			'Element': 'Demon',
+			'Stats': [
+				"Musou: 57",
+				"Musou Charge: 39",
+				"Range: 57"
+			]
+		}
 	]
 };
 
 function eleColor (color) {
 	switch (color) {
-		case 'Fire': return '#990000';
-		case 'Lightning': return '#999900';
+		case 'Fire': return '#9C0000';
+		case 'Lightning': return '#9C9C00';
+		case 'Ice': return '#1C2B9C';
+		case 'Wind': return '#1C9C38';
+		case 'Demon': return '#771C9C';
 	}
 	return '#000';
 }
