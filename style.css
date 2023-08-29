@@ -31,7 +31,7 @@ body {
 .name {
 	padding: 4px;
 	border-radius: 4px;
-	background-color: #929292;
+	background-color: #8A8A8A;
 	font-size: 15px;
 	font-weight: bold;
 	color: #FFFFFF;
@@ -47,34 +47,35 @@ body {
 	gap: 4px;
 }
 
+.weapon div {
+	border-radius: 4px;
+}
+
 .wName {
 	padding: 4px;
-	border-radius: 4px;
-	background-color: #DDDDDD;
+	background-color: #E5E5E5;
 	font-weight: bold;
 }
 
 .wDesc {
 	padding: 4px;
-	border-radius: 4px;
-	background-color: #DDDDDD;
+	background-color: #E5E5E5;
 }
 
 .wImage img {
+	width: 90px;
 	height: 68px;
 }
 
 .stats {
 	padding: 4px;
-	border-radius: 4px;
-	background-color: #DDDDDD;
+	background-color: #E5E5E5;
 }
 
 .stat {
 	display: inline-block;
 	margin: 4px;
 	padding: 4px;
-	border-radius: 4px;
-	background-color: #EEEEEE;
+	background-color: #F8F8F8;
 	font-size: 12px;
 }
