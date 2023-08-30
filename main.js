@@ -65,6 +65,34 @@ const warriors = {
 	],
 	'Keiji': [
 		{
+			'Game': 'SW',
+			'Name': "Izanagi",
+			'Rank': 5,
+			'Base': 50,
+			'Element': 'Lightning',
+			'Stats': [
+				"Life: 50",
+				"Attack: 46",
+				"Mounted Attack: 44",
+				"Musou Charge: 25"
+			],
+			'Stage': 'Challenge of Kawanakajima',
+			'Requirement': 'Defeat all the enemy officers and sub-officers by yourself. (note: if one of the sub-officers withdraws or any of the officers is defeated by one of your allies, the item is lost). The supply team will appear in the south-east and head north.'
+		}, {
+			'Game': 'SW',
+			'Name': "Ni-Oh Pike",
+			'Rank': 6,
+			'Base': 60,
+			'Element': 'Lightning',
+			'Stats': [
+				"Life: 50",
+				"Musou: 30",
+				"Attack: 75",
+				"Defense: 56"
+			],
+			'Stage': 'Dance of Kyoto',
+			'Requirement': 'Defeat 2,000 enemies.'
+		}, {
 			'Game': 'SW2',
 			'Name': "Divine Mandible",
 			'Rank': 4,
