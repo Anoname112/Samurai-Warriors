@@ -239,7 +239,7 @@ const warriors = {
 				"Range: 37"
 			],
 			'Stage': 'Battle of Yamazaki',
-			'Requirement': 'In 5 minutes defeat Mitsunari, take Mt. Tenno and then defeat both Magoichi Saika and Nene.'
+			'Requirement': 'In 5 minutes defeat Mitsunari, take Mt. Tenno, and then defeat both Magoichi Saika and Nene.'
 		}
 	]
 };
