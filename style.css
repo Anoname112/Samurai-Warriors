@@ -19,7 +19,7 @@ body {
 .warrior {
 	margin: 4px;
 	border-radius: 4px;
-	background-color: #777777;
+	background-color: #737373;
 	width: 300px;
 	padding: 4px;
 	display: flex;
@@ -31,7 +31,7 @@ body {
 .name {
 	padding: 4px;
 	border-radius: 4px;
-	background-color: #8A8A8A;
+	background-color: #454545;
 	font-size: 15px;
 	font-weight: bold;
 	color: #FFFFFF;
@@ -40,7 +40,7 @@ body {
 .weapon {
 	padding: 4px;
 	border-radius: 4px;
-	background-color: #AAAAAA;
+	background-color: #B3B3B3;
 	display: flex;
 	flex-direction: column;
 	justify-content: space-evenly;
@@ -53,13 +53,13 @@ body {
 
 .wName {
 	padding: 4px;
-	background-color: #E5E5E5;
+	background-color: #EAEAEA;
 	font-weight: bold;
 }
 
 .wDesc {
 	padding: 4px;
-	background-color: #E5E5E5;
+	background-color: #EAEAEA;
 }
 
 .wImage img {
@@ -69,7 +69,7 @@ body {
 
 .stats {
 	padding: 4px;
-	background-color: #E5E5E5;
+	background-color: #EAEAEA;
 }
 
 .stat {

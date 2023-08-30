@@ -107,10 +107,10 @@ const warriors = {
 
 function eleColor (color) {
 	switch (color) {
-		case 'Fire': return '#9C0000';
-		case 'Lightning': return '#9C9C00';
-		case 'Ice': return '#1C2B9C';
-		case 'Wind': return '#1C9C38';
+		case 'Fire': return '#9F0000';
+		case 'Lightning': return '#706D00';
+		case 'Ice': return '#2534C0';
+		case 'Wind': return '#167928';
 		case 'Demon': return '#771C9C';
 	}
 	return '#000';
