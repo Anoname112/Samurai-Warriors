@@ -4,7 +4,7 @@ const warriors = {
 	'Yukimura': [
 		{
 			'Name': "Dragon's Tail",
-			'Image': '4th-Yukimura.webp',
+			'Rank': 4,
 			'Base': 45,
 			'Element': 'Fire',
 			'Stats': [
@@ -16,7 +16,7 @@ const warriors = {
 			]
 		}, {
 			'Name': "Tiger's Blood",
-			'Image': '5th-Yukimura.webp',
+			'Rank': 5,
 			'Base': 45,
 			'Element': 'Lightning',
 			'Stats': [
@@ -30,7 +30,7 @@ const warriors = {
 	'Keiji': [
 		{
 			'Name': "Divine Mandible",
-			'Image': '4th-Keiji.webp',
+			'Rank': 4,
 			'Base': 50,
 			'Element': 'Lightning',
 			'Stats': [
@@ -41,7 +41,7 @@ const warriors = {
 			]
 		}, {
 			'Name': "Winged Serpent",
-			'Image': '5th-Keiji.webp',
+			'Rank': 5,
 			'Base': 50,
 			'Element': 'Fire',
 			'Stats': [
@@ -55,7 +55,7 @@ const warriors = {
 	'Nobunaga': [
 		{
 			'Name': "Demon Regalia",
-			'Image': '4th-Nobunaga.webp',
+			'Rank': 4,
 			'Base': 46,
 			'Element': 'Wind',
 			'Stats': [
@@ -68,13 +68,38 @@ const warriors = {
 			]
 		}, {
 			'Name': "Muramasa",
-			'Image': '5th-Nobunaga.webp',
+			'Rank': 5,
 			'Base': 46,
 			'Element': 'Demon',
 			'Stats': [
 				"Musou: 57",
 				"Musou Charge: 39",
 				"Range: 57"
+			]
+		}
+	],
+	'Mitsuhide': [
+		{
+			'Name': "Gilded Talon",
+			'Rank': 4,
+			'Base': 45,
+			'Element': 'Lightning',
+			'Stats': [
+				"Musou: 36",
+				"Attack: 34",
+				"Defense: 35",
+				"Range: 37"
+			]
+		}, {
+			'Name': "Liberator",
+			'Rank': 5,
+			'Base': 45,
+			'Element': 'Wind',
+			'Stats': [
+				"Attack: 39",
+				"Speed: 35",
+				"Dexterity: 36",
+				"Range: 37"
 			]
 		}
 	]
@@ -106,7 +131,7 @@ window.onload = function () {
 						<div class="wName">` + warriors[i][j].Name + `</div>
 					</div>
 					<div class="wDesc">
-						<div class="wImage"><img src="image/` + warriors[i][j].Image + `" alt="` + warriors[i][j].Image + `"></div>
+						<div class="wImage"><img src="image/` + warriors[i][j].Rank + `th-` + i + `.webp" alt="` + i + ` ` + warriors[i][j].Rank + `th Weapon"></div>
 						<div style="color: ` + eleColor(warriors[i][j].Element) + `;"><b>` + warriors[i][j].Element + `</b></div>
 						Base Attack: ` + warriors[i][j].Base + `
 					</div>
