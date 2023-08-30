@@ -1,6 +1,7 @@
 var filter;
 var game;
 var container;
+var popup;
 
 const warriors = {
 	'Yukimura': [
@@ -118,12 +119,40 @@ const warriors = {
 				"Musou Charge: 36",
 				"Range: 35"
 			],
-			'Stage': '',
-			'Requirement': ''
+			'Stage': 'Gaiden Stage',
+			'Requirement': 'Keep Yukimura and Kanetugu alive. Within 10 minutes from start, defeat Hanzo, Musashi, Kojiro, Yoshihiro, and Masamune. Kojiro and Musashi spawns at south town area, Yoshihiro and Masamune spawns when you defeat Musashi and Kojiro, then move to SW gate.'
 		}
 	],
 	'Nobunaga': [
 		{
+			'Game': 'SW',
+			'Name': "Orochi",
+			'Rank': 5,
+			'Base': 48,
+			'Element': 'Demon',
+			'Stats': [
+				"Musou: 45",
+				"Attack: 26",
+				"Mounted Attack: 49",
+				"Attck Range: 35"
+			],
+			'Stage': 'Battle of Okehazama',
+			'Requirement': 'Complete the first mission, but fail the second, then eliminate all the enemy officers. When Hanzo appears, reach the Imagawa camp before he does. The supply team will appear in the southwest.'
+		}, {
+			'Game': 'SW',
+			'Name': "Dai-Rokuten",
+			'Rank': 6,
+			'Base': 58,
+			'Element': 'Demon',
+			'Stats': [
+				"Musou: 50",
+				"Attack: 67",
+				"Ranged Defense: 66",
+				"Musou Charge: 64"
+			],
+			'Stage': 'Rebellion at Honnōji',
+			'Requirement': 'Save Oichi and Ranmaru, defeat Nohime and then defeat all the Akechi officers, while keeping both Oichi and Ranmaru alive. The supply team will appear in the southeastern corner.'
+		}, {
 			'Game': 'SW2',
 			'Name': "Demon Regalia",
 			'Rank': 4,
@@ -137,8 +166,8 @@ const warriors = {
 				"Speed: 18",
 				"Range: 19"
 			],
-			'Stage': '',
-			'Requirement': ''
+			'Stage': 'Battle of Tedorigawa',
+			'Requirement': 'Rescue all isolated allied units; Hideyoshi Hashiba, Toshiie Maeda, Nagahide Niwa, Katsuie Shibata and Kazumasa Takigawa.'
 		}, {
 			'Game': 'SW2',
 			'Name': "Muramasa",
@@ -150,8 +179,8 @@ const warriors = {
 				"Musou Charge: 39",
 				"Range: 57"
 			],
-			'Stage': '',
-			'Requirement': ''
+			'Stage': 'Stage 5',
+			'Requirement': 'Within 12 minutes from start, rescue Nobutada Oda and get 400 KO.'
 		}
 	],
 	'Mitsuhide': [
@@ -187,6 +216,19 @@ const warriors = {
 	]
 };
 
+window.onload = function () {
+	filter = document.getElementById('filter');
+	game = document.getElementById('game');
+	container = document.getElementById('container');
+	popup = document.getElementById('popup');
+	popup.onclick = () => {
+		popup.style.display = 'none';
+	};
+	
+	filter.focus();
+	render();
+}
+
 function eleColor (color) {
 	switch (color) {
 		case 'Fire': return '#9F0000';
@@ -198,16 +240,18 @@ function eleColor (color) {
 	return '#000000';
 }
 
-window.onload = function () {
-	filter = document.getElementById('filter');
-	game = document.getElementById('game');
-	container = document.getElementById('container');
-	
-	filter.focus();
-	render();
+function showGuide (warrior, weapon) {
+	popup.innerHTML = `<div class="message">
+			<div class="name">` + warriors[warrior][weapon].Name + `</div>
+			<div><b>` + warriors[warrior][weapon].Stage + `</b></div>
+			<div>` + warriors[warrior][weapon].Requirement + `</div>
+		</div>`;
+	popup.style.display = '';
 }
 
 function render() {
+	popup.style.display = 'none';
+	
 	var str = ``;
 	for (var i in warriors) {
 		if (i.toLowerCase().includes(filter.value.toLowerCase())) {
@@ -219,7 +263,7 @@ function render() {
 			for (var j = 0; j < warriors[i].length; j++) {
 				if (game.value == 'All' || game.value == warriors[i][j].Game) {
 					// Warrior's weapons
-					str += `<div class="weapon">
+					str += `<div class="weapon" onclick="showGuide('` + i + `', ` + j + `)">
 							<div>
 								<div class="wName">
 									<span class="tag">` + warriors[i][j].Game + ` ` + warriors[i][j].Rank + `th</span> ` + warriors[i][j].Name + `</div>
