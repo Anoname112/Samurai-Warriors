@@ -298,7 +298,7 @@ function render() {
 							</div>
 							<div class="wDesc">
 								<div class="wImage">
-									<img src="image/` + warriors[i][j].Game + `-` + i + `-` + warriors[i][j].Rank + `.webp" alt="` + i + ` ` + warriors[i][j].Rank + `th Weapon" title="` + i + ` ` + warriors[i][j].Rank + `th Weapon">
+									<img src="image/` + warriors[i][j].Game + `-` + i + `-` + warriors[i][j].Rank + `.webp" alt="` + warriors[i][j].Name + `" title="` + i + ` ` + warriors[i][j].Rank + `th Weapon">
 								</div>
 								<div style="color: ` + eleColor(warriors[i][j].Element) + `;"><b>` + warriors[i][j].Element + `</b></div>
 								Base Attack: ` + warriors[i][j].Base + `
