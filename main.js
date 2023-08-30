@@ -266,7 +266,7 @@ function render() {
 					str += `<div class="weapon" onclick="showGuide('` + i + `', ` + j + `)">
 							<div>
 								<div class="wName">
-									<span class="tag">` + warriors[i][j].Game + ` ` + warriors[i][j].Rank + `th</span> ` + warriors[i][j].Name + `</div>
+									<span class="tag">` + warriors[i][j].Game + `</span> ` + warriors[i][j].Name + `</div>
 							</div>
 							<div class="wDesc">
 								<div class="wImage"><img src="image/` + warriors[i][j].Game + `-` + i + `-` + warriors[i][j].Rank + `.webp" alt="` + i + ` ` + warriors[i][j].Rank + `th Weapon"></div>
