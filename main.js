@@ -121,11 +121,13 @@ window.onload = function () {
 	
 	var str = ``;
 	for (var i in warriors) {
+		// Warrior's name
 		str += `<div class="warrior">
 			<div>
 				<div class="name">` + i + `</div>
 			</div>`;
 		for (var j = 0; j < warriors[i].length; j++) {
+			// Warrior's weapons
 			str += `<div class="weapon">
 					<div>
 						<div class="wName">` + warriors[i][j].Name + `</div>
@@ -138,6 +140,7 @@ window.onload = function () {
 					<div>
 						<div class="stats">`;
 			for (var k = 0; k < warriors[i][j].Stats.length; k++) {
+				// Weapon's stats
 				str += `<div class="stat">` + warriors[i][j].Stats[k] + `</div>`;
 			}
 			str += `</div>
