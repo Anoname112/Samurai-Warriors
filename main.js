@@ -196,8 +196,8 @@ const warriors = {
 				"Defense: 35",
 				"Range: 37"
 			],
-			'Stage': '',
-			'Requirement': ''
+			'Stage': 'Mitsuhide Unites Japan',
+			'Requirement': 'When Kotarō Fūma appeared, have at least 4 or more of your units alive until "Akechi Army is advancing" message appears.'
 		}, {
 			'Game': 'SW2',
 			'Name': "Liberator",
@@ -210,8 +210,8 @@ const warriors = {
 				"Dexterity: 36",
 				"Range: 37"
 			],
-			'Stage': '',
-			'Requirement': ''
+			'Stage': 'Battle of Yamazaki',
+			'Requirement': 'In 5 minutes defeat Mitsunari, take Mt. Tenno and then defeat both Magoichi Saika and Nene.'
 		}
 	]
 };
