@@ -1,5 +1,5 @@
 # Samurai-Warriors
-Samurai Warriors rare weapons list and requirement guide.
+Samurai Warriors rare weapons list and acquisition guide.
 
 Live Demo: https://anoname112.github.io/Samurai-Warriors/
 
