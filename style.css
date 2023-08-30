@@ -1,7 +1,7 @@
 * {
 	margin: 0;
 	padding: 0;
-	font-family: "Segoe UI", "Tahoma", "Trebuchet MS", "Verdana";
+	font-family: "Helvetica", "Tahoma", "Segoe UI", "Trebuchet MS", "Verdana";
 	font-size: 13px;
 }
 
@@ -64,9 +64,18 @@ body {
 }
 
 .wName {
+	position: relative;
 	padding: 4px;
 	background-color: #EAEAEA;
 	font-weight: bold;
+}
+
+.tag {
+	position: absolute;
+	left: 4px;
+	padding: 0 2px 1px 2px;
+	border-radius: 2px;
+	background-color: #B9B9B9;
 }
 
 .wDesc {

@@ -5,6 +5,34 @@ var container;
 const warriors = {
 	'Yukimura': [
 		{
+			'Game': 'SW',
+			'Name': "Susano",
+			'Rank': 5,
+			'Base': 47,
+			'Element': 'Fire',
+			'Stats': [
+				"Life: 50",
+				"Musou: 27",
+				"Attack: 40",
+				"Defense: 38"
+			],
+			'Stage': 'Siege of Osaka',
+			'Requirement': 'Complete all the main missions without fail and then reach the score of 1000 kills. The supply team carrying the weapon will appear in the southwest and head towards the middle eastern gate.'
+		}, {
+			'Game': 'SW',
+			'Name': "Rakan",
+			'Rank': 6,
+			'Base': 57,
+			'Element': 'Fire',
+			'Stats': [
+				"Life: 50",
+				"Attack: 65",
+				"Horse Attack: 67",
+				"Musou Charge: 65"
+			],
+			'Stage': 'Battle of Yamazaki',
+			'Requirement': 'Complete the first mission, stop Keiji before he reaches Mount Tennoh and proceed to defeat Hanbei Takenaka and Kazumasu Takigawa without ally casualties. Then defeat Hideyoshi before he enters the main camp. Supply units will appear to the north-western entry and head south.'
+		}, {
 			'Game': 'SW2',
 			'Name': "Dragon's Tail",
 			'Rank': 4,
@@ -147,11 +175,11 @@ window.onload = function () {
 	game = document.getElementById('game');
 	container = document.getElementById('container');
 	
-	filterChanged();
 	filter.focus();
+	render();
 }
 
-function filterChanged() {
+function render() {
 	var str = ``;
 	for (var i in warriors) {
 		if (i.toLowerCase().includes(filter.value.toLowerCase())) {
@@ -165,10 +193,11 @@ function filterChanged() {
 					// Warrior's weapons
 					str += `<div class="weapon">
 							<div>
-								<div class="wName">` + warriors[i][j].Name + `</div>
+								<div class="wName">
+									<span class="tag">` + warriors[i][j].Game + ` ` + warriors[i][j].Rank + `th</span> ` + warriors[i][j].Name + `</div>
 							</div>
 							<div class="wDesc">
-								<div class="wImage"><img src="image/` + warriors[i][j].Rank + `th-` + i + `.webp" alt="` + i + ` ` + warriors[i][j].Rank + `th Weapon"></div>
+								<div class="wImage"><img src="image/` + warriors[i][j].Game + `-` + i + `-` + warriors[i][j].Rank + `.webp" alt="` + i + ` ` + warriors[i][j].Rank + `th Weapon"></div>
 								<div style="color: ` + eleColor(warriors[i][j].Element) + `;"><b>` + warriors[i][j].Element + `</b></div>
 								Base Attack: ` + warriors[i][j].Base + `
 							</div>
