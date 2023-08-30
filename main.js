@@ -185,6 +185,34 @@ const warriors = {
 	],
 	'Mitsuhide': [
 		{
+			'Game': 'SW',
+			'Name': "Futsu-Mitama",
+			'Rank': 5,
+			'Base': 47,
+			'Element': 'Lightning',
+			'Stats': [
+				"Musou: 37",
+				"Attack: 42",
+				"Defense: 45",
+				"Attack Range: 28"
+			],
+			'Stage': 'Battle of Yamazaki (Upper Path)',
+			'Requirement': 'Take Mount Tennoh, defeat the officers to the south then defeat all the enemies on the mount quickly. The squad with the weapon will appear to the north of Hideyoshi\'s camp.'
+		}, {
+			'Game': 'SW',
+			'Name': "Rasetsu",
+			'Rank': 6,
+			'Base': 57,
+			'Element': 'Lightning',
+			'Stats': [
+				"Life: 45",
+				"Defense: 69",
+				"Speed: 47",
+				"Attack Range: 73"
+			],
+			'Stage': 'Battle of Yamazaki (Lower Path)',
+			'Requirement': 'Protect Mount Tennoh from the Oda attacks from the eastern and western fronts, defeat the Oda officers (Katsuie, Nagahide, Toshiie, Nobutada and Nobumori), route Hideyoshi Hashiba and persuade Ranmaru to defect. Once the fog is clear, wipe out all the enemies in the northen caves. The supply party will appear in the southeast and head towards the Oda main Camp.'
+		}, {
 			'Game': 'SW2',
 			'Name': "Gilded Talon",
 			'Rank': 4,
@@ -197,7 +225,7 @@ const warriors = {
 				"Range: 37"
 			],
 			'Stage': 'Mitsuhide Unites Japan',
-			'Requirement': 'When Kotarō Fūma appeared, have at least 4 or more of your units alive until "Akechi Army is advancing" message appears.'
+			'Requirement': 'When Kotarō Fūma appeared, have at least 4 or more of your units alive until "Akechi Army\'s advancing" message appears.'
 		}, {
 			'Game': 'SW2',
 			'Name': "Liberator",
