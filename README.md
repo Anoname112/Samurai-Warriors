@@ -1,5 +1,5 @@
 # Samurai-Warriors
-Samurai Warriors 2: Xtreme Legends rare weapons list.
+Samurai Warriors rare weapons list and requirement guide.
 
 Live Demo: https://anoname112.github.io/Samurai-Warriors/
 
