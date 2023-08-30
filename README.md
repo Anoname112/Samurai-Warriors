@@ -1,5 +1,5 @@
 # Samurai-Warriors
-Samurai Warriors rare weapons list and acquisition guide.
+Samurai Warriors rare weapons list and acquisition guide. Click or tap on the weapon to show the acquisition guide, then click or tap again to hide it.
 
 Live Demo: https://anoname112.github.io/Samurai-Warriors/
 
