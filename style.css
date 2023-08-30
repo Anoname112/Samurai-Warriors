@@ -9,6 +9,18 @@ body {
 	position: relative;
 }
 
+#header {
+	background-color: #737373;
+	display: flex;
+	justify-content: center;
+}
+
+#filter, #game {
+	margin: 12px;
+	padding: 3px;
+	border-radius: 3px;
+}
+
 #container {
 	position: absolute;
 	left: 50%;
