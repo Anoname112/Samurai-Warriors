@@ -389,6 +389,160 @@ const warriors = {
 			'Stage': 'Stage 5',
 			'Requirement': 'Within 12 minutes success Hideyoshi\'s plan and get 400 KO.'
 		}
+	],
+	'Okuni': [
+		{
+			'Game': 'SW',
+			'Name': "Hikage",
+			'Rank': 5,
+			'Base': 46,
+			'Element': 'Fire',
+			'Stats': [
+				"Defense: 41",
+				"Ranged Attack: 33",
+				"Jump: 49",
+				"Attack Range: 37"
+			],
+			'Stage': 'Dance of Ise',
+			'Requirement': 'Stay always near to Goemon and defeat Ranmaru, Mitsuhide and Hanzo when you have the chance. Once Hanzo is defeated, the supply team will appear in the central keep and head north-west quickly.'
+		}, {
+			'Game': 'SW',
+			'Name': "Kishouten",
+			'Rank': 6,
+			'Base': 56,
+			'Element': 'Fire',
+			'Stats': [
+				"Life: 47",
+				"Ranged Defense: 72",
+				"Jump: 50",
+				"Attack Range: 66"
+			],
+			'Stage': 'Dance of Kawanakajima',
+			'Requirement': 'Defeat Yoshinobu and  prepare the dance on the western mountain. Then defeat all the enemy officers and subofficers (note: If Okuni is infatuated by either Shingen or Kenshin the weapon is lost). The supply team will appear in the west and head towards the Takeda camp.'
+		}, {
+			'Game': 'SW2',
+			'Name': "Raging Sun",
+			'Rank': 4,
+			'Base': 44,
+			'Element': 'Fire',
+			'Stats': [
+				"Attack: 19",
+				"Defense: 37",
+				"Speed: 17",
+				"Dexterity: 39",
+				"Range: 35"
+			],
+			'Stage': '',
+			'Requirement': ''
+		}, {
+			'Game': 'SW2',
+			'Name': "Heavenly Flower",
+			'Rank': 5,
+			'Base': 44,
+			'Element': 'Wind',
+			'Stats': [
+				"Life: 17",
+				"Defense: 35",
+				"Speed: 50",
+				"Luck: 37"
+			],
+			'Stage': '',
+			'Requirement': ''
+		}
+	],
+	'Kunoichi': [
+		{
+			'Game': 'SW',
+			'Name': "",
+			'Rank': 5,
+			'Base': 0,
+			'Element': '',
+			'Stats': [
+				
+			],
+			'Stage': '',
+			'Requirement': ''
+		}, {
+			'Game': 'SW',
+			'Name': "",
+			'Rank': 6,
+			'Base': 0,
+			'Element': '',
+			'Stats': [
+				
+			],
+			'Stage': '',
+			'Requirement': ''
+		}, {
+			'Game': 'SW2',
+			'Name': "",
+			'Rank': 4,
+			'Base': 0,
+			'Element': '',
+			'Stats': [
+				
+			],
+			'Stage': '',
+			'Requirement': ''
+		}, {
+			'Game': 'SW2',
+			'Name': "",
+			'Rank': 5,
+			'Base': 0,
+			'Element': '',
+			'Stats': [
+				
+			],
+			'Stage': '',
+			'Requirement': ''
+		}
+	],
+	'Magoichi': [
+		{
+			'Game': 'SW',
+			'Name': "",
+			'Rank': 5,
+			'Base': 0,
+			'Element': '',
+			'Stats': [
+				
+			],
+			'Stage': '',
+			'Requirement': ''
+		}, {
+			'Game': 'SW',
+			'Name': "",
+			'Rank': 6,
+			'Base': 0,
+			'Element': '',
+			'Stats': [
+				
+			],
+			'Stage': '',
+			'Requirement': ''
+		}, {
+			'Game': 'SW2',
+			'Name': "",
+			'Rank': 4,
+			'Base': 0,
+			'Element': '',
+			'Stats': [
+				
+			],
+			'Stage': '',
+			'Requirement': ''
+		}, {
+			'Game': 'SW2',
+			'Name': "",
+			'Rank': 5,
+			'Base': 0,
+			'Element': '',
+			'Stats': [
+				
+			],
+			'Stage': '',
+			'Requirement': ''
+		}
 	]
 };
 
