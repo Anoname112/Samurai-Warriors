@@ -757,5 +757,898 @@ const warriors = {
 			'Stage': '',
 			'Requirement': ''
 		}
+	],
+	'Hideyoshi': [
+		{
+			'Game': 'SW',
+			'Name': "",
+			'Rank': 5,
+			'Base': 0,
+			'Element': '',
+			'Stats': [
+				
+			],
+			'Stage': '',
+			'Requirement': ''
+		}, {
+			'Game': 'SW',
+			'Name': "",
+			'Rank': 6,
+			'Base': 0,
+			'Element': '',
+			'Stats': [
+				
+			],
+			'Stage': '',
+			'Requirement': ''
+		}, {
+			'Game': 'SW2',
+			'Name': "",
+			'Rank': 4,
+			'Base': 0,
+			'Element': '',
+			'Stats': [
+				
+			],
+			'Stage': '',
+			'Requirement': ''
+		}, {
+			'Game': 'SW2',
+			'Name': "",
+			'Rank': 5,
+			'Base': 0,
+			'Element': '',
+			'Stats': [
+				
+			],
+			'Stage': '',
+			'Requirement': ''
+		}
+	],
+	'Yoshimoto': [
+		{
+			'Game': 'SW',
+			'Name': "",
+			'Rank': 5,
+			'Base': 0,
+			'Element': '',
+			'Stats': [
+				
+			],
+			'Stage': '',
+			'Requirement': ''
+		}, {
+			'Game': 'SW',
+			'Name': "",
+			'Rank': 6,
+			'Base': 0,
+			'Element': '',
+			'Stats': [
+				
+			],
+			'Stage': '',
+			'Requirement': ''
+		}, {
+			'Game': 'SW2',
+			'Name': "",
+			'Rank': 4,
+			'Base': 0,
+			'Element': '',
+			'Stats': [
+				
+			],
+			'Stage': '',
+			'Requirement': ''
+		}, {
+			'Game': 'SW2',
+			'Name': "",
+			'Rank': 5,
+			'Base': 0,
+			'Element': '',
+			'Stats': [
+				
+			],
+			'Stage': '',
+			'Requirement': ''
+		}
+	],
+	'Tadakatsu': [
+		{
+			'Game': 'SW',
+			'Name': "",
+			'Rank': 5,
+			'Base': 0,
+			'Element': '',
+			'Stats': [
+				
+			],
+			'Stage': '',
+			'Requirement': ''
+		}, {
+			'Game': 'SW',
+			'Name': "",
+			'Rank': 6,
+			'Base': 0,
+			'Element': '',
+			'Stats': [
+				
+			],
+			'Stage': '',
+			'Requirement': ''
+		}, {
+			'Game': 'SW2',
+			'Name': "",
+			'Rank': 4,
+			'Base': 0,
+			'Element': '',
+			'Stats': [
+				
+			],
+			'Stage': '',
+			'Requirement': ''
+		}, {
+			'Game': 'SW2',
+			'Name': "",
+			'Rank': 5,
+			'Base': 0,
+			'Element': '',
+			'Stats': [
+				
+			],
+			'Stage': '',
+			'Requirement': ''
+		}
+	],
+	'Ina': [
+		{
+			'Game': 'SW',
+			'Name': "",
+			'Rank': 5,
+			'Base': 0,
+			'Element': '',
+			'Stats': [
+				
+			],
+			'Stage': '',
+			'Requirement': ''
+		}, {
+			'Game': 'SW',
+			'Name': "",
+			'Rank': 6,
+			'Base': 0,
+			'Element': '',
+			'Stats': [
+				
+			],
+			'Stage': '',
+			'Requirement': ''
+		}, {
+			'Game': 'SW2',
+			'Name': "",
+			'Rank': 4,
+			'Base': 0,
+			'Element': '',
+			'Stats': [
+				
+			],
+			'Stage': '',
+			'Requirement': ''
+		}, {
+			'Game': 'SW2',
+			'Name': "",
+			'Rank': 5,
+			'Base': 0,
+			'Element': '',
+			'Stats': [
+				
+			],
+			'Stage': '',
+			'Requirement': ''
+		}
+	],
+	'Ieyasu': [
+		{
+			'Game': 'SW',
+			'Name': "",
+			'Rank': 5,
+			'Base': 0,
+			'Element': '',
+			'Stats': [
+				
+			],
+			'Stage': '',
+			'Requirement': ''
+		}, {
+			'Game': 'SW',
+			'Name': "",
+			'Rank': 6,
+			'Base': 0,
+			'Element': '',
+			'Stats': [
+				
+			],
+			'Stage': '',
+			'Requirement': ''
+		}, {
+			'Game': 'SW2',
+			'Name': "",
+			'Rank': 4,
+			'Base': 0,
+			'Element': '',
+			'Stats': [
+				
+			],
+			'Stage': '',
+			'Requirement': ''
+		}, {
+			'Game': 'SW2',
+			'Name': "",
+			'Rank': 5,
+			'Base': 0,
+			'Element': '',
+			'Stats': [
+				
+			],
+			'Stage': '',
+			'Requirement': ''
+		}
+	],
+	'Mitsunari': [
+		{
+			'Game': 'SW',
+			'Name': "",
+			'Rank': 5,
+			'Base': 0,
+			'Element': '',
+			'Stats': [
+				
+			],
+			'Stage': '',
+			'Requirement': ''
+		}, {
+			'Game': 'SW',
+			'Name': "",
+			'Rank': 6,
+			'Base': 0,
+			'Element': '',
+			'Stats': [
+				
+			],
+			'Stage': '',
+			'Requirement': ''
+		}, {
+			'Game': 'SW2',
+			'Name': "",
+			'Rank': 4,
+			'Base': 0,
+			'Element': '',
+			'Stats': [
+				
+			],
+			'Stage': '',
+			'Requirement': ''
+		}, {
+			'Game': 'SW2',
+			'Name': "",
+			'Rank': 5,
+			'Base': 0,
+			'Element': '',
+			'Stats': [
+				
+			],
+			'Stage': '',
+			'Requirement': ''
+		}
+	],
+	'Nagamasa': [
+		{
+			'Game': 'SW',
+			'Name': "",
+			'Rank': 5,
+			'Base': 0,
+			'Element': '',
+			'Stats': [
+				
+			],
+			'Stage': '',
+			'Requirement': ''
+		}, {
+			'Game': 'SW',
+			'Name': "",
+			'Rank': 6,
+			'Base': 0,
+			'Element': '',
+			'Stats': [
+				
+			],
+			'Stage': '',
+			'Requirement': ''
+		}, {
+			'Game': 'SW2',
+			'Name': "",
+			'Rank': 4,
+			'Base': 0,
+			'Element': '',
+			'Stats': [
+				
+			],
+			'Stage': '',
+			'Requirement': ''
+		}, {
+			'Game': 'SW2',
+			'Name': "",
+			'Rank': 5,
+			'Base': 0,
+			'Element': '',
+			'Stats': [
+				
+			],
+			'Stage': '',
+			'Requirement': ''
+		}
+	],
+	'Sakon': [
+		{
+			'Game': 'SW',
+			'Name': "",
+			'Rank': 5,
+			'Base': 0,
+			'Element': '',
+			'Stats': [
+				
+			],
+			'Stage': '',
+			'Requirement': ''
+		}, {
+			'Game': 'SW',
+			'Name': "",
+			'Rank': 6,
+			'Base': 0,
+			'Element': '',
+			'Stats': [
+				
+			],
+			'Stage': '',
+			'Requirement': ''
+		}, {
+			'Game': 'SW2',
+			'Name': "",
+			'Rank': 4,
+			'Base': 0,
+			'Element': '',
+			'Stats': [
+				
+			],
+			'Stage': '',
+			'Requirement': ''
+		}, {
+			'Game': 'SW2',
+			'Name': "",
+			'Rank': 5,
+			'Base': 0,
+			'Element': '',
+			'Stats': [
+				
+			],
+			'Stage': '',
+			'Requirement': ''
+		}
+	],
+	'Yoshihiro': [
+		{
+			'Game': 'SW',
+			'Name': "",
+			'Rank': 5,
+			'Base': 0,
+			'Element': '',
+			'Stats': [
+				
+			],
+			'Stage': '',
+			'Requirement': ''
+		}, {
+			'Game': 'SW',
+			'Name': "",
+			'Rank': 6,
+			'Base': 0,
+			'Element': '',
+			'Stats': [
+				
+			],
+			'Stage': '',
+			'Requirement': ''
+		}, {
+			'Game': 'SW2',
+			'Name': "",
+			'Rank': 4,
+			'Base': 0,
+			'Element': '',
+			'Stats': [
+				
+			],
+			'Stage': '',
+			'Requirement': ''
+		}, {
+			'Game': 'SW2',
+			'Name': "",
+			'Rank': 5,
+			'Base': 0,
+			'Element': '',
+			'Stats': [
+				
+			],
+			'Stage': '',
+			'Requirement': ''
+		}
+	],
+	'Ginchiyo': [
+		{
+			'Game': 'SW',
+			'Name': "",
+			'Rank': 5,
+			'Base': 0,
+			'Element': '',
+			'Stats': [
+				
+			],
+			'Stage': '',
+			'Requirement': ''
+		}, {
+			'Game': 'SW',
+			'Name': "",
+			'Rank': 6,
+			'Base': 0,
+			'Element': '',
+			'Stats': [
+				
+			],
+			'Stage': '',
+			'Requirement': ''
+		}, {
+			'Game': 'SW2',
+			'Name': "",
+			'Rank': 4,
+			'Base': 0,
+			'Element': '',
+			'Stats': [
+				
+			],
+			'Stage': '',
+			'Requirement': ''
+		}, {
+			'Game': 'SW2',
+			'Name': "",
+			'Rank': 5,
+			'Base': 0,
+			'Element': '',
+			'Stats': [
+				
+			],
+			'Stage': '',
+			'Requirement': ''
+		}
+	],
+	'Kanetsugu': [
+		{
+			'Game': 'SW',
+			'Name': "",
+			'Rank': 5,
+			'Base': 0,
+			'Element': '',
+			'Stats': [
+				
+			],
+			'Stage': '',
+			'Requirement': ''
+		}, {
+			'Game': 'SW',
+			'Name': "",
+			'Rank': 6,
+			'Base': 0,
+			'Element': '',
+			'Stats': [
+				
+			],
+			'Stage': '',
+			'Requirement': ''
+		}, {
+			'Game': 'SW2',
+			'Name': "",
+			'Rank': 4,
+			'Base': 0,
+			'Element': '',
+			'Stats': [
+				
+			],
+			'Stage': '',
+			'Requirement': ''
+		}, {
+			'Game': 'SW2',
+			'Name': "",
+			'Rank': 5,
+			'Base': 0,
+			'Element': '',
+			'Stats': [
+				
+			],
+			'Stage': '',
+			'Requirement': ''
+		}
+	],
+	'Nene': [
+		{
+			'Game': 'SW',
+			'Name': "",
+			'Rank': 5,
+			'Base': 0,
+			'Element': '',
+			'Stats': [
+				
+			],
+			'Stage': '',
+			'Requirement': ''
+		}, {
+			'Game': 'SW',
+			'Name': "",
+			'Rank': 6,
+			'Base': 0,
+			'Element': '',
+			'Stats': [
+				
+			],
+			'Stage': '',
+			'Requirement': ''
+		}, {
+			'Game': 'SW2',
+			'Name': "",
+			'Rank': 4,
+			'Base': 0,
+			'Element': '',
+			'Stats': [
+				
+			],
+			'Stage': '',
+			'Requirement': ''
+		}, {
+			'Game': 'SW2',
+			'Name': "",
+			'Rank': 5,
+			'Base': 0,
+			'Element': '',
+			'Stats': [
+				
+			],
+			'Stage': '',
+			'Requirement': ''
+		}
+	],
+	'Kotaro': [
+		{
+			'Game': 'SW',
+			'Name': "",
+			'Rank': 5,
+			'Base': 0,
+			'Element': '',
+			'Stats': [
+				
+			],
+			'Stage': '',
+			'Requirement': ''
+		}, {
+			'Game': 'SW',
+			'Name': "",
+			'Rank': 6,
+			'Base': 0,
+			'Element': '',
+			'Stats': [
+				
+			],
+			'Stage': '',
+			'Requirement': ''
+		}, {
+			'Game': 'SW2',
+			'Name': "",
+			'Rank': 4,
+			'Base': 0,
+			'Element': '',
+			'Stats': [
+				
+			],
+			'Stage': '',
+			'Requirement': ''
+		}, {
+			'Game': 'SW2',
+			'Name': "",
+			'Rank': 5,
+			'Base': 0,
+			'Element': '',
+			'Stats': [
+				
+			],
+			'Stage': '',
+			'Requirement': ''
+		}
+	],
+	'Musashi': [
+		{
+			'Game': 'SW',
+			'Name': "",
+			'Rank': 5,
+			'Base': 0,
+			'Element': '',
+			'Stats': [
+				
+			],
+			'Stage': '',
+			'Requirement': ''
+		}, {
+			'Game': 'SW',
+			'Name': "",
+			'Rank': 6,
+			'Base': 0,
+			'Element': '',
+			'Stats': [
+				
+			],
+			'Stage': '',
+			'Requirement': ''
+		}, {
+			'Game': 'SW2',
+			'Name': "",
+			'Rank': 4,
+			'Base': 0,
+			'Element': '',
+			'Stats': [
+				
+			],
+			'Stage': '',
+			'Requirement': ''
+		}, {
+			'Game': 'SW2',
+			'Name': "",
+			'Rank': 5,
+			'Base': 0,
+			'Element': '',
+			'Stats': [
+				
+			],
+			'Stage': '',
+			'Requirement': ''
+		}
+	],
+	'Toshiie': [
+		{
+			'Game': 'SW',
+			'Name': "",
+			'Rank': 5,
+			'Base': 0,
+			'Element': '',
+			'Stats': [
+				
+			],
+			'Stage': '',
+			'Requirement': ''
+		}, {
+			'Game': 'SW',
+			'Name': "",
+			'Rank': 6,
+			'Base': 0,
+			'Element': '',
+			'Stats': [
+				
+			],
+			'Stage': '',
+			'Requirement': ''
+		}, {
+			'Game': 'SW2',
+			'Name': "",
+			'Rank': 4,
+			'Base': 0,
+			'Element': '',
+			'Stats': [
+				
+			],
+			'Stage': '',
+			'Requirement': ''
+		}, {
+			'Game': 'SW2',
+			'Name': "",
+			'Rank': 5,
+			'Base': 0,
+			'Element': '',
+			'Stats': [
+				
+			],
+			'Stage': '',
+			'Requirement': ''
+		}
+	],
+	'Motochika': [
+		{
+			'Game': 'SW',
+			'Name': "",
+			'Rank': 5,
+			'Base': 0,
+			'Element': '',
+			'Stats': [
+				
+			],
+			'Stage': '',
+			'Requirement': ''
+		}, {
+			'Game': 'SW',
+			'Name': "",
+			'Rank': 6,
+			'Base': 0,
+			'Element': '',
+			'Stats': [
+				
+			],
+			'Stage': '',
+			'Requirement': ''
+		}, {
+			'Game': 'SW2',
+			'Name': "",
+			'Rank': 4,
+			'Base': 0,
+			'Element': '',
+			'Stats': [
+				
+			],
+			'Stage': '',
+			'Requirement': ''
+		}, {
+			'Game': 'SW2',
+			'Name': "",
+			'Rank': 5,
+			'Base': 0,
+			'Element': '',
+			'Stats': [
+				
+			],
+			'Stage': '',
+			'Requirement': ''
+		}
+	],
+	'Gracia': [
+		{
+			'Game': 'SW',
+			'Name': "",
+			'Rank': 5,
+			'Base': 0,
+			'Element': '',
+			'Stats': [
+				
+			],
+			'Stage': '',
+			'Requirement': ''
+		}, {
+			'Game': 'SW',
+			'Name': "",
+			'Rank': 6,
+			'Base': 0,
+			'Element': '',
+			'Stats': [
+				
+			],
+			'Stage': '',
+			'Requirement': ''
+		}, {
+			'Game': 'SW2',
+			'Name': "",
+			'Rank': 4,
+			'Base': 0,
+			'Element': '',
+			'Stats': [
+				
+			],
+			'Stage': '',
+			'Requirement': ''
+		}, {
+			'Game': 'SW2',
+			'Name': "",
+			'Rank': 5,
+			'Base': 0,
+			'Element': '',
+			'Stats': [
+				
+			],
+			'Stage': '',
+			'Requirement': ''
+		}
+	],
+	'Kojiro': [
+		{
+			'Game': 'SW',
+			'Name': "",
+			'Rank': 5,
+			'Base': 0,
+			'Element': '',
+			'Stats': [
+				
+			],
+			'Stage': '',
+			'Requirement': ''
+		}, {
+			'Game': 'SW',
+			'Name': "",
+			'Rank': 6,
+			'Base': 0,
+			'Element': '',
+			'Stats': [
+				
+			],
+			'Stage': '',
+			'Requirement': ''
+		}, {
+			'Game': 'SW2',
+			'Name': "",
+			'Rank': 4,
+			'Base': 0,
+			'Element': '',
+			'Stats': [
+				
+			],
+			'Stage': '',
+			'Requirement': ''
+		}, {
+			'Game': 'SW2',
+			'Name': "",
+			'Rank': 5,
+			'Base': 0,
+			'Element': '',
+			'Stats': [
+				
+			],
+			'Stage': '',
+			'Requirement': ''
+		}
+	],
+	'Katsuie': [
+		{
+			'Game': 'SW',
+			'Name': "",
+			'Rank': 5,
+			'Base': 0,
+			'Element': '',
+			'Stats': [
+				
+			],
+			'Stage': '',
+			'Requirement': ''
+		}, {
+			'Game': 'SW',
+			'Name': "",
+			'Rank': 6,
+			'Base': 0,
+			'Element': '',
+			'Stats': [
+				
+			],
+			'Stage': '',
+			'Requirement': ''
+		}, {
+			'Game': 'SW2',
+			'Name': "",
+			'Rank': 4,
+			'Base': 0,
+			'Element': '',
+			'Stats': [
+				
+			],
+			'Stage': '',
+			'Requirement': ''
+		}, {
+			'Game': 'SW2',
+			'Name': "",
+			'Rank': 5,
+			'Base': 0,
+			'Element': '',
+			'Stats': [
+				
+			],
+			'Stage': '',
+			'Requirement': ''
+		}
 	]
 };
