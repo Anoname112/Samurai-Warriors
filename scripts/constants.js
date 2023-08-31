@@ -663,5 +663,99 @@ const warriors = {
 			'Stage': '',
 			'Requirement': ''
 		}
+	],
+	'Hanzo': [
+		{
+			'Game': 'SW',
+			'Name': "",
+			'Rank': 5,
+			'Base': 0,
+			'Element': '',
+			'Stats': [
+				
+			],
+			'Stage': '',
+			'Requirement': ''
+		}, {
+			'Game': 'SW',
+			'Name': "",
+			'Rank': 6,
+			'Base': 0,
+			'Element': '',
+			'Stats': [
+				
+			],
+			'Stage': '',
+			'Requirement': ''
+		}, {
+			'Game': 'SW2',
+			'Name': "",
+			'Rank': 4,
+			'Base': 0,
+			'Element': '',
+			'Stats': [
+				
+			],
+			'Stage': '',
+			'Requirement': ''
+		}, {
+			'Game': 'SW2',
+			'Name': "",
+			'Rank': 5,
+			'Base': 0,
+			'Element': '',
+			'Stats': [
+				
+			],
+			'Stage': '',
+			'Requirement': ''
+		}
+	],
+	'Ranmaru': [
+		{
+			'Game': 'SW',
+			'Name': "",
+			'Rank': 5,
+			'Base': 0,
+			'Element': '',
+			'Stats': [
+				
+			],
+			'Stage': '',
+			'Requirement': ''
+		}, {
+			'Game': 'SW',
+			'Name': "",
+			'Rank': 6,
+			'Base': 0,
+			'Element': '',
+			'Stats': [
+				
+			],
+			'Stage': '',
+			'Requirement': ''
+		}, {
+			'Game': 'SW2',
+			'Name': "",
+			'Rank': 4,
+			'Base': 0,
+			'Element': '',
+			'Stats': [
+				
+			],
+			'Stage': '',
+			'Requirement': ''
+		}, {
+			'Game': 'SW2',
+			'Name': "",
+			'Rank': 5,
+			'Base': 0,
+			'Element': '',
+			'Stats': [
+				
+			],
+			'Stage': '',
+			'Requirement': ''
+		}
 	]
 };
