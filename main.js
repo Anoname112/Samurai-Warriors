@@ -432,8 +432,8 @@ const warriors = {
 				"Dexterity: 39",
 				"Range: 35"
 			],
-			'Stage': 'The Traveling Dancer mission, Survival Mode',
-			'Requirement': '61+ floor, defeat Keiji Maeda.'
+			'Stage': 'The Traveling Dancer, Survival Mode floor 61+',
+			'Requirement': 'Defeat Keiji Maeda.'
 		}, {
 			'Game': 'SW2',
 			'Name': "Heavenly Flower",
@@ -446,8 +446,8 @@ const warriors = {
 				"Speed: 50",
 				"Luck: 37"
 			],
-			'Stage': 'Recruit Officers mission, Survival Mode',
-			'Requirement': '71+ floor, defeat Okuni.'
+			'Stage': 'Recruit Officers, Survival Mode floor 71+',
+			'Requirement': 'Defeat Okuni.'
 		}
 	],
 	'Kunoichi': [
