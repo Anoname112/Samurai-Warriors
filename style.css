@@ -43,6 +43,10 @@ body {
 	border-radius: 4px;
 	background-color: #CACACA;
 	width: 386px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-evenly;
+	gap: 4px;
 }
 
 .warrior {
@@ -122,4 +126,13 @@ body {
 	padding: 4px;
 	background-color: #F8F8F8;
 	font-size: 12px;
+}
+
+.stage {
+	font-size: 14px;
+	font-weight: bold;
+}
+
+.requirement {
+	font-size: 14px;
 }

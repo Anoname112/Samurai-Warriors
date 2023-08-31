@@ -241,6 +241,37 @@ const warriors = {
 			'Stage': 'Battle of Yamazaki',
 			'Requirement': 'In 5 minutes defeat Mitsunari, take Mt. Tenno, and then defeat both Magoichi Saika and Nene.'
 		}
+	],
+	'Goemon': [
+		{
+			'Game': 'SW',
+			'Name': "Takemikazuchi",
+			'Rank': 5,
+			'Base': 49,
+			'Element': 'Lightning',
+			'Stats': [
+				"Life: 49",
+				"Ranged Defense: 27",
+				"Speed: 49",
+				"Agility: 36"
+			],
+			'Stage': 'Infiltration at Osaka',
+			'Requirement': 'Take all the treasures on the first floor. On the second floor complete the mission of exploring every room in less than five minutes. The weapon will be in a box near the exit to the third floor.'
+		}, {
+			'Game': 'SW',
+			'Name': "Obliterator",
+			'Rank': 6,
+			'Base': 59,
+			'Element': 'Lightning',
+			'Stats': [
+				"Life: 49",
+				"Attack: 73",
+				"Speed: 50",
+				"Attack Range: 55"
+			],
+			'Stage': 'Infiltration at Gifu',
+			'Requirement': 'Take all the treasures (items and weapons) from the first three floors. On the fourth floor, defeat all the three officers except for Mitsuhide. After a short time, Nagayoshi Mori will appear. Defeat him to obtain the weapon.'
+		}
 	]
 };
 
@@ -271,8 +302,8 @@ function eleColor (color) {
 function showGuide (warrior, weapon) {
 	popup.innerHTML = `<div class="message">
 			<div class="name">` + warriors[warrior][weapon].Name + `</div>
-			<div><b>` + warriors[warrior][weapon].Stage + `</b></div>
-			<div>` + warriors[warrior][weapon].Requirement + `</div>
+			<div class="stage">` + warriors[warrior][weapon].Stage + `</div>
+			<div class="requirement">` + warriors[warrior][weapon].Requirement + `</div>
 		</div>`;
 	popup.style.display = '';
 }
