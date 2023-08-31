@@ -453,48 +453,32 @@ const warriors = {
 	'Kunoichi': [
 		{
 			'Game': 'SW',
-			'Name': "",
+			'Name': "Kushinada",
 			'Rank': 5,
-			'Base': 0,
-			'Element': '',
+			'Base': 45,
+			'Element': 'Ice',
 			'Stats': [
-				
+				"Life: 37",
+				"Musou: 45",
+				"Ranged Defense: 49",
+				"Jump: 29"
 			],
-			'Stage': '',
-			'Requirement': ''
+			'Stage': 'Defense of Ueda Castle',
+			'Requirement': 'Finish her Musou Mode once. Get to the fifth level of the castle without killing anyone (including foot soldiers) in 3\'45 minutes.'
 		}, {
 			'Game': 'SW',
-			'Name': "",
+			'Name': "Kokuanten",
 			'Rank': 6,
-			'Base': 0,
-			'Element': '',
+			'Base': 55,
+			'Element': 'Ice',
 			'Stats': [
-				
+				"Life: 44",
+				"Defense: 66",
+				"Musou Charge: 71",
+				"Jump: 42"
 			],
-			'Stage': '',
-			'Requirement': ''
-		}, {
-			'Game': 'SW2',
-			'Name': "",
-			'Rank': 4,
-			'Base': 0,
-			'Element': '',
-			'Stats': [
-				
-			],
-			'Stage': '',
-			'Requirement': ''
-		}, {
-			'Game': 'SW2',
-			'Name': "",
-			'Rank': 5,
-			'Base': 0,
-			'Element': '',
-			'Stats': [
-				
-			],
-			'Stage': '',
-			'Requirement': ''
+			'Stage': 'Siege of Osaka - Summer',
+			'Requirement': 'Complete every mission in the stage with no ally casualties. It is recommended that you use the War Drums item and Matsukaze Saddle.'
 		}
 	],
 	'Magoichi': [
