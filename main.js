@@ -330,6 +330,65 @@ const warriors = {
 			'Stage': 'Battle of Tedorigawa',
 			'Requirement': 'Within 15 minutes get 300 K.O. before opening the flood gates. When Hideyoshi retreats, defeat Katsuie. When Hideyoshi returns, defeat him and wait for Nobunaga to come.'
 		}
+	],
+	'Oichi': [
+		{
+			'Game': 'SW',
+			'Name': "Sakura",
+			'Rank': 5,
+			'Base': 45,
+			'Element': 'Lightning',
+			'Stats': [
+				"Attack: 44",
+				"Defense: 39",
+				"Ranged Attack: 39",
+				"Musou: 40"
+			],
+			'Stage': 'Battle of Anegawa',
+			'Requirement': 'Defeat Ieyasu, then defeat Keiji before he reaches the main camp. Go to see Nō and defeat her as well. Then route all the three reinforcement before they get too close to the main camp. Supply team should appear in the southwest and head north.'
+		}, {
+			'Game': 'SW',
+			'Name': "Kiku",
+			'Rank': 6,
+			'Base': 55,
+			'Element': 'Lightning',
+			'Stats': [
+				"Defense: 67",
+				"Ranged Defense: 69",
+				"Speed: 45",
+				"Musou Charge: 68"
+			],
+			'Stage': 'Rebellion at Honnōji (Upper Path)',
+			'Requirement': 'Prevent the Akechi fire attack, enter Honnōji from the south and rescue Ranmaru, Nobunaga and Nō (in that order). Then seal all the enemy bases and defeat all the enemy officers except for Mitsuhide, and assist the retreat of your allies. The supply team will appear in the northwest and head northeast.'
+		}, {
+			'Game': 'SW2',
+			'Name': "Cup & Gold",
+			'Rank': 4,
+			'Base': 42,
+			'Element': 'Lightning',
+			'Stats': [
+				"Life: 34",
+				"Attack: 38",
+				"Defense: 36",
+				"Musou Charge: 32"
+			],
+			'Stage': 'Revolt at Shizugatake',
+			'Requirement': 'Defeat the officers in the following order: Toshiie Maeda/Generics, Nobunaga Oda, Nō, Ginchiyo Tachibana/Ina, Ranmaru, Okuni, Nene, and Nō once more.'
+		}, {
+			'Game': 'SW2',
+			'Name': "Golden Grail",
+			'Rank': 5,
+			'Base': 45,
+			'Element': 'Fire',
+			'Stats': [
+				"Speed: 39",
+				"Dexterity: 37",
+				"Musou Charge: 35",
+				"Range: 34"
+			],
+			'Stage': 'Stage 5',
+			'Requirement': 'Within 12 minutes success Hideyoshi\'s plan and get 400 KO.'
+		}
 	]
 };
 
