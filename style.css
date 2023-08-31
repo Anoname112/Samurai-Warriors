@@ -41,7 +41,7 @@ body {
 	padding: 4px;
 	box-shadow: 0px 2px 4px #000;
 	border-radius: 4px;
-	background-color: #CACACA;
+	background-color: #D1D1D1;
 	width: 386px;
 	display: flex;
 	flex-direction: column;
@@ -111,8 +111,9 @@ body {
 }
 
 .wImage img {
-	width: 90px;
-	height: 68px;
+	border-radius: 4px;
+	width: 104px;
+	height: 78px;
 }
 
 .stats {
