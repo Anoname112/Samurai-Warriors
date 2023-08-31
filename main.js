@@ -527,6 +527,147 @@ const warriors = {
 			'Stage': '',
 			'Requirement': ''
 		}
+	],
+	'Shingen': [
+		{
+			'Game': 'SW',
+			'Name': "",
+			'Rank': 5,
+			'Base': 0,
+			'Element': '',
+			'Stats': [
+				
+			],
+			'Stage': '',
+			'Requirement': ''
+		}, {
+			'Game': 'SW',
+			'Name': "",
+			'Rank': 6,
+			'Base': 0,
+			'Element': '',
+			'Stats': [
+				
+			],
+			'Stage': '',
+			'Requirement': ''
+		}, {
+			'Game': 'SW2',
+			'Name': "",
+			'Rank': 4,
+			'Base': 0,
+			'Element': '',
+			'Stats': [
+				
+			],
+			'Stage': '',
+			'Requirement': ''
+		}, {
+			'Game': 'SW2',
+			'Name': "",
+			'Rank': 5,
+			'Base': 0,
+			'Element': '',
+			'Stats': [
+				
+			],
+			'Stage': '',
+			'Requirement': ''
+		}
+	],
+	'Masamune': [
+		{
+			'Game': 'SW',
+			'Name': "",
+			'Rank': 5,
+			'Base': 0,
+			'Element': '',
+			'Stats': [
+				
+			],
+			'Stage': '',
+			'Requirement': ''
+		}, {
+			'Game': 'SW',
+			'Name': "",
+			'Rank': 6,
+			'Base': 0,
+			'Element': '',
+			'Stats': [
+				
+			],
+			'Stage': '',
+			'Requirement': ''
+		}, {
+			'Game': 'SW2',
+			'Name': "",
+			'Rank': 4,
+			'Base': 0,
+			'Element': '',
+			'Stats': [
+				
+			],
+			'Stage': '',
+			'Requirement': ''
+		}, {
+			'Game': 'SW2',
+			'Name': "",
+			'Rank': 5,
+			'Base': 0,
+			'Element': '',
+			'Stats': [
+				
+			],
+			'Stage': '',
+			'Requirement': ''
+		}
+	],
+	'No': [
+		{
+			'Game': 'SW',
+			'Name': "",
+			'Rank': 5,
+			'Base': 0,
+			'Element': '',
+			'Stats': [
+				
+			],
+			'Stage': '',
+			'Requirement': ''
+		}, {
+			'Game': 'SW',
+			'Name': "",
+			'Rank': 6,
+			'Base': 0,
+			'Element': '',
+			'Stats': [
+				
+			],
+			'Stage': '',
+			'Requirement': ''
+		}, {
+			'Game': 'SW2',
+			'Name': "",
+			'Rank': 4,
+			'Base': 0,
+			'Element': '',
+			'Stats': [
+				
+			],
+			'Stage': '',
+			'Requirement': ''
+		}, {
+			'Game': 'SW2',
+			'Name': "",
+			'Rank': 5,
+			'Base': 0,
+			'Element': '',
+			'Stats': [
+				
+			],
+			'Stage': '',
+			'Requirement': ''
+		}
 	]
 };
 
