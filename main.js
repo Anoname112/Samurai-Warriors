@@ -272,6 +272,64 @@ const warriors = {
 			'Stage': 'Infiltration at Gifu',
 			'Requirement': 'Take all the treasures (items and weapons) from the first three floors. On the fourth floor, defeat all the three officers except for Mitsuhide. After a short time, Nagayoshi Mori will appear. Defeat him to obtain the weapon.'
 		}
+	],
+	'Kenshin': [
+		{
+			'Game': 'SW',
+			'Name': "Murakumo",
+			'Rank': 5,
+			'Base': 48,
+			'Element': 'Ice',
+			'Stats': [
+				"Life: 50",
+				"Ranged Attack: 47",
+				"Mounted Attack: 41",
+				"Speed: 45"
+			],
+			'Stage': 'Final Showdown at Kawanakajima',
+			'Requirement': 'Conquer Kaizu Castle, defeat Hanzou before he reaches your camp and then defeat Yukimura before he retakes Kaizu Castle. When the mission appear, charge into the Takeda Camp in less than a minute.'
+		}, {
+			'Game': 'SW',
+			'Name': "Bishamonten",
+			'Rank': 6,
+			'Base': 58,
+			'Element': 'Ice',
+			'Stats': [
+				"Life: 50",
+				"Attack: 69",
+				"Horse Attack: 72",
+				"Attack Range: 62"
+			],
+			'Stage': 'Siege of Gifu',
+			'Requirement': 'Once inside the castle, clear the first three floors quickly. The chest containing the weapon will appear outsite the main chamber in the fourth floor.'
+		}, {
+			'Game': 'SW2',
+			'Name': "Frozen Flame",
+			'Rank': 4,
+			'Base': 46,
+			'Element': 'Ice',
+			'Stats': [
+				"Musou: 19",
+				"Attack: 50",
+				"Speed: 38",
+				"Range: 34"
+			],
+			'Stage': 'Conquest of Kyushu',
+			'Requirement': 'First head up the left side of the map past the geyser area. You should get a scene momentarily where the geyser starts again, blocking your retreat. Make your way over towards Takeda Shingen, and on the way defeat Hashiba Hideyoshi, Hachisuka Koroku, and Hori Hidemasa. Soon Nene and Maeda Toshiie will appear; defeat them as well. The next requirement is to head to the enemy home base in the northwest. However, if you have time you should clean up the rest of the map before you do so. Beware though that if you kill all the enemy generals outside, your army will charge the northwest base, and you must enter that base before they do to continue with the weapon\'s requirements. Once you enter, Shimazu Yoshihiro and Shimazu Yoshihisa will reveal themselves to be fakes, and the REAL ones will show up in the center of the map. At the same time Nouhime and Oda Nobutada will come towards the northwest fort as well. You\'ll have all four of those generals (two of them being the fake Shimazus) on you, and you must defeat them all. Finally, Akechi Mitsuhide and Mori Ranmaru will show up. Defeat Mitsuhide first and then Ranmaru. This will cause the supply team to show up from the gate inside Kenshin\'s camp.'
+		}, {
+			'Game': 'SW2',
+			'Name': "Bishamonten's Fury",
+			'Rank': 5,
+			'Base': 46,
+			'Element': 'Demon',
+			'Stats': [
+				"Life: 54",
+				"Defense: 52",
+				"Luck: 35"
+			],
+			'Stage': 'Battle of Tedorigawa',
+			'Requirement': 'Within 15 minutes get 300 K.O. before opening the flood gates. When Hideyoshi retreats, defeat Katsuie. When Hideyoshi returns, defeat him and wait for Nobunaga to come.'
+		}
 	]
 };
 
