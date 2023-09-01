@@ -696,8 +696,8 @@ const warriors = {
 				"Speed: 37",
 				"Musou Charge: 36"
 			],
-			'Stage': '',
-			'Requirement': ''
+			'Stage': 'Revolt at Honnouji',
+			'Requirement': 'Must succeed in the mission to defend Nobutada Oda, and then oddly enough you must let Ranmaru Mori die without triggering the mission to protect him, with Nobutada Oda still alive.'
 		}, {
 			'Game': 'SW2',
 			'Name': "Blood Viper",
@@ -710,8 +710,8 @@ const warriors = {
 				"Dexterity: 37",
 				"Range: 37"
 			],
-			'Stage': '',
-			'Requirement': ''
+			'Stage': 'Gaiden stage',
+			'Requirement': 'Within 12 minutes: Defeat Naotune Endou, defeat Tunachika Kaihou, rescue Yoshinari Mori, defeat Junkei Miyabe, defeat Kyotuna Akao, rescue Kazumasu Takigawa, 300 KO'
 		}
 	],
 	'Hanzo': [
