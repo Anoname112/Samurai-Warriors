@@ -479,48 +479,60 @@ const warriors = {
 	'Magoichi': [
 		{
 			'Game': 'SW',
-			'Name': "",
+			'Name': "Gokuen",
 			'Rank': 5,
-			'Base': 0,
-			'Element': '',
+			'Base': 47,
+			'Element': 'Fire',
 			'Stats': [
-				
+				"Attack: 43",
+				"Ranged Attack: 50",
+				"Ranged Defense: 41",
+				"Attack Range: 43"
 			],
-			'Stage': '',
-			'Requirement': ''
+			'Stage': 'Battle of Echizen',
+			'Requirement': 'Defeat Katsuie Shibata and Nobumori Sakuma in under 2 minutes. Then snipe Mitsuhide Akechi. Make sure none of your Pilgrims fall. The supply team appears in the middle of the map, very close to the cross-bridge area.'
 		}, {
 			'Game': 'SW',
-			'Name': "",
+			'Name': "Yatagarasu",
 			'Rank': 6,
-			'Base': 0,
-			'Element': '',
+			'Base': 57,
+			'Element': 'Fire',
 			'Stats': [
-				
+				"Life: 43",
+				"Defense: 68",
+				"Ranged Attack: 75",
+				"Attack Range: 59"
 			],
-			'Stage': '',
-			'Requirement': ''
+			'Stage': 'Yamazaki Firefight',
+			'Requirement': 'Defeat the first wave of the Oda Army, snipe Nobunaga the first time you have the chance and then defeat the second wave. The supply team will appear in the southwest and head northeast.'
 		}, {
 			'Game': 'SW2',
-			'Name': "",
+			'Name': "Marksman's Pride",
 			'Rank': 4,
-			'Base': 0,
-			'Element': '',
+			'Base': 45,
+			'Element': 'Fire',
 			'Stats': [
-				
+				"Life: 35",
+				"Attack: 38",
+				"Luck: 12",
+				"Musou Charge: 20",
+				"Range: 39"
 			],
-			'Stage': '',
-			'Requirement': ''
+			'Stage': 'Escape from Honnoji',
+			'Requirement': 'Defeat Nobunaga Oda within 10 minutes from stage. The supply team appears in south-east gate and head west. Immediately after defeating Nobunaga, head south until you hit the gate and then turn and go west.'
 		}, {
 			'Game': 'SW2',
-			'Name': "",
+			'Name': "Sengoku Sniper",
 			'Rank': 5,
-			'Base': 0,
-			'Element': '',
+			'Base': 45,
+			'Element': 'Lightning',
 			'Stats': [
-				
+				"Musou: 36",
+				"Defense: 52",
+				"Musou Charge: 53"
 			],
-			'Stage': '',
-			'Requirement': ''
+			'Stage': 'Assault on the Saika',
+			'Requirement': 'Rescue all allied officers within 6 minutes.'
 		}
 	],
 	'Shingen': [
