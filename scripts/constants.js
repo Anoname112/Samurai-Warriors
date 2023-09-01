@@ -717,48 +717,59 @@ const warriors = {
 	'Hanzo': [
 		{
 			'Game': 'SW',
-			'Name': "",
+			'Name': "Yamikiba",
 			'Rank': 5,
-			'Base': 0,
-			'Element': '',
+			'Base': 46,
+			'Element': 'Demon',
 			'Stats': [
-				
+				"Ranged Attack: 45",
+				"Musou: 40",
+				"Jump: 32",
+				"Speed: 42"
 			],
-			'Stage': '',
-			'Requirement': ''
+			'Stage': 'Battle of Mikatagahara',
+			'Requirement': 'Defeat Oyamada, maintain the crane formation and then capture all the enemy\'s gates. The supply team appears in the south-east and heads west.'
 		}, {
 			'Game': 'SW',
-			'Name': "",
+			'Name': "Marishiten",
 			'Rank': 6,
-			'Base': 0,
-			'Element': '',
+			'Base': 56,
+			'Element': 'Demon',
 			'Stats': [
-				
+				"Attack: 74",
+				"Range Attack: 69",
+				"Speed: 48",
+				"Attack Range: 69"
 			],
-			'Stage': '',
-			'Requirement': ''
+			'Stage': 'The Iga Passage',
+			'Requirement': 'Defeat all the Ikko ambushes before Ieyasu runs into any of them. The supply team will appear from the starting point in the southwest and head north.'
 		}, {
 			'Game': 'SW2',
-			'Name': "",
+			'Name': "Chained Dragon",
 			'Rank': 4,
-			'Base': 0,
-			'Element': '',
+			'Base': 44,
+			'Element': 'Demon',
 			'Stats': [
-				
+				"Attack: 39",
+				"Dexterity: 34",
+				"Range: 38",
+				"Speed: 36"
 			],
-			'Stage': '',
-			'Requirement': ''
+			'Stage': 'Siege of Ueda Castle (Dream)',
+			'Requirement': 'Defeat all of Kotarō Fūma\'s clones and Yukimura Sanada saving Masayuki Sanada for last.'
 		}, {
 			'Game': 'SW2',
-			'Name': "",
+			'Name': "Sudden Death",
 			'Rank': 5,
-			'Base': 0,
-			'Element': '',
+			'Base': 44,
+			'Element': 'Ice',
 			'Stats': [
-				
+				"Life: 38",
+				"Attack: 55",
+				"Musou Charge: 50"
 			],
-			'Stage': '',
-			'Requirement': ''
+			'Stage': 'Battle of Nagashino',
+			'Requirement': 'Defend Nagashino Castle and Maruyama garrison, defeat Katsuyori Takeda before he retreats and score 200 KOs within ten minutes.'
 		}
 	],
 	'Ranmaru': [
