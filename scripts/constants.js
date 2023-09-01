@@ -658,45 +658,57 @@ const warriors = {
 	'No': [
 		{
 			'Game': 'SW',
-			'Name': "",
+			'Name': "Hiruko",
 			'Rank': 5,
-			'Base': 0,
-			'Element': '',
+			'Base': 46,
+			'Element': 'Demon',
 			'Stats': [
-				
+				"Life: 28",
+				"Defense: 49",
+				"Speed: 35",
+				"Attack Range: 43"
 			],
-			'Stage': '',
-			'Requirement': ''
+			'Stage': 'Incident at Honnoji',
+			'Requirement': 'Kill Nobunaga in 5 minutes. The supply team will appear in the west and head south east.'
 		}, {
 			'Game': 'SW',
-			'Name': "",
+			'Name': "Mamushi",
 			'Rank': 6,
-			'Base': 0,
-			'Element': '',
+			'Base': 56,
+			'Element': 'Demon',
 			'Stats': [
-				
+				"Musou: 49",
+				"Attack: 61",
+				"Musou Charge: 65",
+				"Attack Range: 73"
 			],
-			'Stage': '',
-			'Requirement': ''
+			'Stage': 'Battle of Anegawa',
+			'Requirement': 'Defeat Kagetake Asakura and his sub-officer, then complete all the missions up to the defeat of Yoshikage Asakura without casualties. The supply team will appear near the east-central point.'
 		}, {
 			'Game': 'SW2',
-			'Name': "",
+			'Name': "Delicious Venom",
 			'Rank': 4,
-			'Base': 0,
-			'Element': '',
+			'Base': 44,
+			'Element': 'Wind',
 			'Stats': [
-				
+				"Musou: 38",
+				"Defense: 36",
+				"Speed: 37",
+				"Musou Charge: 36"
 			],
 			'Stage': '',
 			'Requirement': ''
 		}, {
 			'Game': 'SW2',
-			'Name': "",
+			'Name': "Blood Viper",
 			'Rank': 5,
-			'Base': 0,
-			'Element': '',
+			'Base': 44,
+			'Element': 'Lightning',
 			'Stats': [
-				
+				"Attack: 37",
+				"Speed: 35",
+				"Dexterity: 37",
+				"Range: 37"
 			],
 			'Stage': '',
 			'Requirement': ''
