@@ -711,7 +711,7 @@ const warriors = {
 				"Range: 37"
 			],
 			'Stage': 'Gaiden stage',
-			'Requirement': 'Within 12 minutes: Defeat Naotune Endou, defeat Tunachika Kaihou, rescue Yoshinari Mori, defeat Junkei Miyabe, defeat Kyotuna Akao, rescue Kazumasu Takigawa, 300 KO'
+			'Requirement': 'Within 12 minutes: Defeat Naotsune Endo, defeat Tsunachika Kaiho, rescue Yoshinari Mori, defeat Junkei Miyabe, defeat Kiyotsuna Akao, rescue Kazumasu Takigawa, 300 KO.'
 		}
 	],
 	'Hanzo': [
