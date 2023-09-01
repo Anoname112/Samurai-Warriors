@@ -960,28 +960,6 @@ const warriors = {
 	],
 	'Ieyasu': [
 		{
-			'Game': 'SW',
-			'Name': "",
-			'Rank': 5,
-			'Base': 0,
-			'Element': '',
-			'Stats': [
-				
-			],
-			'Stage': '',
-			'Requirement': ''
-		}, {
-			'Game': 'SW',
-			'Name': "",
-			'Rank': 6,
-			'Base': 0,
-			'Element': '',
-			'Stats': [
-				
-			],
-			'Stage': '',
-			'Requirement': ''
-		}, {
 			'Game': 'SW2',
 			'Name': "",
 			'Rank': 4,
@@ -1007,28 +985,6 @@ const warriors = {
 	],
 	'Mitsunari': [
 		{
-			'Game': 'SW',
-			'Name': "",
-			'Rank': 5,
-			'Base': 0,
-			'Element': '',
-			'Stats': [
-				
-			],
-			'Stage': '',
-			'Requirement': ''
-		}, {
-			'Game': 'SW',
-			'Name': "",
-			'Rank': 6,
-			'Base': 0,
-			'Element': '',
-			'Stats': [
-				
-			],
-			'Stage': '',
-			'Requirement': ''
-		}, {
 			'Game': 'SW2',
 			'Name': "",
 			'Rank': 4,
@@ -1054,28 +1010,6 @@ const warriors = {
 	],
 	'Nagamasa': [
 		{
-			'Game': 'SW',
-			'Name': "",
-			'Rank': 5,
-			'Base': 0,
-			'Element': '',
-			'Stats': [
-				
-			],
-			'Stage': '',
-			'Requirement': ''
-		}, {
-			'Game': 'SW',
-			'Name': "",
-			'Rank': 6,
-			'Base': 0,
-			'Element': '',
-			'Stats': [
-				
-			],
-			'Stage': '',
-			'Requirement': ''
-		}, {
 			'Game': 'SW2',
 			'Name': "",
 			'Rank': 4,
@@ -1101,28 +1035,6 @@ const warriors = {
 	],
 	'Sakon': [
 		{
-			'Game': 'SW',
-			'Name': "",
-			'Rank': 5,
-			'Base': 0,
-			'Element': '',
-			'Stats': [
-				
-			],
-			'Stage': '',
-			'Requirement': ''
-		}, {
-			'Game': 'SW',
-			'Name': "",
-			'Rank': 6,
-			'Base': 0,
-			'Element': '',
-			'Stats': [
-				
-			],
-			'Stage': '',
-			'Requirement': ''
-		}, {
 			'Game': 'SW2',
 			'Name': "",
 			'Rank': 4,
@@ -1148,28 +1060,6 @@ const warriors = {
 	],
 	'Yoshihiro': [
 		{
-			'Game': 'SW',
-			'Name': "",
-			'Rank': 5,
-			'Base': 0,
-			'Element': '',
-			'Stats': [
-				
-			],
-			'Stage': '',
-			'Requirement': ''
-		}, {
-			'Game': 'SW',
-			'Name': "",
-			'Rank': 6,
-			'Base': 0,
-			'Element': '',
-			'Stats': [
-				
-			],
-			'Stage': '',
-			'Requirement': ''
-		}, {
 			'Game': 'SW2',
 			'Name': "",
 			'Rank': 4,
@@ -1195,28 +1085,6 @@ const warriors = {
 	],
 	'Ginchiyo': [
 		{
-			'Game': 'SW',
-			'Name': "",
-			'Rank': 5,
-			'Base': 0,
-			'Element': '',
-			'Stats': [
-				
-			],
-			'Stage': '',
-			'Requirement': ''
-		}, {
-			'Game': 'SW',
-			'Name': "",
-			'Rank': 6,
-			'Base': 0,
-			'Element': '',
-			'Stats': [
-				
-			],
-			'Stage': '',
-			'Requirement': ''
-		}, {
 			'Game': 'SW2',
 			'Name': "",
 			'Rank': 4,
@@ -1242,28 +1110,6 @@ const warriors = {
 	],
 	'Kanetsugu': [
 		{
-			'Game': 'SW',
-			'Name': "",
-			'Rank': 5,
-			'Base': 0,
-			'Element': '',
-			'Stats': [
-				
-			],
-			'Stage': '',
-			'Requirement': ''
-		}, {
-			'Game': 'SW',
-			'Name': "",
-			'Rank': 6,
-			'Base': 0,
-			'Element': '',
-			'Stats': [
-				
-			],
-			'Stage': '',
-			'Requirement': ''
-		}, {
 			'Game': 'SW2',
 			'Name': "",
 			'Rank': 4,
@@ -1289,28 +1135,6 @@ const warriors = {
 	],
 	'Nene': [
 		{
-			'Game': 'SW',
-			'Name': "",
-			'Rank': 5,
-			'Base': 0,
-			'Element': '',
-			'Stats': [
-				
-			],
-			'Stage': '',
-			'Requirement': ''
-		}, {
-			'Game': 'SW',
-			'Name': "",
-			'Rank': 6,
-			'Base': 0,
-			'Element': '',
-			'Stats': [
-				
-			],
-			'Stage': '',
-			'Requirement': ''
-		}, {
 			'Game': 'SW2',
 			'Name': "",
 			'Rank': 4,
@@ -1336,28 +1160,6 @@ const warriors = {
 	],
 	'Kotaro': [
 		{
-			'Game': 'SW',
-			'Name': "",
-			'Rank': 5,
-			'Base': 0,
-			'Element': '',
-			'Stats': [
-				
-			],
-			'Stage': '',
-			'Requirement': ''
-		}, {
-			'Game': 'SW',
-			'Name': "",
-			'Rank': 6,
-			'Base': 0,
-			'Element': '',
-			'Stats': [
-				
-			],
-			'Stage': '',
-			'Requirement': ''
-		}, {
 			'Game': 'SW2',
 			'Name': "",
 			'Rank': 4,
@@ -1383,28 +1185,6 @@ const warriors = {
 	],
 	'Musashi': [
 		{
-			'Game': 'SW',
-			'Name': "",
-			'Rank': 5,
-			'Base': 0,
-			'Element': '',
-			'Stats': [
-				
-			],
-			'Stage': '',
-			'Requirement': ''
-		}, {
-			'Game': 'SW',
-			'Name': "",
-			'Rank': 6,
-			'Base': 0,
-			'Element': '',
-			'Stats': [
-				
-			],
-			'Stage': '',
-			'Requirement': ''
-		}, {
 			'Game': 'SW2',
 			'Name': "",
 			'Rank': 4,
@@ -1430,28 +1210,6 @@ const warriors = {
 	],
 	'Toshiie': [
 		{
-			'Game': 'SW',
-			'Name': "",
-			'Rank': 5,
-			'Base': 0,
-			'Element': '',
-			'Stats': [
-				
-			],
-			'Stage': '',
-			'Requirement': ''
-		}, {
-			'Game': 'SW',
-			'Name': "",
-			'Rank': 6,
-			'Base': 0,
-			'Element': '',
-			'Stats': [
-				
-			],
-			'Stage': '',
-			'Requirement': ''
-		}, {
 			'Game': 'SW2',
 			'Name': "",
 			'Rank': 4,
@@ -1477,28 +1235,6 @@ const warriors = {
 	],
 	'Motochika': [
 		{
-			'Game': 'SW',
-			'Name': "",
-			'Rank': 5,
-			'Base': 0,
-			'Element': '',
-			'Stats': [
-				
-			],
-			'Stage': '',
-			'Requirement': ''
-		}, {
-			'Game': 'SW',
-			'Name': "",
-			'Rank': 6,
-			'Base': 0,
-			'Element': '',
-			'Stats': [
-				
-			],
-			'Stage': '',
-			'Requirement': ''
-		}, {
 			'Game': 'SW2',
 			'Name': "",
 			'Rank': 4,
@@ -1524,28 +1260,6 @@ const warriors = {
 	],
 	'Gracia': [
 		{
-			'Game': 'SW',
-			'Name': "",
-			'Rank': 5,
-			'Base': 0,
-			'Element': '',
-			'Stats': [
-				
-			],
-			'Stage': '',
-			'Requirement': ''
-		}, {
-			'Game': 'SW',
-			'Name': "",
-			'Rank': 6,
-			'Base': 0,
-			'Element': '',
-			'Stats': [
-				
-			],
-			'Stage': '',
-			'Requirement': ''
-		}, {
 			'Game': 'SW2',
 			'Name': "",
 			'Rank': 4,
@@ -1571,28 +1285,6 @@ const warriors = {
 	],
 	'Kojiro': [
 		{
-			'Game': 'SW',
-			'Name': "",
-			'Rank': 5,
-			'Base': 0,
-			'Element': '',
-			'Stats': [
-				
-			],
-			'Stage': '',
-			'Requirement': ''
-		}, {
-			'Game': 'SW',
-			'Name': "",
-			'Rank': 6,
-			'Base': 0,
-			'Element': '',
-			'Stats': [
-				
-			],
-			'Stage': '',
-			'Requirement': ''
-		}, {
 			'Game': 'SW2',
 			'Name': "",
 			'Rank': 4,
@@ -1618,28 +1310,6 @@ const warriors = {
 	],
 	'Katsuie': [
 		{
-			'Game': 'SW',
-			'Name': "",
-			'Rank': 5,
-			'Base': 0,
-			'Element': '',
-			'Stats': [
-				
-			],
-			'Stage': '',
-			'Requirement': ''
-		}, {
-			'Game': 'SW',
-			'Name': "",
-			'Rank': 6,
-			'Base': 0,
-			'Element': '',
-			'Stats': [
-				
-			],
-			'Stage': '',
-			'Requirement': ''
-		}, {
 			'Game': 'SW2',
 			'Name': "",
 			'Rank': 4,
