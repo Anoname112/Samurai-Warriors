@@ -538,48 +538,62 @@ const warriors = {
 	'Shingen': [
 		{
 			'Game': 'SW',
-			'Name': "",
+			'Name': "Kourin",
 			'Rank': 5,
-			'Base': 0,
-			'Element': '',
+			'Base': 49,
+			'Element': 'Fire',
 			'Stats': [
-				
+				"Defense: 45",
+				"Horse Attack: 45",
+				"Horse Defense: 43",
+				"Attack Range: 50"
 			],
-			'Stage': '',
-			'Requirement': ''
+			'Stage': 'Showdown at Kawanakajima',
+			'Requirement': 'Take Zenkoji and defeat Masamune. Protect Kaizu Castle from Hanzo and defeat Keiji before he reaches the main camp. When the mission appear, reach the Uesugi camp in 60 seconds. The supply team will spawn in the Uesugi camp west to Mount Saijo and heads toward Zenkoji.'
 		}, {
 			'Game': 'SW',
-			'Name': "",
+			'Name': "Shinju",
 			'Rank': 6,
-			'Base': 0,
-			'Element': '',
+			'Base': 59,
+			'Element': 'Fire',
 			'Stats': [
-				
+				"Life: 46",
+				"Defense: 75",
+				"Musou Charge: 57",
+				"Attack Range: 75"
 			],
-			'Stage': '',
-			'Requirement': ''
+			'Stage': 'Battle of Yamazaki',
+			'Requirement': 'Complete the first two missions (Defeat Katsuie Shibata & Nagahide Niwa), defeat Hanbei Takenaka and Kazumasu Takigawa, then stops Hideyoshi Hashiba before he enters the main camp. Then fail the following mission, and when Kenshin charges at the Oda main camp rescue him. The supply team will appear from the northwestern gate and head south towards the Oda camp.'
 		}, {
 			'Game': 'SW2',
-			'Name': "",
+			'Name': "Heaven's Sign",
 			'Rank': 4,
-			'Base': 0,
-			'Element': '',
+			'Base': 48,
+			'Element': 'Wind',
 			'Stats': [
-				
+				"Life: 18",
+				"Attack: 20",
+				"Defense: 51",
+				"Ride: 20",
+				"Range: 19",
+				"Speed: 19"
 			],
-			'Stage': '',
-			'Requirement': ''
+			'Stage': 'Battle of Nagashino',
+			'Requirement': 'Take Nagashino Fort right in front of you. You\'ll have to defeat the general outside to open the doors, then defeat both generals inside to do so. Afterwards proceed south and protect the other fort by defeating Sakai Tadatsugu. At about this time Honda Tadakatsu and Hashiba Hideyoshi will proceed eastwards and attempt to pincer your commander\'s base from north and south. Defeat them both before they can enter the base. I\'d take Tadakatsu first as Shima Sakon will go and delay Hideyoshi for you. I\'d also take out Akechi Mitsuhide along the way since he\'ll be headed towards the fort in the southeast. Once this is done you\'ll get an event where it begins raining, thus nullifying Nobunaga\'s muskets. Shingen will order a charge and a few moments later the supply team will show up from the south gate, proceeding eastwards.'
 		}, {
 			'Game': 'SW2',
-			'Name': "",
+			'Name': "Furin Kazan",
 			'Rank': 5,
-			'Base': 0,
-			'Element': '',
+			'Base': 48,
+			'Element': 'Fire',
 			'Stats': [
-				
+				"Life: 56",
+				"Musou: 18",
+				"Attack: 55",
+				"Musou Charge: 19"
 			],
-			'Stage': '',
-			'Requirement': ''
+			'Stage': 'Gaiden stage',
+			'Requirement': 'Defeat Nene, Kanamori, Yoshihiro (2nd spawn), Mituhide and Ranmaru within 4 minutes from spawn. No need to go in to NW fort, send someone in to save time.'
 		}
 	],
 	'Masamune': [
