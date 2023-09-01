@@ -599,48 +599,60 @@ const warriors = {
 	'Masamune': [
 		{
 			'Game': 'SW',
-			'Name': "",
+			'Name': "Mikaboshi",
 			'Rank': 5,
-			'Base': 0,
-			'Element': '',
+			'Base': 46,
+			'Element': 'Ice',
 			'Stats': [
-				
+				"Attack: 45",
+				"Mounted Attack: 35",
+				"Musou Charge: 32",
+				"Attack Range: 39"
 			],
-			'Stage': '',
-			'Requirement': ''
+			'Stage': 'Intrusion at Honnoji',
+			'Requirement': 'Reach the northern hall before the Akechi army does, defeat all the officers of the Akechi army and then Mitsuhide. Once the Oda army shows up defeat all their officers. The supply team will appears just outside the central hall and head southwest towards Nobunaga.'
 		}, {
 			'Game': 'SW',
-			'Name': "",
+			'Name': "Asura",
 			'Rank': 6,
-			'Base': 0,
-			'Element': '',
+			'Base': 56,
+			'Element': 'Ice',
 			'Stats': [
-				
+				"Musou: 40",
+				"Defense: 67",
+				"Horse Attack: 70",
+				"Attack Range: 71"
 			],
-			'Stage': '',
-			'Requirement': ''
+			'Stage': 'Intrusion at Nagashino',
+			'Requirement': 'Defeat all the Takeda and Oda officers and sub-officers except for Nobufusa Baba and Nagahide Niwa. Then, defeat Nobufusa, head for the Takeda camp and defeat Katsuyori and then Shingen. Once Shingen\'s defeated, route Nagahide, head for the Oda camp and defeat Nobutada. The supply team will appear in the east and head north for Nagashino Castle.'
 		}, {
 			'Game': 'SW2',
-			'Name': "",
+			'Name': "Manhunters",
 			'Rank': 4,
-			'Base': 0,
-			'Element': '',
+			'Base': 44,
+			'Element': 'Ice',
 			'Stats': [
-				
+				"Attack: 37",
+				"Ride: 34",
+				"Musou Charge: 38",
+				"Range: 35"
 			],
-			'Stage': '',
-			'Requirement': ''
+			'Stage': 'Battle of Mikatagahara',
+			'Requirement': 'Defeat all enemy generals except for Ieyasu Tokugawa while keeping all of your ally generals alive.'
 		}, {
 			'Game': 'SW2',
-			'Name': "",
+			'Name': "Hell's Dragons",
 			'Rank': 5,
-			'Base': 0,
-			'Element': '',
+			'Base': 44,
+			'Element': 'Ice',
 			'Stats': [
-				
+				"Attack: 38",
+				"Defense: 38",
+				"Luck: 37",
+				"Range: 34"
 			],
-			'Stage': '',
-			'Requirement': ''
+			'Stage': 'Stage 4',
+			'Requirement': 'Within 12 minutes of the start, escort the cannon and defeat Hideyori.'
 		}
 	],
 	'No': [
