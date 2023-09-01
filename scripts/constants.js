@@ -756,7 +756,7 @@ const warriors = {
 				"Speed: 36"
 			],
 			'Stage': 'Siege of Ueda Castle (Dream)',
-			'Requirement': 'Defeat all of Kotarō Fūma\'s clones and Yukimura Sanada saving Masayuki Sanada for last.'
+			'Requirement': 'Defeat all of Kotarō Fūma\'s clones and Yukimura Sanada, saving Masayuki Sanada for last.'
 		}, {
 			'Game': 'SW2',
 			'Name': "Sudden Death",
