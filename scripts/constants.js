@@ -1497,23 +1497,29 @@ const warriors = {
 	'Katsuie': [
 		{
 			'Game': 'SW2',
-			'Name': "",
+			'Name': "Heaven and Earth",
 			'Rank': 4,
-			'Base': 0,
-			'Element': '',
+			'Base': 46,
+			'Element': 'Lightning',
 			'Stats': [
-				
+				"Life: 39",
+				"Attack: 17",
+				"Defense: 38",
+				"Speed: 34",
+				"Musou Charge: 17"
 			],
-			'Stage': '',
-			'Requirement': ''
+			'Stage': 'Battle of Okehazama',
+			'Requirement': 'Within 10 minutes from the start, complete all the missions up to the raid into Yoshimoto\'s camp and defeat 400 enemies.'
 		}, {
 			'Game': 'SW2',
-			'Name': "",
+			'Name': "Epoch Makers",
 			'Rank': 5,
-			'Base': 0,
-			'Element': '',
+			'Base': 46,
+			'Element': 'Lightning',
 			'Stats': [
-				
+				"Life: 53",
+				"Attack: 55",
+				"Musou Charge: 37"
 			],
 			'Stage': 'Battle of Shizukagate',
 			'Requirement': 'Within 10 minutes secure all of the eastern garrisons and kill 300 before your allies think about betraying you.'
