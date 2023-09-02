@@ -1068,26 +1068,37 @@ const warriors = {
 	'Ieyasu': [
 		{
 			'Game': 'SW2',
-			'Name': "",
+			'Name': "Quake Maker",
 			'Rank': 4,
-			'Base': 0,
-			'Element': '',
+			'Base': 48,
+			'Element': 'Fire',
 			'Stats': [
-				
+				"Attack: 35",
+				"Defense: 38",
+				"Musou: 17",
+				"Speed: 38",
+				"Luck: 19"
 			],
-			'Stage': '',
-			'Requirement': ''
+			'Stage': 'Battle of Sekigahara',
+			'Requirement': 'Personally defeat every Western army general including those meant to defect to your side.'
 		}, {
 			'Game': 'SW2',
-			'Name': "",
+			'Name': "Earth Render",
 			'Rank': 5,
-			'Base': 0,
-			'Element': '',
+			'Base': 48,
+			'Element': 'Lightning',
 			'Stats': [
-				
+				"Life: 18",
+				"Musou: 17",
+				"Musou Charge: 17",
+				"Attack: 18",
+				"Defense: 17",
+				"Ride: 18",
+				"Dexterity: 17",
+				"Luck: 18"
 			],
-			'Stage': '',
-			'Requirement': ''
+			'Stage': 'Last Stand Against Ieyasu (Dream)',
+			'Requirement': 'Capture the Southeastern and Western garrisons then defeat Kanetsugu Naoe and Keiji Maeda.'
 		}
 	],
 	'Mitsunari': [
