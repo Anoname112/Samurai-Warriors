@@ -1472,26 +1472,30 @@ const warriors = {
 	'Kojiro': [
 		{
 			'Game': 'SW2',
-			'Name': "",
+			'Name': "Deathly Shadow",
 			'Rank': 4,
-			'Base': 0,
-			'Element': '',
+			'Base': 42,
+			'Element': 'Ice',
 			'Stats': [
-				
+				"Musou: 54",
+				"Attack: 36",
+				"Range: 50"
 			],
-			'Stage': '',
-			'Requirement': ''
+			'Stage': 'Chaos in Kyoto',
+			'Requirement': 'Within 10 minutes, make Musashi Miyamoto appear and defeat 300 enemies.'
 		}, {
 			'Game': 'SW2',
-			'Name': "",
+			'Name': "Eternal Sleep",
 			'Rank': 5,
-			'Base': 0,
-			'Element': '',
+			'Base': 42,
+			'Element': 'Ice',
 			'Stats': [
-				
+				"Defense: 37",
+				"Speed: 55",
+				"Dexterity: 53"
 			],
 			'Stage': 'The Greatest Swordsmen (Dream)',
-			'Requirement': 'Within 13 minutes make Nobunaga appear and get 500 KOs. Clear the center area first by defeating 5 enemy generals. Head south and defeat Tadaoki Hosokawa and Gracia, then Hideyoshi. When you\'re going after Katsuie, take the northeastern route and defeat Tokugawa officers inside the garrison. Enter the garrison where Katsuie is and defeat him. He then reappears in the southwest along with Hideyoshi. Defeat those two again and Nobunaga appears.'
+			'Requirement': 'Within 13 minutes, make Nobunaga appear and get 500 KOs. Clear the center area first by defeating 5 enemy generals. Head south and defeat Tadaoki Hosokawa and Gracia, then Hideyoshi. When you\'re going after Katsuie, take the northeastern route and defeat Tokugawa officers inside the garrison. Enter the garrison where Katsuie is and defeat him. He then reappears in the southwest along with Hideyoshi. Defeat those two again and Nobunaga appears.'
 		}
 	],
 	'Katsuie': [
