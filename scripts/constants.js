@@ -1165,26 +1165,33 @@ const warriors = {
 	'Sakon': [
 		{
 			'Game': 'SW2',
-			'Name': "",
+			'Name': "Wrecking Blade",
 			'Rank': 4,
-			'Base': 0,
-			'Element': '',
+			'Base': 46,
+			'Element': 'Wind',
 			'Stats': [
-				
+				"Life: 18",
+				"Attack: 36",
+				"Defense: 37",
+				"Range: 12",
+				"Musou Charge: 34"
 			],
-			'Stage': '',
-			'Requirement': ''
+			'Stage': 'Battle of Sekigahara',
+			'Requirement': 'Defeat all enemy officers while protecting all of your allies.'
 		}, {
 			'Game': 'SW2',
-			'Name': "",
+			'Name': "Fiery Destruction",
 			'Rank': 5,
-			'Base': 0,
-			'Element': '',
+			'Base': 46,
+			'Element': 'Ice',
 			'Stats': [
-				
+				"Life: 34",
+				"Attack: 34",
+				"Ride: 37",
+				"Speed: 38"
 			],
-			'Stage': '',
-			'Requirement': ''
+			'Stage': 'Battle of Mikatagahara (Dream)',
+			'Requirement': 'Within 15 minutes defeat all playable characters. They are Hanzo, Mitsuhide, Katsuie, Tadakatsu, and Hideyoshi. You must complete the missions to get all of the playable characters to show up. Kill Ieyasu when he tries to run the first time.'
 		}
 	],
 	'Yoshihiro': [
