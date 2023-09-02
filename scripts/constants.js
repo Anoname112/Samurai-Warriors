@@ -1412,23 +1412,28 @@ const warriors = {
 	'Motochika': [
 		{
 			'Game': 'SW2',
-			'Name': "",
+			'Name': "Golden Ginkgo",
 			'Rank': 4,
-			'Base': 0,
-			'Element': '',
+			'Base': 45,
+			'Element': 'Lightning',
 			'Stats': [
-				
+				"Musou: 38",
+				"Defense: 18",
+				"Musou Charge: 35",
+				"Range: 51"
 			],
-			'Stage': '',
-			'Requirement': ''
+			'Stage': 'Battle of Kuzegawa',
+			'Requirement': 'Within 8 minutes cut off the enemies\' escape route, then defeat Kojiro, Tadakatsu, Ina and Hanzo.'
 		}, {
 			'Game': 'SW2',
-			'Name': "",
+			'Name': "Fatal Echo",
 			'Rank': 5,
-			'Base': 0,
-			'Element': '',
+			'Base': 45,
+			'Element': 'Demon',
 			'Stats': [
-				
+				"Life: 55",
+				"Defense: 53",
+				"Luck: 36"
 			],
 			'Stage': 'Nobunaga\'s Invasion (Dream)',
 			'Requirement': 'Within 4 minutes succeed in the mission \'Seize the north cannon fortress\' and get 150 KOs.'
