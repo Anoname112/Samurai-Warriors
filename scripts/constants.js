@@ -1197,126 +1197,155 @@ const warriors = {
 	'Yoshihiro': [
 		{
 			'Game': 'SW2',
-			'Name': "",
+			'Name': "Beast Crusher",
 			'Rank': 4,
-			'Base': 0,
-			'Element': '',
+			'Base': 48,
+			'Element': 'Wind',
 			'Stats': [
-				
+				"Attack: 34",
+				"Defense: 35",
+				"Speed: 54",
+				"Musou Charge: 18"
 			],
-			'Stage': '',
-			'Requirement': ''
+			'Stage': 'Breakthrough at Sekigahara',
+			'Requirement': 'First defeat a few generals in the center area just to clear things out. Now head towards Mitsunari Ishida\'s position camped out in the southwest to receive a mission to defend him. Kill all of the generals attacking to succeed. Head towards Sakon Shima in the east to trigger a mission to defend him. Along the way, Ieyasu Tokugawa will probably order Hanzo Hattori to charge Mitsunari. If he does so, go down south and intercept Hanzo, and defeat him personally. Yoshihiro will then tell Mitsunari to gather in the center. Take out more generals in the center if you think Mitsunari will have problems. Then return to defending Sakon, which involves defeating the three enemy generals attacking. Then Ieyasu will order Tadakatsu Honda to charge. Defeat him as he comes down south and Yoshihiro will order Sakon to the center. Now go up to the northwest corner, and beat the three enemy generals besieging Ginchiyo Tachibana\'s camp. Afterwards Inahime will charge to the west, so go and defeat her. Once Ginchiyo reaches the center of the map, the real fun begins. A whole mess of Tokugawa army replacements suddenly appears, surrounding your allies in the general. You\'ll then get a mission to eliminate the Eastern Army, which basically involves killing every new general on the map.'
 		}, {
 			'Game': 'SW2',
-			'Name': "",
+			'Name': "Disintegrater",
 			'Rank': 5,
-			'Base': 0,
-			'Element': '',
+			'Base': 48,
+			'Element': 'Fire',
 			'Stats': [
-				
+				"Life: 58",
+				"Musou: 52",
+				"Range: 35"
 			],
-			'Stage': '',
-			'Requirement': ''
+			'Stage': 'Conquest for Kyushu',
+			'Requirement': 'Within 7 minutes succeed in the the missions to defeat Nobuchika Chosokabe, defeat Hidehisa Sengoku, defeat Ekei Ankokuji, defeat Ginchiyo Tachibana and get 300 KOs.'
 		}
 	],
 	'Ginchiyo': [
 		{
 			'Game': 'SW2',
-			'Name': "",
+			'Name': "Heaven's Bite",
 			'Rank': 4,
-			'Base': 0,
-			'Element': '',
+			'Base': 44,
+			'Element': 'Lightning',
 			'Stats': [
-				
+				"Life: 18",
+				"Musou: 18",
+				"Attack: 20",
+				"Defense: 17",
+				"Speed: 18",
+				"Luck: 19",
+				"Musou Charge: 20",
+				"Range: 17"
 			],
-			'Stage': '',
-			'Requirement': ''
+			'Stage': 'Battle of Kyūshū',
+			'Requirement': 'Defeat the Shimazu siblings in this order on their second appearance: Iehisa Shimazu, Toshihisa Shimazu and Yoshihiro Shimazu.'
 		}, {
 			'Game': 'SW2',
-			'Name': "",
+			'Name': "Raging Tempest",
 			'Rank': 5,
-			'Base': 0,
-			'Element': '',
+			'Base': 44,
+			'Element': 'Wind',
 			'Stats': [
-				
+				"Speed: 38",
+				"Dexterity: 54",
+				"Range: 54"
 			],
-			'Stage': '',
-			'Requirement': ''
+			'Stage': 'Pursuit of Yoshihiro',
+			'Requirement': 'Within 5 minutes succeed in the mission \'Stop the cannons\'. Defeat 300 enemies (no time limit). Appears in special crate by Mt. Tenno\'s Eastern cannon.'
 		}
 	],
 	'Kanetsugu': [
 		{
 			'Game': 'SW2',
-			'Name': "",
+			'Name': "Evil's Bane",
 			'Rank': 4,
-			'Base': 0,
-			'Element': '',
+			'Base': 45,
+			'Element': 'Fire',
 			'Stats': [
-				
+				"Defense: 38",
+				"Musou: 56",
+				"Musou Charge: 51"
 			],
-			'Stage': '',
-			'Requirement': ''
+			'Stage': 'Last Stand against Ieyasu',
+			'Requirement': 'Defeat Masamune Date, Tadakatsu Honda, Hanzo Hattori, and Ina.'
 		}, {
 			'Game': 'SW2',
-			'Name': "",
+			'Name': "Truth & Honor",
 			'Rank': 5,
-			'Base': 0,
-			'Element': '',
+			'Base': 45,
+			'Element': 'Ice',
 			'Stats': [
-				
+				"Musou: 56",
+				"Attack: 38",
+				"Musou Charge: 51"
 			],
-			'Stage': '',
-			'Requirement': ''
+			'Stage': 'Battle of Hasedo',
+			'Requirement': 'Keep all allies alive and within 12 minutes make Mogami forces appear 2nd time and get 300 KOs.'
 		}
 	],
 	'Nene': [
 		{
 			'Game': 'SW2',
-			'Name': "",
+			'Name': "Devil Feathers",
 			'Rank': 4,
-			'Base': 0,
-			'Element': '',
+			'Base': 42,
+			'Element': 'Ice',
 			'Stats': [
-				
+				"Defense: 37",
+				"Speed: 38",
+				"Luck: 38",
+				"Range: 36"
 			],
-			'Stage': '',
-			'Requirement': ''
+			'Stage': 'Battle of Komaki Nagakute',
+			'Requirement': 'Save the detached force to the east, take Iwasaki Fort, and then defeat Hanzo Hattori, Ina, and Tadakatsu Honda.'
 		}, {
 			'Game': 'SW2',
-			'Name': "",
+			'Name': "Soaring Steel",
 			'Rank': 5,
-			'Base': 0,
-			'Element': '',
+			'Base': 42,
+			'Element': 'Wind',
 			'Stats': [
-				
+				"Ride: 57",
+				"Speed: 56",
+				"Dexterity: 36"
 			],
-			'Stage': '',
-			'Requirement': ''
+			'Stage': 'Siege of Odawara Castle',
+			'Requirement': 'Within 10 minutes escort the 1st siege ramp to castle wall and get 300 KOs.'
 		}
 	],
 	'Kotaro': [
 		{
 			'Game': 'SW2',
-			'Name': "",
+			'Name': "Thorns of Peril",
 			'Rank': 4,
-			'Base': 0,
-			'Element': '',
+			'Base': 45,
+			'Element': 'Demon',
 			'Stats': [
-				
+				"Life: 19",
+				"Attack: 37",
+				"Speed: 38",
+				"Dexterity: 17",
+				"Musou Charge: 33"
 			],
-			'Stage': '',
-			'Requirement': ''
+			'Stage': 'Defense of Odawara Castle',
+			'Requirement': 'Double jump over the ninja path in the wall and start defeating enemies in the southern area outside the walls. Pretty soon a siege device will appear as well. You need to destroy the siege device, but make sure you wait until AFTER the mission to destroy it has spawned. Now proceed north and defend the front doors by defeating the three attacking enemy generals without letting Chiba Naoshige die. Continue northwards and defend the northern fort by defeating the attackers without letting Houjou Ujiteru die. At about this time Nene will infiltrate the castle, but ignore her for now. Go towards Hideyoshi\'s base and eventually Ieyasu and many reinforcements will show up inside the castle. Return to the castle and succeed in the mission by defeating all six Tokugawa army generals. Continue in inside the castle and you\'ll find that Nene has rigged the castle to explode. You\'ll get a mission to stop her plan. You must do so by defeating all bomb ninjas and all gunpowder kegs on the first and second floors. The placement is random each time, so search carefully. When you\'ve gotten all of them you\'ll get the mission completed notice, so you\'ll be able to know if you\'ve missed any. With that done climb up to the third floor and defeat Nene. Now finally save your ally general in the southwest corner, Ogawara Yasuhiro. Once you\'ve defeated the generals around him, he\'ll begin retreating towards the castle doors. Escort him along the way, as he\'ll be sneak attacked by Sakon.'
 		}, {
 			'Game': 'SW2',
-			'Name': "",
+			'Name': "Infernal Fists",
 			'Rank': 5,
-			'Base': 0,
-			'Element': '',
+			'Base': 45,
+			'Element': 'Lightning',
 			'Stats': [
-				
+				"Attack: 52",
+				"Defense: 52",
+				"Speed: 33"
 			],
-			'Stage': '',
-			'Requirement': ''
+			'Stage': 'Kotaro\'s Insurrection',
+			'Requirement': 'Within 11 minutes succeed in the mission \'Halt the cannon fire from the outer ward\' and get 400 KOs. Keep all your allies alive as well (Hanzo, Tadakatsu, Ina and Ieyasu).'
 		}
 	],
 	'Musashi': [
@@ -1340,8 +1369,8 @@ const warriors = {
 			'Stats': [
 				
 			],
-			'Stage': '',
-			'Requirement': ''
+			'Stage': 'Tournament of Champions (Dream)',
+			'Requirement': 'Achieve 700 kills before Kojiro arrives.'
 		}
 	],
 	'Toshiie': [
@@ -1365,8 +1394,8 @@ const warriors = {
 			'Stats': [
 				
 			],
-			'Stage': '',
-			'Requirement': ''
+			'Stage': 'Tournament of Champions (Dream)',
+			'Requirement': 'Within 10 minutes recruit all yellow officers to your side. No need to defeat all officers. Just defeat the leader of the clan.'
 		}
 	],
 	'Motochika': [
@@ -1390,8 +1419,8 @@ const warriors = {
 			'Stats': [
 				
 			],
-			'Stage': '',
-			'Requirement': ''
+			'Stage': 'Nobunaga\'s Invasion (Dream)',
+			'Requirement': 'Within 4 minutes succeed in the mission \'Seize the north cannon fortress\' and get 150 KOs.'
 		}
 	],
 	'Gracia': [
@@ -1415,8 +1444,8 @@ const warriors = {
 			'Stats': [
 				
 			],
-			'Stage': '',
-			'Requirement': ''
+			'Stage': 'Assault on the Saika',
+			'Requirement': 'Within 8 minutes succeed in the missions \'Defeat Nagahide Niwa and Junkei Tsutsui\' and \'Defeat the second wave of the Oda Army\', then wait until third wave of Oda Army advances.'
 		}
 	],
 	'Kojiro': [
@@ -1440,8 +1469,8 @@ const warriors = {
 			'Stats': [
 				
 			],
-			'Stage': '',
-			'Requirement': ''
+			'Stage': 'The Greatest Swordsmen (Dream)',
+			'Requirement': 'Within 13 minutes make Nobunaga appear and get 500 KOs. Clear the center area first by defeating 5 enemy generals. Head south and defeat Tadaoki Hosokawa and Gracia, then Hideyoshi. When you\'re going after Katsuie, take the northeastern route and defeat Tokugawa officers inside the garrison. Enter the garrison where Katsuie is and defeat him. He then reappears in the southwest along with Hideyoshi. Defeat those two again and Nobunaga appears.'
 		}
 	],
 	'Katsuie': [
@@ -1465,8 +1494,8 @@ const warriors = {
 			'Stats': [
 				
 			],
-			'Stage': '',
-			'Requirement': ''
+			'Stage': 'Battle of Shizukagate',
+			'Requirement': 'Within 10 minutes secure all of the eastern garrisons and kill 300 before your allies think about betraying you.'
 		}
 	]
 };
