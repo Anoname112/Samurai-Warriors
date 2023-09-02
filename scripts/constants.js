@@ -859,7 +859,7 @@ const warriors = {
 				"Musou Charge: 62"
 			],
 			'Stage': 'Battle of Komaki-Nagakute',
-			'Requirement': 'Route the front-line troops on Mount Komaki, defeat Naomasa Ii to save the secondary force and then route Tadakatsu Honda and Tadayo and Tadasuke Ookubo. When Hanzo appears in your camp, defeat him and the supply team will appear west of Mount Komaki.'
+			'Requirement': 'Route the front-line troops on Mount Komaki, then defeat Naomasa Ii to save the secondary force, and then route Tadakatsu Honda, Tadayo, and Tadasuke Ookubo. When Hanzo appears in your camp, defeat him and the supply team will appear west of Mount Komaki.'
 		}, {
 			'Game': 'SW2',
 			'Name': "Simian Sansetsu",
