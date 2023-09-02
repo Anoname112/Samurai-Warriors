@@ -775,95 +775,117 @@ const warriors = {
 	'Ranmaru': [
 		{
 			'Game': 'SW',
-			'Name': "",
+			'Name': "Kamudo",
 			'Rank': 5,
-			'Base': 0,
-			'Element': '',
+			'Base': 48,
+			'Element': 'Ice',
 			'Stats': [
-				
+				"Defense: 40",
+				"Ranged Defense: 48",
+				"Speed: 40",
+				"Musou Charge: 25"
 			],
-			'Stage': '',
-			'Requirement': ''
+			'Stage': 'Incident at Honnōji',
+			'Requirement': 'Prevent the enemy army from getting through the south gate and stop the enemy fire attack. The bearers of the weapons will appear right in front of the south gate.'
 		}, {
 			'Game': 'SW',
-			'Name': "",
+			'Name': "Gohotendo",
 			'Rank': 6,
-			'Base': 0,
-			'Element': '',
+			'Base': 58,
+			'Element': 'Ice',
 			'Stats': [
-				
+				"Musou: 46",
+				"Attack: 69",
+				"Speed: 47",
+				"Musou Charge: 70"
 			],
-			'Stage': '',
-			'Requirement': ''
+			'Stage': 'Battle of Anegawa',
+			'Requirement': 'Complete all the main missions and defeat all the enemy officers and sub-officers. (Note: if you go too far on the central bridge, the mission to assassinate Ieyasu will appear prematurely and since it\'s impossible to fulfill the weapon will be lost.) The supply team will appear from the south point and head east.'
 		}, {
 			'Game': 'SW2',
-			'Name': "",
+			'Name': "Iron Vengeance",
 			'Rank': 4,
-			'Base': 0,
-			'Element': '',
+			'Base': 46,
+			'Element': 'Ice',
 			'Stats': [
-				
+				"Life: 37",
+				"Defense: 38",
+				"Speed: 19",
+				"Musou Charge: 37",
+				"Range: 14"
 			],
-			'Stage': '',
-			'Requirement': ''
+			'Stage': 'Keiji\'s Real Request, Survival Mode floor 46',
+			'Requirement': 'Defeat Keiji Maeda at floor 50.'
 		}, {
 			'Game': 'SW2',
-			'Name': "",
+			'Name': "Prodigious Brand",
 			'Rank': 5,
-			'Base': 0,
-			'Element': '',
+			'Base': 46,
+			'Element': 'Wind',
 			'Stats': [
-				
+				"Life: 34",
+				"Speed: 55",
+				"Dexterity: 51"
 			],
-			'Stage': '',
-			'Requirement': ''
+			'Stage': 'Ranmaru\'s wish part 2, Survival Mode floor 31',
+			'Requirement': '31 - Defeat officers and get info. 32 - Defeat Nagayoshi Mori and Hidemasa Hori. 33 - Based on info choose right answer - which is Keiji. 34 - Defeat Keiji. 35 - Defeat Tokugawa, then Mitsuhide, the Ranmaru.'
 		}
 	],
 	'Hideyoshi': [
 		{
 			'Game': 'SW',
-			'Name': "",
+			'Name': "Mihashira",
 			'Rank': 5,
-			'Base': 0,
-			'Element': '',
+			'Base': 45,
+			'Element': 'Lightning',
 			'Stats': [
-				
+				"Life: 38",
+				"Speed: 45",
+				"Agility: 41",
+				"Musou Charge: 31"
 			],
-			'Stage': '',
-			'Requirement': ''
+			'Stage': 'Attack on Azuchi Castle',
+			'Requirement': 'Defeat all generals and sub-generals on both the Oda and Saika side. Then defeat either Magoichi Saika or Nobunaga Oda after the player defeated all generals and sub-generals. Supply team appears in the north.'
 		}, {
 			'Game': 'SW',
-			'Name': "",
+			'Name': "Monju",
 			'Rank': 6,
-			'Base': 0,
-			'Element': '',
+			'Base': 55,
+			'Element': 'Lightning',
 			'Stats': [
-				
+				"Defense: 68",
+				"Ranged Defense: 56",
+				"Speed: 50",
+				"Musou Charge: 62"
 			],
-			'Stage': '',
-			'Requirement': ''
+			'Stage': 'Battle of Komaki-Nagakute',
+			'Requirement': 'Route the front-line troops on Mount Komaki, defeat Naomasa Ii to save the secondary force and then route Tadakatsu Honda and Tadayo and Tadasuke Ookubo. When Hanzo appears in your camp, defeat him and the supply team will appear west of Mount Komaki.'
 		}, {
 			'Game': 'SW2',
-			'Name': "",
+			'Name': "Simian Sansetsu",
 			'Rank': 4,
-			'Base': 0,
-			'Element': '',
+			'Base': 42,
+			'Element': 'Lightning',
 			'Stats': [
-				
+				"Speed: 60",
+				"Dexterity: 40",
+				"Luck: 60"
 			],
-			'Stage': '',
-			'Requirement': ''
+			'Stage': 'Battle of Shizugatake',
+			'Requirement': 'Defeat Toshiie Maeda before he charges and Keiji Maeda before he makes it into your main camp.'
 		}, {
 			'Game': 'SW2',
-			'Name': "",
+			'Name': "Mighty Claw",
 			'Rank': 5,
-			'Base': 0,
-			'Element': '',
+			'Base': 42,
+			'Element': 'Wind',
 			'Stats': [
-				
+				"Musou: 59",
+				"Dexterity: 55",
+				"Range: 38"
 			],
-			'Stage': '',
-			'Requirement': ''
+			'Stage': 'Battle of Sekigahara (Dream)',
+			'Requirement': 'Defeat Yoshihiro Shimazu, Ginchiyo Tachibana, Tadakatsu Honda, Ina, Hanzō Hattori and Masamune Date within fifteen minutes.'
 		}
 	],
 	'Yoshimoto': [
