@@ -891,95 +891,119 @@ const warriors = {
 	'Yoshimoto': [
 		{
 			'Game': 'SW',
-			'Name': "",
+			'Name': "Velvet Kemari",
 			'Rank': 5,
-			'Base': 0,
-			'Element': '',
+			'Base': 47,
+			'Element': 'Demon',
 			'Stats': [
-				
+				"Musou: 42",
+				"Attack: 38",
+				"Speed: 37",
+				"Jump: 32"
 			],
-			'Stage': '',
-			'Requirement': ''
+			'Stage': 'Kemari in Kyoto',
+			'Requirement': 'Defeat all the Takeda officers and sub-officers without losing allied officers. The supply team will appear in the southwestern corner and head north.'
 		}, {
 			'Game': 'SW',
-			'Name': "",
+			'Name': "Phoenix Kemari",
 			'Rank': 6,
-			'Base': 0,
-			'Element': '',
+			'Base': 57,
+			'Element': 'Demon',
 			'Stats': [
-				
+				"Musou: 49",
+				"Defense: 69",
+				"Musou Charge: 75",
+				"Attack Range: 68"
 			],
-			'Stage': '',
-			'Requirement': ''
+			'Stage': 'Battle of Komaki Nagakute',
+			'Requirement': 'Fail to defeat Mototada Torii, defeat the Tokugawa Four Heavenly Kings leaving Tadakatsu for last, then defeat Inahime. If none of your officers has been routed, then the supply team will appear from the north-western gate.'
 		}, {
 			'Game': 'SW2',
-			'Name': "",
+			'Name': "Noble Kemari",
 			'Rank': 4,
-			'Base': 0,
-			'Element': '',
+			'Base': 42,
+			'Element': 'Lightning',
 			'Stats': [
-				
+				"Defense: 36",
+				"Speed: 34",
+				"Dexterity: 35",
+				"Luck: 37"
 			],
-			'Stage': '',
-			'Requirement': ''
+			'Stage': 'Battle of Kawanakajima',
+			'Requirement': 'Protect Kansuke Yamamoto and defeat the enemy reinforcements from Zenkouji in 6 minutes.'
 		}, {
 			'Game': 'SW2',
-			'Name': "",
+			'Name': "Elite Kemari",
 			'Rank': 5,
-			'Base': 0,
-			'Element': '',
+			'Base': 42,
+			'Element': 'Demon',
 			'Stats': [
-				
+				"Attack: 18",
+				"Defense: 18",
+				"Luck: 57",
+				"Musou Charge: 58",
+				"Range: 19"
 			],
-			'Stage': '',
-			'Requirement': ''
+			'Stage': 'Battle of Okehazama',
+			'Requirement': 'Within 11 Minutes, force Nobunaga to show up, defeat him and then route Ieyasu. Once Nobunaga will appear a second time, the weapon will be avaible.'
 		}
 	],
 	'Tadakatsu': [
 		{
 			'Game': 'SW',
-			'Name': "",
+			'Name': "Arahabaki",
 			'Rank': 5,
-			'Base': 0,
-			'Element': '',
+			'Base': 50,
+			'Element': 'Fire',
 			'Stats': [
-				
+				"Musou: 50",
+				"Attack: 47",
+				"Defense: 41",
+				"Speed: 31"
 			],
-			'Stage': '',
-			'Requirement': ''
+			'Stage': 'Battle of Kawanakajima',
+			'Requirement': 'Capture Hachimanbara, save Yasumasa Sakakibara and assist Hanzō Hattori during his mission, then defeat Keiji Maeda without allied losses. The supply team appears from the southeastern point and heads north.'
 		}, {
 			'Game': 'SW',
-			'Name': "",
+			'Name': "Enma",
 			'Rank': 6,
-			'Base': 0,
-			'Element': '',
+			'Base': 60,
+			'Element': 'Fire',
 			'Stats': [
-				
+				"Attack: 72",
+				"Defense: 75",
+				"Ranged Defense: 71",
+				"Attack Range: 59"
 			],
-			'Stage': '',
-			'Requirement': ''
+			'Stage': 'Battle of Komaki Nagakute',
+			'Requirement': 'Defeat the enemies heading towards Komaki and the main camp and do not let a single enemy past the western gate of mount Komaki. The supply team will appear from the southeastern point.'
 		}, {
 			'Game': 'SW2',
-			'Name': "",
+			'Name': "Tonbo-giri",
 			'Rank': 4,
-			'Base': 0,
-			'Element': '',
+			'Base': 50,
+			'Element': 'Fire',
 			'Stats': [
-				
+				"Musou: 15",
+				"Attack: 37",
+				"Defense: 53",
+				"Musou Charge: 33"
 			],
-			'Stage': '',
-			'Requirement': ''
+			'Stage': 'Tournament of Champions',
+			'Requirement': 'Prevent Keiji Maeda, Musashi Miyamoto, Kojiro Sasaki, Kotaro Fuma, Hanzo Hattori, Nene, Hideyoshi Hashiba, Ieyasu Tokugawa, and Masamune Date from entering any one of the three garrisons and kill them personally.'
 		}, {
 			'Game': 'SW2',
-			'Name': "",
+			'Name': "Demon's Tongue",
 			'Rank': 5,
-			'Base': 0,
-			'Element': '',
+			'Base': 50,
+			'Element': 'Demon',
 			'Stats': [
-				
+				"Life: 38",
+				"Attack: 55",
+				"Ride: 52"
 			],
-			'Stage': '',
-			'Requirement': ''
+			'Stage': 'Stage 5',
+			'Requirement': 'Within 10 minutes, stop all cannons and get 300 KO.'
 		}
 	],
 	'Ina': [
