@@ -737,7 +737,7 @@ const warriors = {
 			'Element': 'Demon',
 			'Stats': [
 				"Attack: 74",
-				"Range Attack: 69",
+				"Ranged Attack: 69",
 				"Speed: 48",
 				"Attack Range: 69"
 			],
