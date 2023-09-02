@@ -1009,48 +1009,60 @@ const warriors = {
 	'Ina': [
 		{
 			'Game': 'SW',
-			'Name': "",
+			'Name': "Omoikane",
 			'Rank': 5,
-			'Base': 0,
-			'Element': '',
+			'Base': 46,
+			'Element': 'Ice',
 			'Stats': [
-				
+				"Defense: 43",
+				"Ranged Attack: 47",
+				"Ranged Defense: 42",
+				"Musou Charge: 34"
 			],
-			'Stage': '',
-			'Requirement': ''
+			'Stage': 'Kanegasaki Retreat',
+			'Requirement': 'Complete the first two missions, then when the mission of eliminating the Asakura officers becomes available score 1000 K.O. before completing it, all without suffering losses. The supply team will appear in the northwest and heads south.'
 		}, {
 			'Game': 'SW',
-			'Name': "",
+			'Name': "Aisen",
 			'Rank': 6,
-			'Base': 0,
-			'Element': '',
+			'Base': 56,
+			'Element': 'Ice',
 			'Stats': [
-				
+				"Musou: 47",
+				"Attack: 63",
+				"Ranged Attack: 72",
+				"Attack Range: 61"
 			],
-			'Stage': '',
-			'Requirement': ''
+			'Stage': 'Battle of Yamazaki',
+			'Requirement': 'Complete the first mission, defeat Mitsuhide Akechi and then prevent the Hashiba army from reaching Mount Tennoh. The supply team will appear in the western fortress.'
 		}, {
 			'Game': 'SW2',
-			'Name': "",
+			'Name': "Coiled Viper",
 			'Rank': 4,
-			'Base': 0,
-			'Element': '',
+			'Base': 44,
+			'Element': 'Ice',
 			'Stats': [
-				
+				"Attack: 17",
+				"Defense: 33",
+				"Dexterity: 16",
+				"Musou Charge: 36",
+				"Range: 38"
 			],
-			'Stage': '',
-			'Requirement': ''
+			'Stage': 'Siege of Odawara Castle',
+			'Requirement': 'Defeat all enemy officers personally but not Ujimasa and Ujinao Hojo.'
 		}, {
 			'Game': 'SW2',
-			'Name': "",
+			'Name': "Celestial Archer",
 			'Rank': 5,
-			'Base': 0,
-			'Element': '',
+			'Base': 44,
+			'Element': 'Fire',
 			'Stats': [
-				
+				"Life: 51",
+				"Defense: 55",
+				"Musou Charge: 37"
 			],
-			'Stage': '',
-			'Requirement': ''
+			'Stage': 'Stage 3',
+			'Requirement': 'Defeat Yoshihiro and Ginchiyo while everyone is alive.'
 		}
 	],
 	'Ieyasu': [
