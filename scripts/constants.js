@@ -1104,26 +1104,31 @@ const warriors = {
 	'Mitsunari': [
 		{
 			'Game': 'SW2',
-			'Name': "",
+			'Name': "Golden Frill",
 			'Rank': 4,
-			'Base': 0,
-			'Element': '',
+			'Base': 45,
+			'Element': 'Ice',
 			'Stats': [
-				
+				"Defense: 38",
+				"Musou: 36",
+				"Musou Charge: 33",
+				"Range: 37"
 			],
-			'Stage': '',
-			'Requirement': ''
+			'Stage': 'The Edo Campaign',
+			'Requirement': 'First up, kill Yoshiaki Mogami. Now go save your ally Hideie Ukita, who was gullible enough to be lured into a trap. Defeat all the enemy generals around him to successfully rescue him. Now some of your friends will ditch you and turn traitor, so go rebuke them by destroying all of them. That?s Hiroie Yoshikawa, Hidemoto Mouri, and Hideaki Kobayakawa. After KOing those three, you?ll get another mission to return to the inside of the castle and defeat all of the generals there. Once you do, Kotarou Fuuma will appear and attempt to sneak attack your base from a secret door that opens in the west. Go and beat him before he can arrive at your camp. Now defeat the one guard captain inside the east door of the castle to open a door and find a captured ally general, Ekei Ankokuji. The prisoner freed, you\'ll receive a mission to escort him back to your base camp. Give him the red carpet treatment and destroy everything in your path so he doesn?t get distracted and feel obligated to hack at anything nearby (especially all the enemy generals that will ambush you two). Once done, make sure you enter the main castle from the north side (going south will screw up you chance to get the weapon). KO the general in the way there and you\'ll find a sealed door. At the dead end Ekei Ankokuji will suggest another path from the south side. Once this happens, a precious item report will flash on screen and the weapon appears on the bridge between the two sections of the castle. Now go to the south side and cross over to the north part of the castle, finding the weapon along the way.'
 		}, {
 			'Game': 'SW2',
-			'Name': "",
+			'Name': "Heaven's Bliss",
 			'Rank': 5,
-			'Base': 0,
-			'Element': '',
+			'Base': 45,
+			'Element': 'Lightning',
 			'Stats': [
-				
+				"Musou: 54",
+				"Speed: 37",
+				"Luck: 52"
 			],
-			'Stage': '',
-			'Requirement': ''
+			'Stage': 'Stage 3',
+			'Requirement': 'Within 8 minutes, defeat Tadakatu, Ina and Hanzo and get 150 KO. Also need to save Nagayoshi Mori.'
 		}
 	],
 	'Nagamasa': [
