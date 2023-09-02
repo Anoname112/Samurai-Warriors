@@ -1351,23 +1351,27 @@ const warriors = {
 	'Musashi': [
 		{
 			'Game': 'SW2',
-			'Name': "",
+			'Name': "Mastery & Vision",
 			'Rank': 4,
-			'Base': 0,
-			'Element': '',
+			'Base': 48,
+			'Element': 'Demon',
 			'Stats': [
-				
+				"Attack: 48",
+				"Range: 30",
+				"Musou Charge: 35"
 			],
-			'Stage': '',
-			'Requirement': ''
+			'Stage': 'Chaos in Kyoto',
+			'Requirement': 'Defeat Ieyasu before he escapes.'
 		}, {
 			'Game': 'SW2',
-			'Name': "",
+			'Name': "Courage & Conviction",
 			'Rank': 5,
-			'Base': 0,
-			'Element': '',
+			'Base': 48,
+			'Element': 'Fire',
 			'Stats': [
-				
+				"Musou: 58",
+				"Defense: 55",
+				"Range: 30"
 			],
 			'Stage': 'Tournament of Champions (Dream)',
 			'Requirement': 'Achieve 700 kills before Kojiro arrives.'
