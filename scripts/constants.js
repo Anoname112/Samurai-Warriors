@@ -69,7 +69,7 @@ const warriors = {
 			'Stats': [
 				"Life: 50",
 				"Attack: 46",
-				"Mounted Attack: 44",
+				"Horse Attack: 44",
 				"Musou Charge: 25"
 			],
 			'Stage': 'Challenge of Kawanakajima',
@@ -128,8 +128,8 @@ const warriors = {
 			'Stats': [
 				"Musou: 45",
 				"Attack: 26",
-				"Mounted Attack: 49",
-				"Attck Range: 35"
+				"Horse Attack: 49",
+				"Attack Range: 35"
 			],
 			'Stage': 'Battle of Okehazama',
 			'Requirement': 'Complete the first mission, but fail the second, then eliminate all the enemy officers. When Hanzo appears, reach the Imagawa camp before he does. The supply team will appear in the southwest.'
@@ -278,7 +278,7 @@ const warriors = {
 			'Stats': [
 				"Life: 50",
 				"Ranged Attack: 47",
-				"Mounted Attack: 41",
+				"Horse Attack: 41",
 				"Speed: 45"
 			],
 			'Stage': 'Final Showdown at Kawanakajima',
@@ -605,7 +605,7 @@ const warriors = {
 			'Element': 'Ice',
 			'Stats': [
 				"Attack: 45",
-				"Mounted Attack: 35",
+				"Horse Attack: 35",
 				"Musou Charge: 32",
 				"Attack Range: 39"
 			],
