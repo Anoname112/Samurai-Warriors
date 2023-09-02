@@ -1380,23 +1380,30 @@ const warriors = {
 	'Toshiie': [
 		{
 			'Game': 'SW2',
-			'Name': "",
+			'Name': "Dragon's Bite",
 			'Rank': 4,
-			'Base': 0,
-			'Element': '',
+			'Base': 45,
+			'Element': 'Fire',
 			'Stats': [
-				
+				"Attack: 36",
+				"Speed: 18",
+				"Musou Charge: 53",
+				"Range: 36"
 			],
-			'Stage': '',
-			'Requirement': ''
+			'Stage': 'Annexation of Shikoku',
+			'Requirement': 'Defeat Masaaki Ojima and make your way south to Chikanao Hisatake. You will get a mission to defeat him and a small portion of allied reinforcements will appear. Then to seize the landing point head south again towards the southeast garrison and defeat Morichika and the other two officers with him. This will cause loads of reinforcements to arrive lead by Mitsunari. Then head towards the south cannon fort and defeat the Defense captain to seize it. The Mori will ambush you twice on the field but you should ignore them as you need to seize the north cannon fortress. Defeat the enemy defense captain.'
 		}, {
 			'Game': 'SW2',
-			'Name': "",
+			'Name': "Katsuie's Pride",
 			'Rank': 5,
-			'Base': 0,
-			'Element': '',
+			'Base': 45,
+			'Element': 'Wind',
 			'Stats': [
-				
+				"Life: 18",
+				"Musou: 36",
+				"Defense: 38",
+				"Ride: 36",
+				"Luck: 18"
 			],
 			'Stage': 'Tournament of Champions (Dream)',
 			'Requirement': 'Within 10 minutes recruit all yellow officers to your side. No need to defeat all officers. Just defeat the leader of the clan.'
