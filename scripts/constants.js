@@ -1134,26 +1134,32 @@ const warriors = {
 	'Nagamasa': [
 		{
 			'Game': 'SW2',
-			'Name': "",
+			'Name': "King's Honor",
 			'Rank': 4,
-			'Base': 0,
-			'Element': '',
+			'Base': 45,
+			'Element': 'Lightning',
 			'Stats': [
-				
+				"Attack: 35",
+				"Defense: 17",
+				"Ride: 35",
+				"Musou Charge: 56"
 			],
-			'Stage': '',
-			'Requirement': ''
+			'Stage': 'Defense of Odani Castle',
+			'Requirement': 'Defeat Hori Hidemasa and Kani Saizou. Proceed onwards and defeat Niwa Nagahide and Kanamori Nagachika to take the northwest fort. Immediately  head towards the fort in the center. Hideyoshi will break the walls and begin charging the castle. You need to defeat him before he invades the castle. Meanwhile the fort\'s doors will close and three more generals will ambush you. Defeat them all. At around this time Oichi will begin moving towards the northeast. Once she arrives, Maeda Toshiie and Ikeda Tsuneoki will show up in the north. Defeat them. Now hurry to the fort in the southeast and defeat the generals attacking before Kaihou Tsunachika is defeated.'
 		}, {
 			'Game': 'SW2',
-			'Name': "",
+			'Name': "Oichi's Faith",
 			'Rank': 5,
-			'Base': 0,
-			'Element': '',
+			'Base': 45,
+			'Element': 'Fire',
 			'Stats': [
-				
+				"Speed: 39",
+				"Dexterity: 37",
+				"Musou Charge: 35",
+				"Range: 34"
 			],
-			'Stage': '',
-			'Requirement': ''
+			'Stage': 'Battle of Kanegasaki',
+			'Requirement': 'Escort Kazumasu Isono to the fire attack location within 8 minutes. Defeat 300 enemies. Special crate appears by west gate.'
 		}
 	],
 	'Sakon': [
