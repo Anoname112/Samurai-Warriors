@@ -1442,23 +1442,28 @@ const warriors = {
 	'Gracia': [
 		{
 			'Game': 'SW2',
-			'Name': "",
+			'Name': "Sacred Grace",
 			'Rank': 4,
-			'Base': 0,
-			'Element': '',
+			'Base': 42,
+			'Element': 'Wind',
 			'Stats': [
-				
+				"Musou: 39",
+				"Speed: 34",
+				"Dexterity: 36",
+				"Range: 39"
 			],
-			'Stage': '',
-			'Requirement': ''
+			'Stage': 'Battle of Osaka Bay',
+			'Requirement': 'Within 10 minutes of the start of the stage you must escort Terumoto Mori to the North East Fort.'
 		}, {
 			'Game': 'SW2',
-			'Name': "",
+			'Name': "Divine Mercy",
 			'Rank': 5,
-			'Base': 0,
-			'Element': '',
+			'Base': 42,
+			'Element': 'Lightning',
 			'Stats': [
-				
+				"Ride: 53",
+				"Luck: 52",
+				"Musou Charge: 39"
 			],
 			'Stage': 'Assault on the Saika',
 			'Requirement': 'Within 8 minutes succeed in the missions \'Defeat Nagahide Niwa and Junkei Tsutsui\' and \'Defeat the second wave of the Oda Army\', then wait until third wave of Oda Army advances.'
