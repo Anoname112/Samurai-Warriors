@@ -696,7 +696,7 @@ const warriors = {
 				"Speed: 37",
 				"Musou Charge: 36"
 			],
-			'Stage': 'Revolt at Honnouji',
+			'Stage': 'Revolt at Honnoji',
 			'Requirement': 'Must succeed in the mission to defend Nobutada Oda, and then oddly enough you must let Ranmaru Mori die without triggering the mission to protect him, with Nobutada Oda still alive.'
 		}, {
 			'Game': 'SW2',
