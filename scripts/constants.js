@@ -651,8 +651,8 @@ const warriors = {
 				"Luck: 37",
 				"Range: 34"
 			],
-			'Stage': 'Stage 4',
-			'Requirement': 'Within 12 minutes of the start, escort the cannon and defeat Hideyori.'
+			'Stage': 'Osaka Campaign',
+			'Requirement': 'Within 12 minutes, escort the cannon to the front gate and defeat Fake Hideyori inside Osaka Castle.'
 		}
 	],
 	'No': [
