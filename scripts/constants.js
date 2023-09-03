@@ -382,7 +382,7 @@ const warriors = {
 				"Range: 34"
 			],
 			'Stage': 'Stage 5',
-			'Requirement': 'Within 12 minutes success Hideyoshi\'s plan and get 400 KO.'
+			'Requirement': 'Within 12 minutes success Hideyoshi\'s plan and get 400 KOs.'
 		}
 	],
 	'Okuni': [
