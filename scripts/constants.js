@@ -945,7 +945,7 @@ const warriors = {
 				"Range: 19"
 			],
 			'Stage': 'Battle of Okehazama',
-			'Requirement': 'Within 11 Minutes, force Nobunaga to show up, defeat him and then route Ieyasu. Once Nobunaga will appear a second time, the weapon will be avaible.'
+			'Requirement': 'Within 11 Minutes, force Nobunaga to show up, defeat him and then defeat Ieyasu. Once Nobunaga will appear a second time, the weapon will be avaible.'
 		}
 	],
 	'Tadakatsu': [
@@ -1495,7 +1495,7 @@ const warriors = {
 				"Dexterity: 53"
 			],
 			'Stage': 'The Greatest Swordsmen (Dream)',
-			'Requirement': 'Within 13 minutes, make Nobunaga appear and get 500 KOs. Clear the center area first by defeating 5 enemy generals. Head south and defeat Tadaoki Hosokawa and Gracia, then Hideyoshi. When you\'re going after Katsuie, take the northeastern route and defeat Tokugawa officers inside the garrison. Enter the garrison where Katsuie is and defeat him. He then reappears in the southwest along with Hideyoshi. Defeat those two again and Nobunaga appears.'
+			'Requirement': 'Within 13 minutes, make Nobunaga appear and get 500 KOs. Clear the center area first by defeating 5 enemy generals. Head south and defeat Tadaoki Hosokawa and Gracia, then Hideyoshi. When you\'re going after Katsuie, take the north-eastern route and defeat Tokugawa officers inside the garrison. Enter the garrison where Katsuie is and defeat him. He then reappears in the southwest along with Hideyoshi. Defeat those two again and Nobunaga appears.'
 		}
 	],
 	'Katsuie': [
