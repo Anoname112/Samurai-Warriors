@@ -916,7 +916,7 @@ const warriors = {
 				"Attack Range: 68"
 			],
 			'Stage': 'Battle of Komaki Nagakute',
-			'Requirement': 'Fail to defeat Mototada Torii, defeat the Tokugawa Four Heavenly Kings leaving Tadakatsu for last, then defeat Inahime. If none of your officers has been routed, then the supply team will appear from the north-western gate.'
+			'Requirement': 'Fail to defeat Mototada Torii, defeat the Tokugawa Four Heavenly Kings leaving Tadakatsu for last, then defeat Ina. If none of your officers has been defeated, then the supply team will appear from the north-western gate.'
 		}, {
 			'Game': 'SW2',
 			'Name': "Noble Kemari",
