@@ -146,7 +146,7 @@ const warriors = {
 				"Musou Charge: 64"
 			],
 			'Stage': 'Rebellion at Honnōji',
-			'Requirement': 'Save Oichi and Ranmaru, defeat Nohime and then defeat all the Akechi officers, while keeping both Oichi and Ranmaru alive. The supply team will appear in the southeastern corner.'
+			'Requirement': 'Save Oichi and Ranmaru, defeat No and then defeat all the Akechi officers, while keeping both Oichi and Ranmaru alive. The supply team will appear in the southeastern corner.'
 		}, {
 			'Game': 'SW2',
 			'Name': "Demon Regalia",
