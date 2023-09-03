@@ -945,7 +945,7 @@ const warriors = {
 				"Range: 19"
 			],
 			'Stage': 'Battle of Okehazama',
-			'Requirement': 'Within 11 Minutes, force Nobunaga to show up, defeat him and then defeat Ieyasu. Once Nobunaga will appear a second time, the weapon will be avaible.'
+			'Requirement': 'Within 11 minutes, capture the Washizu and Marune garrisons to make Nobunaga show up. Defeat him, then defeat Ieyasu. Once Nobunaga appears the second time, the weapon will be available.'
 		}
 	],
 	'Tadakatsu': [
