@@ -1423,7 +1423,7 @@ const warriors = {
 				"Range: 51"
 			],
 			'Stage': 'Battle of Kuzegawa',
-			'Requirement': 'Within 8 minutes, cut off the enemies\' escape routes, and defeat Kojiro, Tadakatsu, Ina and Hanzo.'
+			'Requirement': 'Within 8 minutes, cut off the enemies\' escape routes, and defeat Kojiro, Tadakatsu, Ina, and Hanzo.'
 		}, {
 			'Game': 'SW2',
 			'Name': "Fatal Echo",
