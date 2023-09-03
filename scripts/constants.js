@@ -340,7 +340,7 @@ const warriors = {
 				"Musou: 40"
 			],
 			'Stage': 'Battle of Anegawa',
-			'Requirement': 'Defeat Ieyasu, then defeat Keiji before he reaches the main camp. Go to see Nō and defeat her as well. Then route all the three reinforcement before they get too close to the main camp. Supply team should appear in the southwest and head north.'
+			'Requirement': 'Defeat Ieyasu, then defeat Keiji before he reaches the main camp. Go to see Nō and defeat her as well. Then defeat all the three reinforcement before they get too close to the main camp. Supply team should appear in the southwest and head north.'
 		}, {
 			'Game': 'SW',
 			'Name': "Kiku",
