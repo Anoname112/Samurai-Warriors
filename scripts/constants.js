@@ -1466,7 +1466,7 @@ const warriors = {
 				"Musou Charge: 39"
 			],
 			'Stage': 'Assault on the Saika',
-			'Requirement': 'Within 8 minutes succeed in the missions \'Defeat Nagahide Niwa and Junkei Tsutsui\' and \'Defeat the second wave of the Oda Army\', then wait until third wave of Oda Army advances.'
+			'Requirement': 'Within 8 minutes, succeed in the missions \'Defeat Nagahide Niwa and Junkei Tsutsui\' and \'Defeat the second wave of the Oda Army\', then wait until third wave of Oda Army advances.'
 		}
 	],
 	'Kojiro': [
