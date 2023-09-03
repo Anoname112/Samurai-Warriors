@@ -413,7 +413,7 @@ const warriors = {
 				"Attack Range: 66"
 			],
 			'Stage': 'Dance of Kawanakajima',
-			'Requirement': 'Defeat Yoshinobu and  prepare the dance on the western mountain. Then defeat all the enemy officers and subofficers (note: If Okuni is infatuated by either Shingen or Kenshin the weapon is lost). The supply team will appear in the west and head towards the Takeda camp.'
+			'Requirement': 'Defeat Yoshinobu and prepare the dance on the western mountain. Then defeat all the enemy officers and subofficers (note: If Okuni is infatuated by either Shingen or Kenshin the weapon is lost). The supply team will appear in the west and head towards the Takeda camp.'
 		}, {
 			'Game': 'SW2',
 			'Name': "Raging Sun",
