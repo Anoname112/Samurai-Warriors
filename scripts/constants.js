@@ -206,7 +206,7 @@ const warriors = {
 				"Attack Range: 73"
 			],
 			'Stage': 'Battle of Yamazaki (Lower Path)',
-			'Requirement': 'Protect Mount Tennoh from the Oda attacks from the eastern and western fronts, defeat the Oda officers (Katsuie, Nagahide, Toshiie, Nobutada and Nobumori), route Hideyoshi Hashiba and persuade Ranmaru to defect. Once the fog is clear, wipe out all the enemies in the northen caves. The supply party will appear in the southeast and head towards the Oda main Camp.'
+			'Requirement': 'Protect Mount Tennoh from the Oda attacks from the eastern and western fronts, defeat the Oda officers (Katsuie, Nagahide, Toshiie, Nobutada and Nobumori), defeat Hideyoshi and persuade Ranmaru to defect. Once the fog is clear, wipe out all the enemies in the northen caves. The supply party will appear in the southeast and head towards the Oda main Camp.'
 		}, {
 			'Game': 'SW2',
 			'Name': "Gilded Talon",
