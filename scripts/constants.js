@@ -1453,7 +1453,7 @@ const warriors = {
 				"Range: 39"
 			],
 			'Stage': 'Battle of Osaka Bay',
-			'Requirement': 'Within 10 minutes of the start of the stage you must escort Terumoto Mori to the North East Fort.'
+			'Requirement': 'Within 10 minutes of the start, complete the mission to capture the southern ship and escort Terumoto Mori to the North East Fort (Do not defeat Araki until you get the mission).'
 		}, {
 			'Game': 'SW2',
 			'Name': "Divine Mercy",
