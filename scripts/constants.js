@@ -1145,7 +1145,7 @@ const warriors = {
 				"Musou Charge: 56"
 			],
 			'Stage': "Defense of Odani Castle",
-			'Requirement': "Defeat Hori Hidemasa and Kani Saizou. Proceed onwards and defeat Niwa Nagahide and Kanamori Nagachika to take the northwest fort. Immediately  head towards the fort in the center. Hideyoshi will break the walls and begin charging the castle. You need to defeat him before he invades the castle. Meanwhile the fort's doors will close and three more generals will ambush you. Defeat them all. At around this time Oichi will begin moving towards the northeast. Once she arrives, Maeda Toshiie and Ikeda Tsuneoki will show up in the north. Defeat them. Now hurry to the fort in the southeast and defeat the generals attacking before Kaihou Tsunachika is defeated."
+			'Requirement': "Defeat Hori Hidemasa and Kani Saizou. Proceed onwards and defeat Niwa Nagahide and Kanamori Nagachika to take the northwest fort. Immediately head towards the fort in the center. Hideyoshi will break the walls and begin charging the castle. You need to defeat him before he invades the castle. Meanwhile the fort's doors will close and three more generals will ambush you. Defeat them all. At around this time Oichi will begin moving towards the northeast. Once she arrives, Maeda Toshiie and Ikeda Tsuneoki will show up in the north. Defeat them. Now hurry to the fort in the southeast and defeat the generals attacking before Kaihou Tsunachika is defeated."
 		}, {
 			'Game': "SW2",
 			'Name': "Oichi's Faith",
