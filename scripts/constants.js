@@ -1128,7 +1128,7 @@ const warriors = {
 				"Luck: 52"
 			],
 			'Stage': "Stage 3",
-			'Requirement': "Within 8 minutes, defeat Tadakatu, Ina and Hanzo and get 150 KO. Also need to save Nagayoshi Mori."
+			'Requirement': "Within 8 minutes, get 150 KOs and defeat Tadakatsu, Ina, and Hanzo. Also need to save Nagayoshi Mori."
 		}
 	],
 	'Nagamasa': [
