@@ -1526,7 +1526,7 @@ const warriors = {
 				"Musou Charge: 37"
 			],
 			'Stage': "Battle of Shizukagate",
-			'Requirement': "Within 10 minutes secure all of the eastern garrisons and kill 300 before your allies think about betraying you."
+			'Requirement': "Within 10 minutes, secure all 4 eastern garrisons and kill 300 enemies before your allies think about betraying you."
 		}
 	]
 };
