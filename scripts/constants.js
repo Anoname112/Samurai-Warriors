@@ -175,7 +175,7 @@ const warriors = {
 				"Range: 57"
 			],
 			'Stage': 'Stage 5',
-			'Requirement': 'Within 12 minutes from start, rescue Nobutada Oda and get 400 KO.'
+			'Requirement': 'Within 12 minutes, rescue Nobutada Oda and get 400 KOs.'
 		}
 	],
 	'Mitsuhide': [
