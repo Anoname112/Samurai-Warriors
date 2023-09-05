@@ -1,4 +1,4 @@
-// Create an array of weapons with Attack stat from SW2, then sort them
+// Create an array of weapons with Attack stat from SW2, then sort them from highest
 var data = [];
 for (var i in warriors) {
     for (var j = 0; j < warriors[i].length; j++) {
