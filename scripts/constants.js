@@ -13,7 +13,7 @@ const warriors = {
 				"Defense: 38"
 			],
 			'Stage': "Siege of Osaka",
-			'Requirement': "Complete all the main missions without fail and then reach the score of 1000 kills. The supply team carrying the weapon will appear in the southwest and head towards the middle eastern gate."
+			'Requirement': "Complete all the main missions and get 1000 KOs. The supply team will appear in the southwest and head towards the middle eastern gate."
 		}, {
 			'Game': "SW",
 			'Name': "Rakan",
