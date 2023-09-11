@@ -1513,7 +1513,7 @@ const warriors = {
 				"Musou Charge: 17"
 			],
 			'Stage': "Battle of Okehazama",
-			'Requirement': "Within 10 minutes succeed in the missions 'Defeat Ujitoshi Sena', 'Defeat Motonobu Okabe', 'Protect Washizu Garrison', 'Protect Marune Garrison', 'Rendezvous with Hideyoshi Hashiba', 'Protect the Peasants' and 'Defeat Hanzo Hattori'. Defeat 400 enemies as well (no time limit)."
+			'Requirement': "Within 10 minutes succeed in the missions 'Defeat Motonobu Okabe', 'Protect Washizu Garrison', 'Protect Marune Garrison', 'Rendezvous with Hideyoshi Hashiba', 'Protect the Peasants' and 'Defeat Hanzo Hattori'. Defeat 400 enemies as well (no time limit)."
 		}, {
 			'Game': "SW2",
 			'Name': "Epoch Makers",
