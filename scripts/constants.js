@@ -1034,7 +1034,7 @@ const warriors = {
 				"Attack Range: 61"
 			],
 			'Stage': "Battle of Yamazaki",
-			'Requirement': "Complete the first mission, defeat Mitsuhide Akechi and then prevent the Hashiba army from reaching Mount Tennoh. The supply team will appear in the western fortress."
+			'Requirement': "Complete the first mission, defeat Mitsuhide Akechi and then prevent the Hashiba army from reaching Mount Tennō. The supply team will appear in the western fortress."
 		}, {
 			'Game': "SW2",
 			'Name': "Coiled Viper",
