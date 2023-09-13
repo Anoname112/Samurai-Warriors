@@ -427,7 +427,7 @@ const warriors = {
 				"Dexterity: 39",
 				"Range: 35"
 			],
-			'Stage': "The Traveling Dancer, Survival Mode floor 61+",
+			'Stage': "The Traveling Dancer - Survival Mode Floor 61+",
 			'Requirement': "Defeat Keiji Maeda."
 		}, {
 			'Game': "SW2",
@@ -441,7 +441,7 @@ const warriors = {
 				"Speed: 50",
 				"Luck: 37"
 			],
-			'Stage': "Calling All Warriors, Survival Mode floor 71+",
+			'Stage': "Calling All Warriors - Survival Mode Floor 71+",
 			'Requirement': "Defeat Okuni."
 		}
 	],
@@ -814,7 +814,7 @@ const warriors = {
 				"Musou Charge: 37",
 				"Range: 14"
 			],
-			'Stage': "Keiji's Real Request, Survival Mode floor 46",
+			'Stage': "Keiji's Real Request - Survival Mode Floor 46",
 			'Requirement': "Defeat Keiji Maeda at floor 50."
 		}, {
 			'Game': "SW2",
@@ -827,7 +827,7 @@ const warriors = {
 				"Speed: 55",
 				"Dexterity: 51"
 			],
-			'Stage': "Ranmaru's wish part 2, Survival Mode floor 31",
+			'Stage': "Ranmaru's wish part 2 - Survival Mode Floor 31",
 			'Requirement': "Floor 31 - Defeat officers and get info. Floor 32 - Defeat Nagayoshi Mori and Hidemasa Hori. Floor 33 - Based on info choose right answer - which is Keiji. Floor 34 - Defeat Keiji. Floor 35 - Defeat Tokugawa, then Mitsuhide, then Ranmaru."
 		}
 	],
