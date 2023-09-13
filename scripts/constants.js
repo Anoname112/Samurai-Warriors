@@ -593,7 +593,7 @@ const warriors = {
 				"Musou Charge: 19"
 			],
 			'Stage': "Gaiden stage",
-			'Requirement': "Defeat Nene, Kanamori, Yoshihiro (2nd spawn), Mituhide and Ranmaru within 4 minutes from spawn. No need to go in to NW fort, send someone in to save time."
+			'Requirement': "Defeat Nene, Kanamori, Yoshihiro (2nd spawn), Mitsuhide and Ranmaru within 4 minutes from spawn. No need to go in to NW fort, send someone in to save time."
 		}
 	],
 	'Masamune': [
