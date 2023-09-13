@@ -192,7 +192,7 @@ const warriors = {
 				"Attack Range: 28"
 			],
 			'Stage': "Battle of Yamazaki (Upper Path)",
-			'Requirement': "Take Mount Tennoh, defeat the officers to the south then defeat all the enemies on the mount quickly. The squad with the weapon will appear to the north of Hideyoshi's camp."
+			'Requirement': "Take Mount Tennō, defeat the officers to the south then defeat all the enemies on the mount quickly. The squad with the weapon will appear to the north of Hideyoshi's camp."
 		}, {
 			'Game': "SW",
 			'Name': "Rasetsu",
@@ -206,7 +206,7 @@ const warriors = {
 				"Attack Range: 73"
 			],
 			'Stage': "Battle of Yamazaki (Lower Path)",
-			'Requirement': "Protect Mount Tennoh from the Oda attacks from the eastern and western fronts, defeat the Oda officers (Katsuie, Nagahide, Toshiie, Nobutada and Nobumori), defeat Hideyoshi and persuade Ranmaru to defect. Once the fog is clear, wipe out all the enemies in the northen caves. The supply party will appear in the southeast and head towards the Oda main Camp."
+			'Requirement': "Protect Mount Tennō from the Oda attacks from the eastern and western fronts, defeat the Oda officers (Katsuie, Nagahide, Toshiie, Nobutada and Nobumori), defeat Hideyoshi and persuade Ranmaru to defect. Once the fog is clear, wipe out all the enemies in the northen caves. The supply party will appear in the southeast and head towards the Oda main Camp."
 		}, {
 			'Game': "SW2",
 			'Name': "Gilded Talon",
@@ -234,7 +234,7 @@ const warriors = {
 				"Range: 37"
 			],
 			'Stage': "Battle of Yamazaki",
-			'Requirement': "In 5 minutes defeat Mitsunari, take Mt. Tenno, and then defeat both Magoichi Saika and Nene."
+			'Requirement': "In 5 minutes defeat Mitsunari, take Mt. Tennō, and then defeat both Magoichi Saika and Nene."
 		}
 	],
 	'Goemon': [
