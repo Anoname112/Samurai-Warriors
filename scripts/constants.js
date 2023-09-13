@@ -115,7 +115,7 @@ const warriors = {
 				"Range: 35"
 			],
 			'Stage': "Gaiden Stage",
-			'Requirement': "Keep Yukimura and Kanetugu alive. Within 10 minutes from start, defeat Hanzo, Musashi, Kojiro, Yoshihiro, and Masamune. Kojiro and Musashi spawns at south town area, Yoshihiro and Masamune spawns when you defeat Musashi and Kojiro, then move to SW gate."
+			'Requirement': "Keep Yukimura and Kanetsugu alive. Within 10 minutes from start, defeat Hanzo, Musashi, Kojiro, Yoshihiro, and Masamune. Kojiro and Musashi spawns at south town area, Yoshihiro and Masamune spawns when you defeat Musashi and Kojiro."
 		}
 	],
 	'Nobunaga': [
