@@ -220,7 +220,7 @@ const warriors = {
 				"Range: 37"
 			],
 			'Stage': "Mitsuhide Unites Japan",
-			'Requirement': "When Kotarō Fūma appeared, have at least 4 or more of your units alive until Akechi army's advancing message appears."
+			'Requirement': "When Kotaro Fuma appeared, have at least 4 or more of your units alive until Akechi army's advancing message appears."
 		}, {
 			'Game': "SW2",
 			'Name': "Liberator",
@@ -282,7 +282,7 @@ const warriors = {
 				"Speed: 45"
 			],
 			'Stage': "Final Showdown at Kawanakajima",
-			'Requirement': "Conquer Kaizu Castle, defeat Hanzou before he reaches your camp and then defeat Yukimura before he retakes Kaizu Castle. When the mission appear, charge into the Takeda Camp in less than a minute."
+			'Requirement': "Conquer Kaizu Castle, defeat Hanzo before he reaches your camp and then defeat Yukimura before he retakes Kaizu Castle. When the mission appear, charge into the Takeda Camp in less than a minute."
 		}, {
 			'Game': "SW",
 			'Name': "Bishamonten",
@@ -518,7 +518,7 @@ const warriors = {
 				"Musou Charge: 20",
 				"Range: 39"
 			],
-			'Stage': "Escape from Honnoji",
+			'Stage': "Escape from Honnōji",
 			'Requirement': "Defeat Nobunaga Oda within 10 minutes from stage. The supply team appears in south-east gate and head west. Immediately after defeating Nobunaga, head south until you hit the gate and then turn and go west."
 		}, {
 			'Game': "SW2",
@@ -609,7 +609,7 @@ const warriors = {
 				"Musou Charge: 32",
 				"Attack Range: 39"
 			],
-			'Stage': "Intrusion at Honnoji",
+			'Stage': "Intrusion at Honnōji",
 			'Requirement': "Reach the northern hall before the Akechi army does, defeat all the officers of the Akechi army and then Mitsuhide. Once the Oda army shows up defeat all their officers. The supply team will appears just outside the central hall and head southwest towards Nobunaga."
 		}, {
 			'Game': "SW",
@@ -668,7 +668,7 @@ const warriors = {
 				"Speed: 35",
 				"Attack Range: 43"
 			],
-			'Stage': "Incident at Honnoji",
+			'Stage': "Incident at Honnōji",
 			'Requirement': "Kill Nobunaga in 5 minutes. The supply team will appear in the west and head south east."
 		}, {
 			'Game': "SW",
@@ -696,7 +696,7 @@ const warriors = {
 				"Speed: 37",
 				"Musou Charge: 36"
 			],
-			'Stage': "Revolt at Honnoji",
+			'Stage': "Revolt at Honnōji",
 			'Requirement': "Must succeed in the mission to defend Nobutada Oda, and then oddly enough you must let Ranmaru Mori die without triggering the mission to protect him, with Nobutada Oda still alive."
 		}, {
 			'Game': "SW2",
@@ -756,7 +756,7 @@ const warriors = {
 				"Speed: 36"
 			],
 			'Stage': "Siege of Ueda Castle (Dream)",
-			'Requirement': "Defeat all of Kotarō Fūma's clones and Yukimura Sanada, saving Masayuki Sanada for last."
+			'Requirement': "Defeat all of Kotaro Fuma's clones and Yukimura Sanada, saving Masayuki Sanada for last."
 		}, {
 			'Game': "SW2",
 			'Name': "Sudden Death",
@@ -885,7 +885,7 @@ const warriors = {
 				"Range: 38"
 			],
 			'Stage': "Battle of Sekigahara (Dream)",
-			'Requirement': "Defeat Yoshihiro Shimazu, Ginchiyo Tachibana, Tadakatsu Honda, Ina, Hanzō Hattori and Masamune Date within fifteen minutes."
+			'Requirement': "Defeat Yoshihiro Shimazu, Ginchiyo Tachibana, Tadakatsu Honda, Ina, Hanzo Hattori and Masamune Date within fifteen minutes."
 		}
 	],
 	'Yoshimoto': [
@@ -962,7 +962,7 @@ const warriors = {
 				"Speed: 31"
 			],
 			'Stage': "Battle of Kawanakajima",
-			'Requirement': "Capture Hachimanbara, save Yasumasa Sakakibara and assist Hanzō Hattori during his mission, then defeat Keiji Maeda without allied losses. The supply team appears from the southeastern point and heads north."
+			'Requirement': "Capture Hachimanbara, save Yasumasa Sakakibara and assist Hanzo Hattori during his mission, then defeat Keiji Maeda without allied losses. The supply team appears from the southeastern point and heads north."
 		}, {
 			'Game': "SW",
 			'Name': "Enma",
