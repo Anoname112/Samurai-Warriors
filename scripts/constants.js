@@ -1255,7 +1255,7 @@ const warriors = {
 				"Range: 54"
 			],
 			'Stage': "Pursuit of Yoshihiro",
-			'Requirement': "Within 5 minutes succeed in the mission 'Stop the cannons'. Defeat 300 enemies (no time limit). Appears in special crate by Mt. Tenno's Eastern cannon."
+			'Requirement': "Within 5 minutes succeed in the mission 'Stop the cannons'. Defeat 300 enemies (no time limit). Appears in special crate by Mt. Tennō's Eastern cannon."
 		}
 	],
 	'Kanetsugu': [
