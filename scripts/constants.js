@@ -27,7 +27,7 @@ const warriors = {
 				"Musou Charge: 65"
 			],
 			'Stage': "Battle of Yamazaki",
-			'Requirement': "Complete the first mission, stop Keiji before he reaches Mount Tennoh and proceed to defeat Hanbei Takenaka and Kazumasu Takigawa without ally casualties. Then defeat Hideyoshi before he enters the main camp. Supply units will appear to the north-western entry and head south."
+			'Requirement': "Complete the first mission, stop Keiji before he reaches Mount Tennō and proceed to defeat Hanbei Takenaka and Kazumasu Takigawa without ally casualties. Then defeat Hideyoshi before he enters the main camp. Supply units will appear to the north-western entry and head south."
 		}, {
 			'Game': "SW2",
 			'Name': "Dragon's Tail",
