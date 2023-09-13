@@ -532,7 +532,7 @@ const warriors = {
 				"Musou Charge: 53"
 			],
 			'Stage': "Assault on the Saika",
-			'Requirement': "Rescue all allied officers within 6 minutes."
+			'Requirement': "Complete the missions to rescue Ujiyoshi Horinouchi, Morishige Tsuchihashi, Magoroku Saika, and Yoshimasa Satake within 6 minutes."
 		}
 	],
 	'Shingen': [
