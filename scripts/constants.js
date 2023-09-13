@@ -441,7 +441,7 @@ const warriors = {
 				"Speed: 50",
 				"Luck: 37"
 			],
-			'Stage': "Recruit Officers, Survival Mode floor 71+",
+			'Stage': "Calling All Warriors, Survival Mode floor 71+",
 			'Requirement': "Defeat Okuni."
 		}
 	],
