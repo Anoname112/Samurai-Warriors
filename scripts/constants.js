@@ -1314,7 +1314,7 @@ const warriors = {
 				"Dexterity: 36"
 			],
 			'Stage': "Siege of Odawara Castle",
-			'Requirement': "Within 10 minutes escort the 1st siege ramp to castle wall and get 300 KOs."
+			'Requirement': "Within 10 minutes escort the 1st siege ramp to castle wall and kill 300 enemies."
 		}
 	],
 	'Kotaro': [
