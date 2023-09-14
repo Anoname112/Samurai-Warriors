@@ -827,7 +827,7 @@ const warriors = {
 				"Speed: 55",
 				"Dexterity: 51"
 			],
-			'Stage': "Ranmaru's wish part 2 - Survival Mode Floor 31",
+			'Stage': "Ranmaru's 2nd Request - Survival Mode Floor 31",
 			'Requirement': "Floor 31 - Defeat officers and get info. Floor 32 - Defeat Nagayoshi Mori and Hidemasa Hori. Floor 33 - Based on info choose right answer - which is Keiji. Floor 34 - Defeat Keiji. Floor 35 - Defeat Tokugawa, then Mitsuhide, then Ranmaru."
 		}
 	],
