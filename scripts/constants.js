@@ -1284,7 +1284,7 @@ const warriors = {
 				"Musou Charge: 51"
 			],
 			'Stage': "Battle of Hasedo",
-			'Requirement': "Keep all allies alive and within 12 minutes make Mogami forces appear 2nd time and get 300 KOs."
+			'Requirement': "Keep all allies alive and within 12 minutes make Mogami forces appear the 2nd time and kill 300 enemies."
 		}
 	],
 	'Nene': [
