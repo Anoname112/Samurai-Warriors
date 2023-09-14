@@ -710,9 +710,8 @@ const warriors = {
 				"Dexterity: 37",
 				"Range: 37"
 			],
-			'Stage': "Gaiden stage",
-			'Requirement': "Within 12 minutes: Defeat Naotsune Endo, defeat Tsunachika Kaiho, rescue Yoshinari Mori, defeat Junkei Miyabe, defeat Kiyotsuna Akao, rescue Kazumasu Takigawa, 300 KOs."
-		}
+			'Stage': "Incident at Shizugatake",
+			'Requirement': "Within 12 minutes succeed in the missions 'Make Tsunachika Kaiho recognize your beauty', 'Rescue Yoshinari Mori', 'Make Naotsune Endo recognize your beauty', 'Make Keijun Miyabe recognize your beauty', 'Make Kiyotsuna Akao recognize your beauty', 'Rescue Kazumasu Takigawa'. Defeat 200 enemies."
 	],
 	'Hanzo': [
 		{
