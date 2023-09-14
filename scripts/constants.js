@@ -1436,7 +1436,7 @@ const warriors = {
 				"Luck: 36"
 			],
 			'Stage': "Nobunaga's Invasion (Dream)",
-			'Requirement': "Within 4 minutes succeed in the mission 'Seize the north cannon fortress' and get 150 KOs."
+			'Requirement': "Within 4 minutes succeed in the mission 'Seize the north cannon fortress' and kill 150 enemies."
 		}
 	],
 	'Gracia': [
