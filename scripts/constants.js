@@ -323,7 +323,7 @@ const warriors = {
 				"Luck: 35"
 			],
 			'Stage': "Battle of Tedorigawa",
-			'Requirement': "Within 15 minutes, get 300 KOs before opening the flood gates. When Hideyoshi retreats, defeat Katsuie. When Hideyoshi returns, defeat him and wait for Nobunaga to come."
+			'Requirement': "Within 15 minutes, kill 300 enemies before opening the flood gates. When Hideyoshi retreats, defeat Katsuie. When Hideyoshi returns, defeat him and wait for Nobunaga to come."
 		}
 	],
 	'Oichi': [
