@@ -712,6 +712,7 @@ const warriors = {
 			],
 			'Stage': "Incident at Shizugatake",
 			'Requirement': "Within 12 minutes succeed in the missions 'Make Tsunachika Kaiho recognize your beauty', 'Rescue Yoshinari Mori', 'Make Naotsune Endo recognize your beauty', 'Make Keijun Miyabe recognize your beauty', 'Make Kiyotsuna Akao recognize your beauty', 'Rescue Kazumasu Takigawa'. Defeat 200 enemies."
+		}
 	],
 	'Hanzo': [
 		{
