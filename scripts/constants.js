@@ -768,7 +768,7 @@ const warriors = {
 				"Musou Charge: 50"
 			],
 			'Stage': "Battle of Nagashino",
-			'Requirement': "Defend Nagashino Castle and Maruyama garrison, defeat Katsuyori Takeda before he retreats and score 200 KOs within ten minutes."
+			'Requirement': "Within 10 minutes succeed in the missions 'Defend Nagashino Castle', 'Defend the Maruyama Garrison', defeat Katsuyori Takeda, and get 200 KOs."
 		}
 	],
 	'Ranmaru': [
