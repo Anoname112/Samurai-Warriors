@@ -1003,7 +1003,7 @@ const warriors = {
 				"Ride: 52"
 			],
 			'Stage': "Stage 5",
-			'Requirement': "Within 10 minutes, stop all cannons and get 300 KOs."
+			'Requirement': "Within 10 minutes, stop all cannons and kill 300 enemies."
 		}
 	],
 	'Ina': [
