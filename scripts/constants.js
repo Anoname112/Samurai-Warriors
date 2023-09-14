@@ -592,8 +592,8 @@ const warriors = {
 				"Attack: 55",
 				"Musou Charge: 19"
 			],
-			'Stage': "Gaiden stage",
-			'Requirement': "Defeat Nene, Kanamori, Yoshihiro (2nd spawn), Mitsuhide and Ranmaru within 4 minutes from spawn. No need to go in to NW fort, send someone in to save time."
+			'Stage': "Conquest for Kyushu (Dream)",
+			'Requirement': "Defeat Nene, Nagachika Kanamori, Yoshihiro (2nd time), Ranmaru, and Mitsuhide within 4 minutes of their appearance."
 		}
 	],
 	'Masamune': [
