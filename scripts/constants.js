@@ -382,7 +382,7 @@ const warriors = {
 				"Range: 34"
 			],
 			'Stage': "Stage 5",
-			'Requirement': "Within 12 minutes succeed in the mission 'Escort the engineers to Mt Yamada Garrison', keep the engineers safe until Hideyoshi's plan is succesful and get 400 KOs."
+			'Requirement': "Within 12 minutes succeed in the mission 'Escort the engineers to Mt Yamada Garrison', keep the engineers safe until Hideyoshi's plan is succesful and kill 400 enemies."
 		}
 	],
 	'Okuni': [
