@@ -114,7 +114,7 @@ const warriors = {
 				"Musou Charge: 36",
 				"Range: 35"
 			],
-			'Stage': "Gaiden Stage",
+			'Stage': "Tournament of Champions (Dream)",
 			'Requirement': "Keep Yukimura and Kanetsugu alive. Within 10 minutes from start, defeat Hanzo, Musashi, Kojiro, Yoshihiro, and Masamune. Kojiro and Musashi spawns at south town area, Yoshihiro and Masamune spawns when you defeat Musashi and Kojiro."
 		}
 	],
