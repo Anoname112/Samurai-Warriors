@@ -1495,7 +1495,7 @@ const warriors = {
 				"Dexterity: 53"
 			],
 			'Stage': "The Greatest Swordsmen (Dream)",
-			'Requirement': "Within 13 minutes, make Nobunaga appear and kill 500 enemies. Clear the center area first by defeating 5 enemy generals. Head south and defeat Tadaoki Hosokawa and Gracia, then Hideyoshi. When you're going after Katsuie, take the north-eastern route and defeat Tokugawa officers inside the garrison. Enter the garrison where Katsuie is and defeat him. He then reappears in the southwest along with Hideyoshi. Defeat those two again and Nobunaga appears."
+			'Requirement': "Within 13 minutes, make Nobunaga appear and defeat 500 enemies. Clear the center area first by defeating 5 enemy generals. Head south and defeat Tadaoki Hosokawa and Gracia, then Hideyoshi. When you're going after Katsuie, take the north-eastern route and defeat Tokugawa officers inside the garrison. Enter the garrison where Katsuie is and defeat him. He then reappears in the southwest along with Hideyoshi. Defeat those two again and Nobunaga appears."
 		}
 	],
 	'Katsuie': [
@@ -1526,7 +1526,7 @@ const warriors = {
 				"Musou Charge: 37"
 			],
 			'Stage': "Battle of Shizukagate",
-			'Requirement': "Within 10 minutes, secure all 4 eastern garrisons and kill 300 enemies before your allies think about betraying you."
+			'Requirement': "Within 10 minutes, secure all 4 eastern garrisons and defeat 300 enemies before your allies think about betraying you."
 		}
 	]
 };
