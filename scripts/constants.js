@@ -13,7 +13,7 @@ const warriors = {
 				"Defense: 38"
 			],
 			'Stage': "Siege of Osaka",
-			'Requirement': "Complete all the main missions and kill 1,000 enemies. The supply team will appear in the southwest and head towards the middle eastern gate."
+			'Requirement': "Complete all the main missions and defeat 1,000 enemies. The supply team will appear in the southwest and head towards the middle eastern gate."
 		}, {
 			'Game': "SW",
 			'Name': "Rakan",
