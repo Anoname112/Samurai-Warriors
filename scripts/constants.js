@@ -1061,8 +1061,8 @@ const warriors = {
 				"Defense: 55",
 				"Musou Charge: 37"
 			],
-			'Stage': "Stage 3",
-			'Requirement': "Defeat Yoshihiro and Ginchiyo while everyone is alive."
+			'Stage': "Battle of Kuzegawa",
+			'Requirement': "Defeat Yoshihiro Shimazu & Ginchiyo Tachibana without losing any allied officers. Head straight for Tamehiro Hiratsuka & Yukinaga Konishi, and defeat them. Yoshihiro & Toyohisa Shimazu will appear after this; head straight for them and defeat them. Then help your stranded allies in the center so they don't die. After a while, Ginchiyo will appear near the southeastern garrison."
 		}
 	],
 	'Ieyasu': [
