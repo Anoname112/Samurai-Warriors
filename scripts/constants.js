@@ -1002,7 +1002,7 @@ const warriors = {
 				"Attack: 55",
 				"Ride: 52"
 			],
-			'Stage': "Stage 5",
+			'Stage': "Battle of Sekigahara",
 			'Requirement': "Within 10 minutes, stop all cannons and kill 300 enemies."
 		}
 	],
