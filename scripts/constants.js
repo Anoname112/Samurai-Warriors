@@ -915,7 +915,7 @@ const warriors = {
 				"Musou Charge: 75",
 				"Attack Range: 68"
 			],
-			'Stage': "Battle of Komaki Nagakute",
+			'Stage': "Battle of Komaki-Nagakute",
 			'Requirement': "Fail to defeat Mototada Torii, defeat the Tokugawa Four Heavenly Kings leaving Tadakatsu for last, then defeat Ina. If none of your officers has been defeated, then the supply team will appear from the north-western gate."
 		}, {
 			'Game': "SW2",
@@ -975,7 +975,7 @@ const warriors = {
 				"Ranged Defense: 71",
 				"Attack Range: 59"
 			],
-			'Stage': "Battle of Komaki Nagakute",
+			'Stage': "Battle of Komaki-Nagakute",
 			'Requirement': "Defeat the enemies heading towards Komaki and the main camp and do not let a single enemy past the western gate of mount Komaki. The supply team will appear from the southeastern point."
 		}, {
 			'Game': "SW2",
