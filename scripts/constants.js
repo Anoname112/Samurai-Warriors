@@ -1374,7 +1374,7 @@ const warriors = {
 				"Range: 30"
 			],
 			'Stage': "Tournament of Champions (Dream)",
-			'Requirement': "Achieve 700 kills before Kojiro arrives."
+			'Requirement': "Defeat 700 enemies before Kojiro arrives."
 		}
 	],
 	'Toshiie': [
@@ -1436,7 +1436,7 @@ const warriors = {
 				"Luck: 36"
 			],
 			'Stage': "Nobunaga's Invasion (Dream)",
-			'Requirement': "Within 4 minutes succeed in the mission 'Seize the north cannon fortress' and kill 150 enemies."
+			'Requirement': "Within 4 minutes succeed in the mission 'Seize the north cannon fortress' and defeat 150 enemies."
 		}
 	],
 	'Gracia': [
