@@ -1221,7 +1221,7 @@ const warriors = {
 				"Range: 35"
 			],
 			'Stage': "Conquest for Kyushu",
-			'Requirement': "Within 7 minutes succeed in the the missions to defeat Nobuchika Chosokabe, defeat Hidehisa Sengoku, defeat Ekei Ankokuji, defeat Ginchiyo Tachibana and defeat 300 enemies."
+			'Requirement': "Within 7 minutes succeed in the the missions 'Defeat Nobuchika Chosokabe', 'Defeat Hidehisa Sengoku', 'Defeat Ekei Ankokuji','Defeat Ginchiyo Tachibana' and defeat 300 enemies."
 		}
 	],
 	'Ginchiyo': [
@@ -1284,7 +1284,7 @@ const warriors = {
 				"Musou Charge: 51"
 			],
 			'Stage': "Battle of Hasedo",
-			'Requirement': "Keep all allies alive and within 12 minutes make Mogami forces appear the 2nd time and kill 300 enemies."
+			'Requirement': "Keep all allies alive and within 12 minutes make Mogami forces appear the 2nd time and defeat 300 enemies."
 		}
 	],
 	'Nene': [
