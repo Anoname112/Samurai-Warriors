@@ -1020,7 +1020,7 @@ const warriors = {
 				"Musou Charge: 34"
 			],
 			'Stage': "Kanegasaki Retreat",
-			'Requirement': "Complete the first two missions, then when the mission of eliminating the Asakura officers becomes available kill 1,000 enemies before completing it, all without suffering losses. The supply team will appear in the northwest and heads south."
+			'Requirement': "Complete the first two missions, then when the mission of eliminating the Asakura officers becomes available defeat 1,000 enemies before completing it, all without suffering losses. The supply team will appear in the northwest and heads south."
 		}, {
 			'Game': "SW",
 			'Name': "Aisen",
