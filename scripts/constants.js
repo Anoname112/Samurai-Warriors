@@ -1128,7 +1128,7 @@ const warriors = {
 				"Luck: 52"
 			],
 			'Stage': "Battle of Komaki-Nagakute",
-			'Requirement': "Within 8 minutes succeed in the missions 'Rescue the detached unit', 'Defeat Yasumasa Sakibara and seize control of Iwasaki Castle', defeat Ina, Takakatatsu, and Hanzo, defeat 150 enemies."
+			'Requirement': "Within 8 minutes succeed in the missions 'Rescue the detached unit', 'Defeat Yasumasa Sakibara and seize control of Iwasaki Castle', defeat Ina, Tadakatsu, and Hanzo, defeat 150 enemies."
 		}
 	],
 	'Nagamasa': [
