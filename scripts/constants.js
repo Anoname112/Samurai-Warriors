@@ -1345,7 +1345,7 @@ const warriors = {
 				"Speed: 33"
 			],
 			'Stage': "Kotaro's Insurrection",
-			'Requirement': "Within 11 minutes succeed in the mission 'Halt the cannon fire from the outer ward' and kill 400 enemies. Keep all your allies alive as well (Hanzo, Tadakatsu, Ina and Ieyasu)."
+			'Requirement': "Within 11 minutes succeed in the mission 'Halt the cannon fire from the outer ward' and defeat 400 enemies. Keep all your allies alive as well (Hanzo, Tadakatsu, Ina and Ieyasu)."
 		}
 	],
 	'Musashi': [
