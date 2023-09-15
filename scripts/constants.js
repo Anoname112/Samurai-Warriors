@@ -381,7 +381,7 @@ const warriors = {
 				"Musou Charge: 35",
 				"Range: 34"
 			],
-			'Stage': "Stage 5",
+			'Stage': "Siege of Odani",
 			'Requirement': "Within 12 minutes succeed in the mission 'Escort the engineers to Mt Yamada Garrison', keep the engineers safe until Hideyoshi's plan is succesful and kill 400 enemies."
 		}
 	],
