@@ -1127,8 +1127,8 @@ const warriors = {
 				"Speed: 37",
 				"Luck: 52"
 			],
-			'Stage': "Stage 3",
-			'Requirement': "Within 8 minutes, kill 150 enemies and defeat Tadakatsu, Ina, and Hanzo. Also need to save Nagayoshi Mori."
+			'Stage': "Battle of Komaki-Nagakute",
+			'Requirement': "Within 8 minutes succeed in the missions 'Rescue the detached unit', 'Defeat Yasumasa Sakibara and seize control of Iwasaki Castle', defeat Ina, Takakatatsu, and Hanzo, defeat 150 enemies."
 		}
 	],
 	'Nagamasa': [
