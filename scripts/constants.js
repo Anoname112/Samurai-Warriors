@@ -174,8 +174,8 @@ const warriors = {
 				"Musou Charge: 39",
 				"Range: 57"
 			],
-			'Stage': "Stage 5",
-			'Requirement': "Within 12 minutes, rescue Nobutada Oda and kill 400 enemies."
+			'Stage': "Incident at Honnoji",
+			'Requirement': "Within 12 minutes, rescue Nobutada Oda and defeat 400 enemies."
 		}
 	],
 	'Mitsuhide': [
