@@ -885,7 +885,7 @@ const warriors = {
 				"Range: 38"
 			],
 			'Stage': "Battle of Sekigahara (Dream)",
-			'Requirement': "Defeat Yoshihiro Shimazu, Ginchiyo Tachibana, Tadakatsu Honda, Ina, Hanzo Hattori and Masamune Date within fifteen minutes."
+			'Requirement': "Defeat Yoshihiro Shimazu, Ginchiyo Tachibana, Tadakatsu Honda, Ina, Hanzo Hattori and Masamune Date within 15 minutes."
 		}
 	],
 	'Yoshimoto': [
