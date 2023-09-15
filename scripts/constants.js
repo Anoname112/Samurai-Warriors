@@ -1300,7 +1300,7 @@ const warriors = {
 				"Luck: 38",
 				"Range: 36"
 			],
-			'Stage': "Battle of Komaki Nagakute",
+			'Stage': "Battle of Komaki-Nagakute",
 			'Requirement': "Save the detached force to the east, take Iwasaki Fort, and then defeat Hanzo Hattori, Ina, and Tadakatsu Honda."
 		}, {
 			'Game': "SW2",
