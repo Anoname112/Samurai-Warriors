@@ -1221,7 +1221,7 @@ const warriors = {
 				"Range: 35"
 			],
 			'Stage': "Conquest for Kyushu",
-			'Requirement': "Within 7 minutes succeed in the the missions 'Defeat Nobuchika Chosokabe', 'Defeat Hidehisa Sengoku', 'Defeat Ekei Ankokuji','Defeat Ginchiyo Tachibana' and defeat 300 enemies."
+			'Requirement': "Within 7 minutes succeed in the the missions 'Defeat Nobuchika Chosokabe', 'Defeat Hidehisa Sengoku', 'Defeat Ekei Ankokuji','Defeat Ginchiyo Tachibana' and defeat 300 enemies. (before going to Ekei, ride past Ginchiyo to trigger the conversation)"
 		}
 	],
 	'Ginchiyo': [
