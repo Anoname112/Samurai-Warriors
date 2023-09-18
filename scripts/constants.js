@@ -115,7 +115,7 @@ const warriors = {
 				"Range: 35"
 			],
 			'Stage': "Tournament of Champions (Dream)",
-			'Requirement': "Keep Yukimura and Kanetsugu alive. Within 10 minutes from start, defeat Hanzō, Musashi, Kojiro, Yoshihiro, and Masamune. Kojiro and Musashi spawns at south town area, Yoshihiro and Masamune spawns when you defeat Musashi and Kojiro."
+			'Requirement': "Keep Yukimura and Kanetsugu alive. Within 10 minutes from start, defeat Hanzō, Musashi, Kojirō, Yoshihiro, and Masamune. Kojirō and Musashi spawns at south town area, Yoshihiro and Masamune spawns when you defeat Musashi and Kojirō."
 		}
 	],
 	'Nobunaga': [
@@ -220,7 +220,7 @@ const warriors = {
 				"Range: 37"
 			],
 			'Stage': "Mitsuhide Unites Japan",
-			'Requirement': "When Kotaro Fuma appeared, have at least 4 or more of your units alive until Akechi army's advancing message appears."
+			'Requirement': "When Kotarō Fūma appeared, have at least 4 or more of your units alive until Akechi army's advancing message appears."
 		}, {
 			'Game': "SW2",
 			'Name': "Liberator",
@@ -756,7 +756,7 @@ const warriors = {
 				"Speed: 36"
 			],
 			'Stage': "Siege of Ueda Castle (Dream)",
-			'Requirement': "Defeat all of Kotaro Fuma's clones and Yukimura Sanada, saving Masayuki Sanada for last."
+			'Requirement': "Defeat all of Kotarō Fūma's clones and Yukimura Sanada, saving Masayuki Sanada for last."
 		}, {
 			'Game': "SW2",
 			'Name': "Sudden Death",
@@ -990,7 +990,7 @@ const warriors = {
 				"Musou Charge: 33"
 			],
 			'Stage': "Tournament of Champions",
-			'Requirement': "Prevent Keiji Maeda, Musashi Miyamoto, Kojiro Sasaki, Kotaro Fuma, Hanzō Hattori, Nene, Hideyoshi Hashiba, Ieyasu Tokugawa, and Masamune Date from entering any one of the three garrisons and kill them personally."
+			'Requirement': "Prevent Keiji Maeda, Musashi Miyamoto, Kojirō Sasaki, Kotarō Fūma, Hanzō Hattori, Nene, Hideyoshi Hashiba, Ieyasu Tokugawa, and Masamune Date from entering any one of the three garrisons and kill them personally."
 		}, {
 			'Game': "SW2",
 			'Name': "Demon's Tongue",
@@ -1115,7 +1115,7 @@ const warriors = {
 				"Range: 37"
 			],
 			'Stage': "The Edo Campaign",
-			'Requirement': "Defeat Yoshiaki Mogami. Save Hideie Ukita, who was gullible enough to be lured into a trap. Defeat all the enemy generals around him to successfully rescue him. Now some of your friends will ditch you and turn traitor, so go rebuke them by destroying all of them. That's Hiroie Yoshikawa, Hidemoto Mori, and Hideaki Kobayakawa. After defeated those three, you'll get another mission to return to the inside of the castle and defeat all of the generals there. Once you do, Kotaro Fuma will appear and attempt to sneak attack your base from a secret door that opens in the west. Go and defeat him before he enter your camp. Now defeat the one guard captain inside the east door of the castle to open a door and find a captured ally general, Ekei Ankokuji. Then you'll receive a mission to escort him back to your base camp. Give him the red carpet treatment and destroy everything in your path so he doesn't get distracted and feel obligated to hack at anything nearby (especially all the enemy generals that will ambush you two). Once done, make sure you enter the main castle from the north side (going south will screw up you chance to get the weapon). Defeat the general in the way there and you'll find a sealed door. At the dead end Ekei Ankokuji will suggest another path from the south side. Once this happens, a precious item report will flash on screen and the weapon appears on the bridge between the two sections of the castle. Now go to the south side and cross over to the north part of the castle, finding the weapon along the way."
+			'Requirement': "Defeat Yoshiaki Mogami. Save Hideie Ukita, who was gullible enough to be lured into a trap. Defeat all the enemy generals around him to successfully rescue him. Now some of your friends will ditch you and turn traitor, so go rebuke them by destroying all of them. That's Hiroie Yoshikawa, Hidemoto Mori, and Hideaki Kobayakawa. After defeated those three, you'll get another mission to return to the inside of the castle and defeat all of the generals there. Once you do, Kotarō Fūma will appear and attempt to sneak attack your base from a secret door that opens in the west. Go and defeat him before he enter your camp. Now defeat the one guard captain inside the east door of the castle to open a door and find a captured ally general, Ekei Ankokuji. Then you'll receive a mission to escort him back to your base camp. Give him the red carpet treatment and destroy everything in your path so he doesn't get distracted and feel obligated to hack at anything nearby (especially all the enemy generals that will ambush you two). Once done, make sure you enter the main castle from the north side (going south will screw up you chance to get the weapon). Defeat the general in the way there and you'll find a sealed door. At the dead end Ekei Ankokuji will suggest another path from the south side. Once this happens, a precious item report will flash on screen and the weapon appears on the bridge between the two sections of the castle. Now go to the south side and cross over to the north part of the castle, finding the weapon along the way."
 		}, {
 			'Game': "SW2",
 			'Name': "Heaven's Bliss",
@@ -1344,7 +1344,7 @@ const warriors = {
 				"Defense: 52",
 				"Speed: 33"
 			],
-			'Stage': "Kotaro's Insurrection",
+			'Stage': "Kotarō's Insurrection",
 			'Requirement': "Within 11 minutes succeed in the mission 'Halt the cannon fire from the outer ward' and defeat 400 enemies. Keep all your allies alive as well (Hanzō, Tadakatsu, Ina and Ieyasu)."
 		}
 	],
@@ -1374,7 +1374,7 @@ const warriors = {
 				"Range: 30"
 			],
 			'Stage': "Tournament of Champions (Dream)",
-			'Requirement': "Defeat 700 enemies before Kojiro arrives."
+			'Requirement': "Defeat 700 enemies before Kojirō arrives."
 		}
 	],
 	'Toshiie': [
@@ -1423,7 +1423,7 @@ const warriors = {
 				"Range: 51"
 			],
 			'Stage': "Battle of Kuzegawa",
-			'Requirement': "Within 8 minutes, cut off the enemies' escape routes, and defeat Kojiro, Tadakatsu, Ina, and Hanzō."
+			'Requirement': "Within 8 minutes, cut off the enemies' escape routes, and defeat Kojirō, Tadakatsu, Ina, and Hanzō."
 		}, {
 			'Game': "SW2",
 			'Name': "Fatal Echo",
