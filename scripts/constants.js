@@ -13,7 +13,7 @@ const warriors = {
 				"Defense: 38"
 			],
 			'Stage': "Siege of Osaka",
-			'Requirement': "Complete all the main missions and defeat 1,000 enemies. The supply team will appear in the southwest and head towards the middle eastern gate."
+			'Requirement': "Complete all the main missions and defeat 1000 enemies. The supply team will appear in the southwest and head towards the middle eastern gate."
 		}, {
 			'Game': "SW",
 			'Name': "Rakan",
@@ -87,7 +87,7 @@ const warriors = {
 				"Defense: 56"
 			],
 			'Stage': "Dance of Kyoto",
-			'Requirement': "Defeat 2,000 enemies."
+			'Requirement': "Defeat 2000 enemies."
 		}, {
 			'Game': "SW2",
 			'Name': "Divine Mandible",
@@ -101,7 +101,7 @@ const warriors = {
 				"Ride: 19"
 			],
 			'Stage': "Battle of Hasedo",
-			'Requirement': "Defeat 1,000 enemies."
+			'Requirement': "Defeat 1000 enemies."
 		}, {
 			'Game': "SW2",
 			'Name': "Winged Serpent",
@@ -1020,7 +1020,7 @@ const warriors = {
 				"Musou Charge: 34"
 			],
 			'Stage': "Kanegasaki Retreat",
-			'Requirement': "Complete the first two missions, then when the mission of eliminating the Asakura officers becomes available defeat 1,000 enemies before completing it, all without suffering losses. The supply team will appear in the northwest and heads south."
+			'Requirement': "Complete the first two missions, then when the mission of eliminating the Asakura officers becomes available defeat 1000 enemies before completing it, all without suffering losses. The supply team will appear in the northwest and heads south."
 		}, {
 			'Game': "SW",
 			'Name': "Aisen",
