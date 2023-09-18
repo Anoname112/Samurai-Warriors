@@ -56,7 +56,7 @@ const warriors = {
 				"Ride: 35"
 			],
 			'Stage': "Ueda Castle",
-			'Requirement': "Quickly escort Mino Kaneko to the flood gate. Defeat all three Hanzo clones on the map within three minutes."
+			'Requirement': "Quickly escort Mino Kaneko to the flood gate. Defeat all three Hanzō clones on the map within three minutes."
 		}
 	],
 	'Keiji': [
@@ -115,7 +115,7 @@ const warriors = {
 				"Range: 35"
 			],
 			'Stage': "Tournament of Champions (Dream)",
-			'Requirement': "Keep Yukimura and Kanetsugu alive. Within 10 minutes from start, defeat Hanzo, Musashi, Kojiro, Yoshihiro, and Masamune. Kojiro and Musashi spawns at south town area, Yoshihiro and Masamune spawns when you defeat Musashi and Kojiro."
+			'Requirement': "Keep Yukimura and Kanetsugu alive. Within 10 minutes from start, defeat Hanzō, Musashi, Kojiro, Yoshihiro, and Masamune. Kojiro and Musashi spawns at south town area, Yoshihiro and Masamune spawns when you defeat Musashi and Kojiro."
 		}
 	],
 	'Nobunaga': [
@@ -132,7 +132,7 @@ const warriors = {
 				"Attack Range: 35"
 			],
 			'Stage': "Battle of Okehazama",
-			'Requirement': "Complete the first mission, but fail the second, then eliminate all the enemy officers. When Hanzo appears, reach the Imagawa camp before he does. The supply team will appear in the southwest."
+			'Requirement': "Complete the first mission, but fail the second, then eliminate all the enemy officers. When Hanzō appears, reach the Imagawa camp before he does. The supply team will appear in the southwest."
 		}, {
 			'Game': "SW",
 			'Name': "Dai-Rokuten",
@@ -146,7 +146,7 @@ const warriors = {
 				"Musou Charge: 64"
 			],
 			'Stage': "Rebellion at Honnōji",
-			'Requirement': "Save Oichi and Ranmaru, defeat No and then defeat all the Akechi officers, while keeping both Oichi and Ranmaru alive. The supply team will appear in the southeastern corner."
+			'Requirement': "Save Oichi and Ranmaru, defeat Nō and then defeat all the Akechi officers, while keeping both Oichi and Ranmaru alive. The supply team will appear in the southeastern corner."
 		}, {
 			'Game': "SW2",
 			'Name': "Demon Regalia",
@@ -282,7 +282,7 @@ const warriors = {
 				"Speed: 45"
 			],
 			'Stage': "Final Showdown at Kawanakajima",
-			'Requirement': "Conquer Kaizu Castle, defeat Hanzo before he reaches your camp and then defeat Yukimura before he retakes Kaizu Castle. When the mission appear, charge into the Takeda Camp in less than a minute."
+			'Requirement': "Conquer Kaizu Castle, defeat Hanzō before he reaches your camp and then defeat Yukimura before he retakes Kaizu Castle. When the mission appear, charge into the Takeda Camp in less than a minute."
 		}, {
 			'Game': "SW",
 			'Name': "Bishamonten",
@@ -310,7 +310,7 @@ const warriors = {
 				"Range: 34"
 			],
 			'Stage': "Conquest of Kyushu",
-			'Requirement': "First head up the left side of the map past the geyser area. You should get a scene momentarily where the geyser starts again, blocking your retreat. Make your way over towards Shingen, and on the way defeat Hideyoshi, Koroku Hachisuka, and Hidemasa Hori. Soon Nene and Toshiie will appear; defeat them as well. The next requirement is to head to the enemy home base in the northwest. However, if you have time you should clean up the rest of the map before you do so. Beware though that if you kill all the enemy generals outside, your army will charge the northwest base, and you must enter that base before they do to continue with the weapon's requirements. Once you enter, Yoshihiro and Yoshihisa will reveal themselves to be fakes, and the REAL ones will show up in the center of the map. At the same time No and Nobutada Oda will come towards the northwest fort as well. You'll have all four of those generals (two of them being the fake Shimazus) on you, and you must defeat them all. Finally, Mitsuhide and Ranmaru will show up. Defeat Mitsuhide first, and then Ranmaru. This will cause the supply team to show up from the gate inside Kenshin's camp."
+			'Requirement': "First head up the left side of the map past the geyser area. You should get a scene momentarily where the geyser starts again, blocking your retreat. Make your way over towards Shingen, and on the way defeat Hideyoshi, Koroku Hachisuka, and Hidemasa Hori. Soon Nene and Toshiie will appear; defeat them as well. The next requirement is to head to the enemy home base in the northwest. However, if you have time you should clean up the rest of the map before you do so. Beware though that if you kill all the enemy generals outside, your army will charge the northwest base, and you must enter that base before they do to continue with the weapon's requirements. Once you enter, Yoshihiro and Yoshihisa will reveal themselves to be fakes, and the REAL ones will show up in the center of the map. At the same time Nō and Nobutada Oda will come towards the northwest fort as well. You'll have all four of those generals (two of them being the fake Shimazus) on you, and you must defeat them all. Finally, Mitsuhide and Ranmaru will show up. Defeat Mitsuhide first, and then Ranmaru. This will cause the supply team to show up from the gate inside Kenshin's camp."
 		}, {
 			'Game': "SW2",
 			'Name': "Bishamonten's Fury",
@@ -399,7 +399,7 @@ const warriors = {
 				"Attack Range: 37"
 			],
 			'Stage': "Dance of Ise",
-			'Requirement': "Stay always near to Goemon and defeat Ranmaru, Mitsuhide and Hanzo when you have the chance. Once Hanzo is defeated, the supply team will appear in the central keep and head north-west quickly."
+			'Requirement': "Stay always near to Goemon and defeat Ranmaru, Mitsuhide and Hanzō when you have the chance. Once Hanzō is defeated, the supply team will appear in the central keep and head north-west quickly."
 		}, {
 			'Game': "SW",
 			'Name': "Kishouten",
@@ -549,7 +549,7 @@ const warriors = {
 				"Attack Range: 50"
 			],
 			'Stage': "Showdown at Kawanakajima",
-			'Requirement': "Take Zenkoji and defeat Masamune. Protect Kaizu Castle from Hanzo and defeat Keiji before he reaches the main camp. When the mission appear, reach the Uesugi camp in 60 seconds. The supply team will spawn in the Uesugi camp west to Mount Saijo and heads toward Zenkoji."
+			'Requirement': "Take Zenkoji and defeat Masamune. Protect Kaizu Castle from Hanzō and defeat Keiji before he reaches the main camp. When the mission appear, reach the Uesugi camp in 60 seconds. The supply team will spawn in the Uesugi camp west to Mount Saijo and heads toward Zenkoji."
 		}, {
 			'Game': "SW",
 			'Name': "Shinju",
@@ -859,7 +859,7 @@ const warriors = {
 				"Musou Charge: 62"
 			],
 			'Stage': "Battle of Komaki-Nagakute",
-			'Requirement': "Defeat the front-line troops on Mount Komaki, then defeat Naomasa Ii to save the secondary force, and then defeat Tadakatsu Honda, Tadayo, and Tadasuke Ookubo. When Hanzo appears in your camp, defeat him and the supply team will appear west of Mount Komaki."
+			'Requirement': "Defeat the front-line troops on Mount Komaki, then defeat Naomasa Ii to save the secondary force, and then defeat Tadakatsu Honda, Tadayo, and Tadasuke Ookubo. When Hanzō appears in your camp, defeat him and the supply team will appear west of Mount Komaki."
 		}, {
 			'Game': "SW2",
 			'Name': "Simian Sansetsu",
@@ -885,7 +885,7 @@ const warriors = {
 				"Range: 38"
 			],
 			'Stage': "Battle of Sekigahara (Dream)",
-			'Requirement': "Defeat Yoshihiro Shimazu, Ginchiyo Tachibana, Tadakatsu Honda, Ina, Hanzo Hattori and Masamune Date within 15 minutes."
+			'Requirement': "Defeat Yoshihiro Shimazu, Ginchiyo Tachibana, Tadakatsu Honda, Ina, Hanzō Hattori and Masamune Date within 15 minutes."
 		}
 	],
 	'Yoshimoto': [
@@ -962,7 +962,7 @@ const warriors = {
 				"Speed: 31"
 			],
 			'Stage': "Battle of Kawanakajima",
-			'Requirement': "Capture Hachimanbara, save Yasumasa Sakakibara and assist Hanzo Hattori during his mission, then defeat Keiji Maeda without allied losses. The supply team appears from the southeastern point and heads north."
+			'Requirement': "Capture Hachimanbara, save Yasumasa Sakakibara and assist Hanzō Hattori during his mission, then defeat Keiji Maeda without allied losses. The supply team appears from the southeastern point and heads north."
 		}, {
 			'Game': "SW",
 			'Name': "Enma",
@@ -990,7 +990,7 @@ const warriors = {
 				"Musou Charge: 33"
 			],
 			'Stage': "Tournament of Champions",
-			'Requirement': "Prevent Keiji Maeda, Musashi Miyamoto, Kojiro Sasaki, Kotaro Fuma, Hanzo Hattori, Nene, Hideyoshi Hashiba, Ieyasu Tokugawa, and Masamune Date from entering any one of the three garrisons and kill them personally."
+			'Requirement': "Prevent Keiji Maeda, Musashi Miyamoto, Kojiro Sasaki, Kotaro Fuma, Hanzō Hattori, Nene, Hideyoshi Hashiba, Ieyasu Tokugawa, and Masamune Date from entering any one of the three garrisons and kill them personally."
 		}, {
 			'Game': "SW2",
 			'Name': "Demon's Tongue",
@@ -1128,7 +1128,7 @@ const warriors = {
 				"Luck: 52"
 			],
 			'Stage': "Battle of Komaki-Nagakute",
-			'Requirement': "Within 8 minutes succeed in the missions 'Rescue the detached unit', 'Defeat Yasumasa Sakibara and seize control of Iwasaki Castle', defeat Ina, Tadakatsu, and Hanzo, defeat 150 enemies."
+			'Requirement': "Within 8 minutes succeed in the missions 'Rescue the detached unit', 'Defeat Yasumasa Sakibara and seize control of Iwasaki Castle', defeat Ina, Tadakatsu, and Hanzō, defeat 150 enemies."
 		}
 	],
 	'Nagamasa': [
@@ -1191,7 +1191,7 @@ const warriors = {
 				"Speed: 38"
 			],
 			'Stage': "Battle of Mikatagahara (Dream)",
-			'Requirement': "Within 15 minutes defeat all playable characters. They are Hanzo, Mitsuhide, Katsuie, Tadakatsu, and Hideyoshi. You must complete the missions to get all of the playable characters to show up. Kill Ieyasu when he tries to run the first time."
+			'Requirement': "Within 15 minutes defeat all playable characters. They are Hanzō, Mitsuhide, Katsuie, Tadakatsu, and Hideyoshi. You must complete the missions to get all of the playable characters to show up. Kill Ieyasu when he tries to run the first time."
 		}
 	],
 	'Yoshihiro': [
@@ -1208,7 +1208,7 @@ const warriors = {
 				"Musou Charge: 18"
 			],
 			'Stage': "Breakthrough at Sekigahara",
-			'Requirement': "First defeat a few generals in the center area just to clear things out. Now head towards Mitsunari's position in the south-west to receive a mission to defend him. Defeat all of the generals to succeed. Head towards Sakon in the east to trigger a mission to defend him. Along the way, Ieyasu will probably order Hanzo to charge Mitsunari. If he does so, go down south and intercept Hanzo, and defeat him personally. Yoshihiro will then tell Mitsunari to gather in the center. Take out more generals in the center if you think Mitsunari will have problems. Then return to defending Sakon, which involves defeating the three enemy generals attacking. Then Ieyasu will order Tadakatsu Honda to charge. Defeat him as he comes down south and Yoshihiro will order Sakon to the center. Now go up to the northwest corner, and beat the three enemy generals besieging Ginchiyo's camp. Afterwards Ina will charge to the west, so go and defeat her. Once Ginchiyo reaches the center of the map, the real fun begins. A whole mess of Tokugawa army replacements suddenly appears, surrounding your allies in the general. You'll then get a mission to eliminate the Eastern Army, which basically involves killing every new general on the map."
+			'Requirement': "First defeat a few generals in the center area just to clear things out. Now head towards Mitsunari's position in the south-west to receive a mission to defend him. Defeat all of the generals to succeed. Head towards Sakon in the east to trigger a mission to defend him. Along the way, Ieyasu will probably order Hanzō to charge Mitsunari. If he does so, go down south and intercept Hanzō, and defeat him personally. Yoshihiro will then tell Mitsunari to gather in the center. Take out more generals in the center if you think Mitsunari will have problems. Then return to defending Sakon, which involves defeating the three enemy generals attacking. Then Ieyasu will order Tadakatsu Honda to charge. Defeat him as he comes down south and Yoshihiro will order Sakon to the center. Now go up to the northwest corner, and beat the three enemy generals besieging Ginchiyo's camp. Afterwards Ina will charge to the west, so go and defeat her. Once Ginchiyo reaches the center of the map, the real fun begins. A whole mess of Tokugawa army replacements suddenly appears, surrounding your allies in the general. You'll then get a mission to eliminate the Eastern Army, which basically involves killing every new general on the map."
 		}, {
 			'Game': "SW2",
 			'Name': "Disintegrater",
@@ -1271,7 +1271,7 @@ const warriors = {
 				"Musou Charge: 51"
 			],
 			'Stage': "Last Stand against Ieyasu",
-			'Requirement': "Defeat Masamune Date, Tadakatsu Honda, Hanzo Hattori, and Ina."
+			'Requirement': "Defeat Masamune Date, Tadakatsu Honda, Hanzō Hattori, and Ina."
 		}, {
 			'Game': "SW2",
 			'Name': "Truth & Honor",
@@ -1301,7 +1301,7 @@ const warriors = {
 				"Range: 36"
 			],
 			'Stage': "Battle of Komaki-Nagakute",
-			'Requirement': "Save the detached force to the east, take Iwasaki Fort, and then defeat Hanzo Hattori, Ina, and Tadakatsu Honda."
+			'Requirement': "Save the detached force to the east, take Iwasaki Fort, and then defeat Hanzō Hattori, Ina, and Tadakatsu Honda."
 		}, {
 			'Game': "SW2",
 			'Name': "Soaring Steel",
@@ -1345,7 +1345,7 @@ const warriors = {
 				"Speed: 33"
 			],
 			'Stage': "Kotaro's Insurrection",
-			'Requirement': "Within 11 minutes succeed in the mission 'Halt the cannon fire from the outer ward' and defeat 400 enemies. Keep all your allies alive as well (Hanzo, Tadakatsu, Ina and Ieyasu)."
+			'Requirement': "Within 11 minutes succeed in the mission 'Halt the cannon fire from the outer ward' and defeat 400 enemies. Keep all your allies alive as well (Hanzō, Tadakatsu, Ina and Ieyasu)."
 		}
 	],
 	'Musashi': [
@@ -1423,7 +1423,7 @@ const warriors = {
 				"Range: 51"
 			],
 			'Stage': "Battle of Kuzegawa",
-			'Requirement': "Within 8 minutes, cut off the enemies' escape routes, and defeat Kojiro, Tadakatsu, Ina, and Hanzo."
+			'Requirement': "Within 8 minutes, cut off the enemies' escape routes, and defeat Kojiro, Tadakatsu, Ina, and Hanzō."
 		}, {
 			'Game': "SW2",
 			'Name': "Fatal Echo",
@@ -1513,7 +1513,7 @@ const warriors = {
 				"Musou Charge: 17"
 			],
 			'Stage': "Battle of Okehazama",
-			'Requirement': "Within 10 minutes succeed in the missions 'Defeat Motonobu Okabe', 'Protect Washizu Garrison', 'Protect Marune Garrison', 'Rendezvous with Hideyoshi Hashiba', 'Protect the Peasants' and 'Defeat Hanzo Hattori'. Defeat 400 enemies as well (no time limit)."
+			'Requirement': "Within 10 minutes succeed in the missions 'Defeat Motonobu Okabe', 'Protect Washizu Garrison', 'Protect Marune Garrison', 'Rendezvous with Hideyoshi Hashiba', 'Protect the Peasants' and 'Defeat Hanzō Hattori'. Defeat 400 enemies as well (no time limit)."
 		}, {
 			'Game': "SW2",
 			'Name': "Epoch Makers",
