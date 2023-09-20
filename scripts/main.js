@@ -128,23 +128,25 @@ function render() {
 	}
 	else {
 		for (var i in headers) {
-			str += `<table><tr><th>` + i + `</th>`;
-			for (var j = 0; j < headers[i].length; j++) {
-				str += `<td>` + headers[i][j] + `</td>`;
-			}
-			str += `</tr>`;
-			var index = 0;
-			for (var j in warriors) {
-				if (getWarriorGameList(j).includes(i)) {
-					str += `<tr><td>` + j + `</td>`;
-					for (var k = 0; k < headers[i].length; k++) {
-						str += `<td align="center"><input type="checkbox" id="` + i + `-` + index + `-` + k + `" onchange="check(event)"` + (progress[i][index][k] ? ` checked` : ``) + `></td>`;
-					}
-					str += `</tr>`;
-					index++;
+			if (game.value == 'All' || game.value == i) {
+				str += `<table><tr><th>` + i + `</th>`;
+				for (var j = 0; j < headers[i].length; j++) {
+					str += `<td>` + headers[i][j] + `</td>`;
 				}
+				str += `</tr>`;
+				var index = 0;
+				for (var j in warriors) {
+					if (getWarriorGameList(j).includes(i)) {
+						str += `<tr><td>` + j + `</td>`;
+						for (var k = 0; k < headers[i].length; k++) {
+							str += `<td align="center"><input type="checkbox" id="` + i + `-` + index + `-` + k + `" onchange="check(event)"` + (progress[i][index][k] ? ` checked` : ``) + `></td>`;
+						}
+						str += `</tr>`;
+						index++;
+					}
+				}
+				str += `</table>`;
 			}
-			str += `</table>`;
 		}
 	}
 	
