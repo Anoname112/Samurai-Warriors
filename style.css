@@ -10,10 +10,10 @@ body {
 }
 
 table {
-	margin: 4px;
+	margin: 4px auto;
 	padding: 4px;
 	border-radius: 4px;
-	background-color: #EEEEEE;
+	background-color: #E9E9E9;
 }
 
 td {
