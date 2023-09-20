@@ -5,7 +5,11 @@ var popup;
 var mode;
 var modeGuide = false;
 
-const headers = ['Level', 'Skill', 'Special', '4th', '5th'];
+const headers = {
+	'SW': ['Level', '5th', '6th'],
+	'SW2': ['Level', 'Skill', 'Special', '4th', '5th']
+};
+
 var progress;
 
 window.onload = function () {
@@ -20,11 +24,17 @@ window.onload = function () {
 	
 	if (localStorage['progress']) progress = JSON.parse(localStorage['progress']);
 	else {
-		progress = [];
-		for (var i in warriors) {
-			var arr = [];
-			for (var j = 0; j < headers.length; j++) arr.push(false);
-			progress.push(arr);
+		progress = {};
+		for (var i in headers) {
+			var gArr = [];
+			for (var j in warriors) {
+				if (getWarriorGameList(j).includes(i)) {
+					var wArr = [];
+					for (var j = 0; j < headers[i].length; j++) wArr.push(false);
+					gArr.push(wArr);
+				}
+			}
+			progress[i] = gArr;
 		}
 		localStorage['progress'] = JSON.stringify(progress);
 	}
@@ -40,6 +50,12 @@ function changeMode () {
 	else mode.innerHTML = '<svg xmlns="http://www.w3.org/2000/svg" fill="#FFF" viewBox="0 0 16 16"><path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z"/><path d="m8.93 6.588-2.29.287-.082.38.45.083c.294.07.352.176.288.469l-.738 3.468c-.194.897.105 1.319.808 1.319.545 0 1.178-.252 1.465-.598l.088-.416c-.2.176-.492.246-.686.246-.275 0-.375-.193-.304-.533L8.93 6.588zM9 4.5a1 1 0 1 1-2 0 1 1 0 0 1 2 0z"/></svg>';
 	
 	render();
+}
+
+function getWarriorGameList (name) {
+	var games = [];
+	for (var i = 0; i < warriors[name].length; i++) if (!games.includes(warriors[name][i].Game)) games.push(warriors[name][i].Game);
+	return games;
 }
 
 function eleColor (color) {
@@ -64,7 +80,7 @@ function showGuide (warrior, weapon) {
 
 function check (e) {
 	var id = e.target.id.split('-');
-	progress[id[0]][id[1]] = document.getElementById(e.target.id).checked;
+	progress[id[0]][id[1]][id[2]] = document.getElementById(e.target.id).checked;
 	localStorage['progress'] = JSON.stringify(progress);
 }
 
@@ -111,21 +127,25 @@ function render() {
 		}
 	}
 	else {
-		str += `<table><tr><td></td>`;
-		for (var i = 0; i < headers.length; i++) {
-			str += `<td>` + headers[i] + `</td>`;
-		}
-		str += `</tr>`;
-		var index = 0;
-		for (var i in warriors) {
-			str += `<tr><td>` + i + `</td>`;
-			for (var j = 0; j < headers.length; j++) {
-				str += `<td align="center"><input type="checkbox" id="` + index + `-` + j + `" onchange="check(event)"` + (progress[index][j] ? ` checked` : ``) + `></td>`;
+		for (var i in headers) {
+			str += `<table><tr><th>` + i + `</th>`;
+			for (var j = 0; j < headers[i].length; j++) {
+				str += `<td>` + headers[i][j] + `</td>`;
 			}
 			str += `</tr>`;
-			index++;
+			var index = 0;
+			for (var j in warriors) {
+				if (getWarriorGameList(j).includes(i)) {
+					str += `<tr><td>` + j + `</td>`;
+					for (var k = 0; k < headers[i].length; k++) {
+						str += `<td align="center"><input type="checkbox" id="` + i + `-` + index + `-` + k + `" onchange="check(event)"` + (progress[i][index][k] ? ` checked` : ``) + `></td>`;
+					}
+					str += `</tr>`;
+					index++;
+				}
+			}
+			str += `</table>`;
 		}
-		str += `</table>`;
 	}
 	
 	container.innerHTML = str;
