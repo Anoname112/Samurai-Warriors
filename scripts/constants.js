@@ -162,7 +162,7 @@ const warriors = {
 				"Range: 19"
 			],
 			'Stage': "Battle of Tedorigawa",
-			'Requirement': "Rescue all isolated allied units; Hideyoshi Hashiba, Toshiie Maeda, Nagahide Niwa, Katsuie Shibata and Kazumasa Takigawa."
+			'Requirement': "Rescue all isolated allied units: Hideyoshi Hashiba, Toshiie Maeda, Nagahide Niwa, Katsuie Shibata and Kazumasu Takigawa."
 		}, {
 			'Game': "SW2",
 			'Name': "Muramasa",
