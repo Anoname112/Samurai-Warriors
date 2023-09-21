@@ -1530,3 +1530,8 @@ const warriors = {
 		}
 	]
 };
+
+const headers = {
+	'SW': ['Level', '5th', '6th'],
+	'SW2': ['Level', 'Skill', 'Special', '4th', '5th']
+};
