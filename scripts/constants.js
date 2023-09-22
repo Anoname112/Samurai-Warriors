@@ -1159,7 +1159,7 @@ const warriors = {
 				"Range: 34"
 			],
 			'Stage': "Battle of Kanegasaki",
-			'Requirement': "Escort Kazumasu Isono to the fire attack location within 8 minutes. Defeat 300 enemies. Special crate appears by west gate."
+			'Requirement': "Escort Kazumasa Isono to the fire attack location within 8 minutes. Defeat 300 enemies. Special crate appears by west gate."
 		}
 	],
 	'Sakon': [
