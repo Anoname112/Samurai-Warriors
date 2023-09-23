@@ -21,15 +21,15 @@ window.onload = function () {
 	else {
 		progress = {};
 		for (var i in headers) {
-			var gArr = [];
+			var gameArr = [];
 			for (var j in warriors) {
 				if (getWarriorGameList(j).includes(i)) {
-					var wArr = [];
-					for (var j = 0; j < headers[i].length; j++) wArr.push(false);
-					gArr.push(wArr);
+					var warriorArr = [];
+					for (var j = 0; j < headers[i].length; j++) warriorArr.push(false);
+					gameArr.push(warriorArr);
 				}
 			}
-			progress[i] = gArr;
+			progress[i] = gameArr;
 		}
 		localStorage['progress'] = JSON.stringify(progress);
 	}
