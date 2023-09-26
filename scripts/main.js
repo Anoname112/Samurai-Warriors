@@ -74,7 +74,7 @@ function showGuide (warrior, weapon) {
 }
 
 function check (e) {
-	var id = e.target.id.split('-');
+	var id = e.target.id.split(sprt);
 	progress[id[0]][id[1]][id[2]] = document.getElementById(e.target.id).checked;
 	localStorage['progress'] = JSON.stringify(progress);
 }
@@ -101,7 +101,7 @@ function render() {
 								</div>
 								<div class="wDesc">
 									<div class="wImage">
-										<img src="image/` + warriors[i][j].Game + `-` + i + `-` + warriors[i][j].Rank + `.webp" alt="` + warriors[i][j].Name + `" title="` + i + ` ` + warriors[i][j].Rank + `th Weapon">
+										<img src="image/` + warriors[i][j].Game + sprt + i + sprt + warriors[i][j].Rank + `.webp" alt="` + warriors[i][j].Name + `" title="` + i + ` ` + warriors[i][j].Rank + `th Weapon">
 									</div>
 									<div style="color: ` + eleColor(warriors[i][j].Element) + `;"><b>` + warriors[i][j].Element + `</b></div>
 									Base Attack: ` + warriors[i][j].Base + `
@@ -134,7 +134,7 @@ function render() {
 					if (getWarriorGameList(j).includes(i)) {
 						str += `<tr><td>` + j + `</td>`;
 						for (var k = 0; k < headers[i].length; k++) {
-							str += `<td align="center"><input type="checkbox" id="` + i + `-` + index + `-` + k + `" onchange="check(event)"` + (progress[i][index][k] ? ` checked` : ``) + `></td>`;
+							str += `<td align="center"><input type="checkbox" id="` + i + sprt + index + sprt + k + `" onchange="check(event)"` + (progress[i][index][k] ? ` checked` : ``) + `></td>`;
 						}
 						str += `</tr>`;
 						index++;
