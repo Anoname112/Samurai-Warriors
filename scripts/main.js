@@ -17,7 +17,28 @@ window.onload = function () {
 	};
 	mode = document.getElementById('mode');
 	
-	if (localStorage['progress']) progress = JSON.parse(localStorage['progress']);
+	if (localStorage['progress']) {
+		var headerArr = JSON.parse(localStorage['progress']);
+		
+		for (var i in headers) {
+			if (!headerArr[i]) headerArr[i] = [];
+			
+			var warriorCount = 0;
+			for (var j in warriors) if (getWarriorGameList(j).includes(i)) warriorCount++;
+			
+			while (headerArr[i].length < warriorCount) headerArr[i].push([]);
+			
+			var k = 0;
+			for (var j in warriors) {
+				if (getWarriorGameList(j).includes(i)) {
+					while (headerArr[i][k].length < headers[i].length) headerArr[i][k].push(false);
+					k++;
+				}
+			}
+		}
+		
+		progress = headerArr;
+	}
 	else {
 		progress = {};
 		for (var i in headers) {
@@ -25,7 +46,7 @@ window.onload = function () {
 			for (var j in warriors) {
 				if (getWarriorGameList(j).includes(i)) {
 					var warriorArr = [];
-					for (var j = 0; j < headers[i].length; j++) warriorArr.push(false);
+					for (var k = 0; k < headers[i].length; k++) warriorArr.push(false);
 					gameArr.push(warriorArr);
 				}
 			}
