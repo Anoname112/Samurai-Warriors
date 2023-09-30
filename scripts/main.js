@@ -79,7 +79,7 @@ function check (e) {
 	localStorage['progress'] = JSON.stringify(progress);
 }
 
-function render() {
+function render () {
 	popup.style.display = 'none';
 	
 	var str = ``;
