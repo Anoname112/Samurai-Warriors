@@ -18,6 +18,7 @@ table {
 
 td {
 	min-width: 50px;
+	text-wrap: nowrap;
 }
 
 input[type=checkbox] {
