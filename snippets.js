@@ -1,3 +1,18 @@
+// Create an array of warriors from SW2 with rare weapon's Base Attack, then sort them from highest
+var data = [];
+for (var i in warriors) {
+    for (var j = 0; j < warriors[i].length; j++) {
+		if (warriors[i][j].Game == 'SW2') {
+			data.push({
+				'Name': i,
+				'Base': warriors[i][j].Base
+			});
+            break;
+		}
+	}
+}
+data.sort((a, b) => b.Base - a.Base);
+
 // Create an array of weapons with Attack stat from SW2, then sort them from highest
 var data = [];
 for (var i in warriors) {
