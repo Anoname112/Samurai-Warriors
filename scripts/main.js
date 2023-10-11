@@ -87,7 +87,7 @@ function eleColor (color) {
 
 function showGuide (warrior, weapon) {
 	popup.innerHTML = `<div class="message">
-			<div class="name">` + warriors[warrior][weapon].Name + `</div>
+			<div class="name">` + warriors[warrior][weapon].Game + ` - ` + warriors[warrior][weapon].Name + `</div>
 			<div class="stage">` + warriors[warrior][weapon].Stage + `</div>
 			<div class="requirement">` + warriors[warrior][weapon].Requirement + `</div>
 		</div>`;
@@ -114,6 +114,14 @@ function render () {
 					</div>`;
 				for (var j = 0; j < warriors[i].length; j++) {
 					if (game.value == 'All' || game.value == warriors[i][j].Game) {
+						// Weapon's stats
+						var statStr = '';
+						if (warriors[i][j].Stats.length > 0) {
+							statStr += `<div><div class="stats">`;
+							for (var k = 0; k < warriors[i][j].Stats.length; k++) statStr += `<div class="stat">` + warriors[i][j].Stats[k] + `</div>`;
+							statStr += `</div></div>`;
+						}
+						
 						// Warrior's weapons
 						str += `<div class="weapon" onclick="showGuide('` + i + `', ` + j + `)">
 								<div>
@@ -127,14 +135,7 @@ function render () {
 									<div style="color: ` + eleColor(warriors[i][j].Element) + `;"><b>` + warriors[i][j].Element + `</b></div>
 									Base Attack: ` + warriors[i][j].Base + `
 								</div>
-								<div>
-									<div class="stats">`;
-						for (var k = 0; k < warriors[i][j].Stats.length; k++) {
-							// Weapon's stats
-							str += `<div class="stat">` + warriors[i][j].Stats[k] + `</div>`;
-						}
-						str += `</div>
-								</div>
+								` + statStr + `
 							</div>`;
 					}
 				}
